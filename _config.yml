@@ -34,8 +34,6 @@ social:
     - https://enrenarevardag.se
 
 # Build settings
-timezone: Etc/UTC
-permalink: /:categories/:title/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -57,14 +55,20 @@ collections:
   menu:
     output: true
     permalink: /:path/
+  landingssida:
+    output: true
+    permalink: /:path/
 
 # defaults
+timezone: Europe/Stockholm
+permalink: /:categories/:title/
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      permalink: /:year/:month/:day/:title
   - scope:
       path: ""
       type: "menu"
