@@ -30,19 +30,21 @@ image: /d363ba31-d85f-4072-908f-510e7d33e598.jpeg
 {% endfor %}
 							</section>
 
-						<!-- Two -->
+            <!-- Two -->
+{% for post in site.posts limit: 1 %}
 							<section id="two">
 								<div class="inner">
 									<header class="major">
-										<h2 class="editable">Massa libero</h2>
+                    <h3>Nyheter</h3>
+										<h2 class="editable">{{ post.title }}</h2>
 									</header>
-									<p class="editable">Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+									<p class="editable">{{ post.description }}</p>
 									<ul class="actions">
-										<li><a href="landing.html" class="button next">Get Started</a></li>
+										<li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
 									</ul>
 								</div>
 							</section>
-
+{% endfor %}
 					</div>
 
 				<!-- Contact -->
