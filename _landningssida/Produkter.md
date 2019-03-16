@@ -1,6 +1,7 @@
 ---
 title: Produkter
 description:
-image:
-url: 
+image: /images/produkter.png
+url: /produkter/
 ---
+
