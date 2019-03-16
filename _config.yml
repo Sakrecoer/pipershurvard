@@ -55,7 +55,7 @@ collections:
   menu:
     output: true
     permalink: /:path/
-  landingssida:
+  landningssida:
     output: true
     permalink: /:path/
 
