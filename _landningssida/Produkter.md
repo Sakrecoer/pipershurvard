@@ -1,6 +1,6 @@
 ---
 title: Produkter
-description:
+description: Zedbra
 image: /images/produkter.png
 link: /produkter/
 ---
