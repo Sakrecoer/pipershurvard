@@ -80,3 +80,5 @@ defaults:
       type: "landningssida"
     values:
       layout: "landing"
+sass:
+    sass_dir: /assets/sass/
