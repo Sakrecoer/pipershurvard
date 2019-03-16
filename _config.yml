@@ -51,3 +51,22 @@ pagination:
 # Site Variables:
 boka: https://boka.itsperfect.se/31782333/Kund/Loggain?ReturnUrl=%2F31782333
 clinicare: https://www.beauty-bar.se/produkt-kategori/varumarken/cliniccare/?ref=14
+
+# collection
+collections:
+  menu:
+    output: true
+    permalink: /:path/
+
+# defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "menu"
+    values:
+      layout: "landing"
