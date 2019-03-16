@@ -1,34 +1,11 @@
 ---
 title: Hudvård på Kungsholmen
 description: Unik hudvårdssalong på Kungsholmen i Stockholm. En del av Pipersgatan 30.
+layout: default
 ---
-{% include base.html %}
-<!DOCTYPE HTML>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>{{ page.title }} | {{ site.title }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="{{ base }}/assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="{{ base }}assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
 
 		<!-- Wrapper -->
 			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header" class="alt">
-						<a href="/" class="logo"><strong>Pipers</strong> <span>Hudvård</span></a>
-						<nav>
-							<a href="#menu">Menu</a>
-						</nav>
-					</header>
 
 {% include navigation.html %}
 
@@ -176,32 +153,8 @@ description: Unik hudvårdssalong på Kungsholmen i Stockholm. En del av Pipersg
 						</div>
 					</section>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<div class="inner">
-							<ul class="icons">
-								<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							</ul>
-							<ul class="copyright">
-								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
-							</ul>
-						</div>
-					</footer>
+{% include footer.html %}
 
 			</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+{% include scripts.html %}
