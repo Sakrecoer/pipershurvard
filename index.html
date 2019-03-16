@@ -1,3 +1,8 @@
+---
+title: Hudvård på Kungsholmen
+description: Inklusiv hudvårdssalong på Kungsholmen i Stockholm. En del av Pipersgatan 20.
+---
+{% include base.html %}
 <!DOCTYPE HTML>
 <!--
 	Forty by HTML5 UP
@@ -6,11 +11,11 @@
 -->
 <html>
 	<head>
-		<title>Forty by HTML5 UP</title>
+		<title>{{ page.title }} | {{ site.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="{{ base }}/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="{{ base }}assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -19,37 +24,24 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+						<a href="/" class="logo"><strong>Pipers</strong> <span>Hudvård</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="landing.html">Landing</a></li>
-							<li><a href="generic.html">Generic</a></li>
-							<li><a href="elements.html">Elements</a></li>
-						</ul>
-						<ul class="actions stacked">
-							<li><a href="#" class="button primary fit">Get Started</a></li>
-							<li><a href="#" class="button fit">Log In</a></li>
-						</ul>
-					</nav>
+{% include navigation.html %}
 
 				<!-- Banner -->
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Hi, my name is Forty</h1>
+								<h1>{{ site.title }}</h1>
 							</header>
 							<div class="content">
-								<p>A responsive site template designed by HTML5 UP<br />
-								and released under the Creative Commons.</p>
+								<p>{{ page.description }}</p>
 								<ul class="actions">
-									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+									<li><a href="{{ site.boka }}" class="button next scrolly">Boka Nu!</a></li>
 								</ul>
 							</div>
 						</div>
