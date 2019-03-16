@@ -6,6 +6,7 @@ layout: post
 link: http://pipershudvard.com/2019/02/12/satt-ihop-din-egen-ansiktsbehandling/
 slug: satt-ihop-din-egen-ansiktsbehandling
 title: Sätt ihop din egen ansiktsbehandling!
+description: På pipershudvård kan du sätta ihop din egen ansiktsbehandling utifrån dina behov och din budget.
 wordpress_id: 1433
 categories:
 - Okategoriserade
