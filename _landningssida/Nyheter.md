@@ -2,5 +2,5 @@
 title: Nyheter
 description:
 image:
-url: 
+link: /nyheter/
 ---

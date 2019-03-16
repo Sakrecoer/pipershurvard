@@ -80,4 +80,3 @@ defaults:
       type: "landningssida"
     values:
       layout: "landing"
-      permalink: /:name/
