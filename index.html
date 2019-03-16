@@ -31,20 +31,24 @@ image: /images/ph.jpeg
 							</section>
 
             <!-- Two -->
-{% for post in site.posts limit: 1 %}
-							<section id="two" style="background-image:ur('{{ post.iamge }}';">
+
+							<section id="two" style="background-image:ur('{{ post.image }}';">
 								<div class="inner">
-									<header class="major">
-                    <h3>Nyheter</h3>
-										<h2 class="editable">{{ post.title }}</h2>
-									</header>
-									<p class="editable">{{ post.description }}</p>
-									<ul class="actions">
-										<li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
-									</ul>
+                    <div class="row">
+                    {% for post in site.posts limit: 3 %}
+                  <div class="col-4 col-12-medium">
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.description }}</p>
+                    <ul class="actions">
+                        <li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
+                      </ul>
+                  </div>
+									
+                  {% endfor %}
+                </div>
 								</div>
 							</section>
-{% endfor %}
+
 					</div>
 
 				<!-- Contact -->
