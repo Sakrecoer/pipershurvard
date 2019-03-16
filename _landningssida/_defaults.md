@@ -1,7 +1,7 @@
 ---
 title: 
 description:
-image: 
-date: ''
+image:
+url: 
 category: 
 ---

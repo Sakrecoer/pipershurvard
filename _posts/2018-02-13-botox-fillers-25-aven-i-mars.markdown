@@ -1,0 +1,35 @@
+---
+author: pipershudvard
+comments: false
+date: 2018-02-13 08:17:05+00:00
+layout: post
+link: http://pipershudvard.com/2018/02/13/botox-fillers-25-aven-i-mars/
+slug: botox-fillers-25-aven-i-mars
+title: Botox & fillers 25% även i mars!
+wordpress_id: 681
+categories:
+- Okategoriserade
+---
+
+![1C692877-18F7-4960-B45A-1613B0257928](https://pipershudvard.files.wordpress.com/2018/02/1c692877-18f7-4960-b45a-1613b0257928.jpeg?w=2048)
+
+
+Victoriakliniken förlänger sitt erbjudande! Ni får 25% rabatt på injektionsbehandlingar även i mars!
+
+
+Botox, ett område 1125:- (ord. Pris 1500:-)
+
+Botox, tre områden 3000:- (ord. Pris 4000:-)
+
+Fillers 1ml 3000:- (ord. Pris 4000)
+
+
+[Klicka här för att se datum och tider.](http://pipershudvard.com/botox-fillers-victoriakliniken/)
+
+
+
+
+Ni kan boka via mail till oss, pipershudvard@gmail.com, eller ringa direkt till Victoriakliniken 08-530 210 00.
+
+
+

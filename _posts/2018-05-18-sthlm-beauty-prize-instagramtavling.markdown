@@ -1,0 +1,24 @@
+---
+author: pipershudvard
+comments: false
+date: 2018-05-18 06:27:02+00:00
+layout: post
+link: http://pipershudvard.com/2018/05/18/sthlm-beauty-prize-instagramtavling/
+slug: sthlm-beauty-prize-instagramtavling
+title: Sthlm Beauty Prize & Instagramtävling!
+wordpress_id: 955
+categories:
+- Okategoriserade
+---
+
+![186E417E-BCAD-4E0D-924E-F6806D514521](https://pipershudvard.files.wordpress.com/2018/05/186e417e-bcad-4e0d-924e-f6806d514521.jpeg)
+
+
+Sthlm Beauty Prize, prisutdelning. Stort grattis till Turkos Sweden som tog hem vinsten!
+
+
+![56F30834-7AD5-4042-8808-38D1188BCCA8](https://pipershudvard.files.wordpress.com/2018/05/56f30834-7ad5-4042-8808-38d1188bcca8.jpeg)
+
+Som tack för era röster och all kärlek ❤️ vill vi tävla ut våran ’nomineringspresent’ till 2 utav er, två stycken vouchers på valfri Cliniccarebehandling! (inte tavlan 😆) Vinnaren bokar behandlingarna via Stefanie Bäfvenberg på Mimass AB. All information om hur ni bokar står på vouchern som vi skickar hem. Behandlingarna behöver inte göras hos oss på Pipers, Stefanie kopplar ihop er med en salong i er närhet, men ni är självklart hjärtligt välkomna till oss om ni bor runt Sthlm eller vill ta en tur hit 🌸
+
+För att delta i tävlingen gå in [här](https://instagram.com/p/Bi4W_qfF5fH/) och tagga en vän som du skulle vilja dela priset med, tävlingen avslutas nu på söndag den 20/5 💝
