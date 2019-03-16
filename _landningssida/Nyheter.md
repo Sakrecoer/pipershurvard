@@ -1,5 +1,5 @@
 ---
-title: Produkter
+title: Nyheter
 description:
 image:
 url: 

@@ -68,9 +68,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /:year/:month/:day/:title
+      permalink: /:year/:month/:day/:title/
   - scope:
       path: ""
       type: "menu"
     values:
+      layout: "post"
+      permalink: /:title/
+  - scope:
+      path: ""
+      type: "landningssida"
+    values:
       layout: "landing"
+      permalink: /:name/
