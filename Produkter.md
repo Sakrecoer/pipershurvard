@@ -2,7 +2,7 @@
 title: Produkter
 description: Produkter för hudvård från Clinicare och Doctor Seuss
 image: /images/produkter.png
-link: /produkter/
+permalink: /:name/
 produkter:
   - name:
     image:
