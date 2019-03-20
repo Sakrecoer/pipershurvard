@@ -20,11 +20,11 @@ image: /images/ph.jpeg
 {% for navigate in site.navigation%}
 								<article>
 									<span class="image">
-										<img src="{{ landing.image }}" alt="" />
+										<img src="{{ navigate.image }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="{{ landing.link }}" class="link">{{ landing.title }}</a></h3>
-										<p>{{ landing.description }}</p>
+										<h3><a href="{{ navigate.link }}" class="link">{{ navigate.title }}</a></h3>
+										<p>{{ navigate.description }}</p>
 									</header>
 								</article>
 {% endfor %}
