@@ -1,10 +1,10 @@
 - title: Hem
   link: /
-  image: 
+  image:
   frontpage: false
 - title: Behandlingar
   link: /behandlingar/
-  image: 
+  image:
   frontpage: true
 - title: Produkter
   link: /produkter/
@@ -12,9 +12,9 @@
   frontpage: true
 - title: Vi är Pipers Hudvård
   link: /nyheter/
-  image: 
-  frontpage: true
+  image:
+  frontpage: false
 - title: Hårsalong
   link: 'https://www.pipersgatan.se'
-  image: 
+  image:
   frontpage: true
