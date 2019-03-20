@@ -17,7 +17,7 @@ image: /images/ph.jpeg
 
 						<!-- One -->
 							<section id="one" class="tiles">
-{% for navigate in site.data.navigation %}
+{% for navigate in site.data.navigation %}{% if navigate.frontpage == true %}
 								<article>
 									<span class="image">
 										<img src="{{ navigate.image }}" alt="" />
@@ -27,7 +27,7 @@ image: /images/ph.jpeg
 										<p>{{ navigate.description }}</p>
 									</header>
 								</article>
-{% endfor %}
+{% endif %}{% endfor %}
 							</section>
 
             <!-- Two -->
