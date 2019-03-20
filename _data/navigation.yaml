@@ -4,7 +4,7 @@
   frontpage: false
 - title: Behandlingar
   link: /behandlingar/
-  image:
+  image: /images/behandling.jpeg
   frontpage: true
 - title: Produkter
   link: /produkter/
