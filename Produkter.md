@@ -4,12 +4,14 @@ description: Produkter för hudvård från Clinicare och Doctor Seuss
 image: /images/produkter.png
 permalink: /produkter/
 produkter:
-  - name: Kräm
+  - title: Kräm
     image: /images/banner.jpg
     shoplink: 'https://shop'
-  - name:
+    description: Super Kräm bra for huden
+  - title:
     image:
     shoplink:
+    description:
 layout: landing
 ---
 
