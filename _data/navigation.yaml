@@ -16,5 +16,5 @@
   frontpage: false
 - title: Hårsalong
   link: 'https://www.pipersgatan.se'
-  image:
+  image: /images/pipers.jpg
   frontpage: true
