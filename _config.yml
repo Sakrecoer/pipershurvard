@@ -59,6 +59,8 @@ collections:
   landningssida:
     output: true
     permalink: /:path/
+  behandlingar: 
+    output: true
 
 # defaults
 timezone: Europe/Stockholm

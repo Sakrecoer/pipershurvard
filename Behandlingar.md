@@ -3,10 +3,6 @@ title: Behandlingar
 description: 'Unik hudvård och anstiktsbehandling i Vasastan, Stockholm.'
 image: /images/behandling.jpeg
 permalink: /behandlingar/
-behandlingar:
-  - title: Magic Pot
-    description: Super skönt
-    image: /images/20151220_DSC1848.jpg
 layout: landing
 ---
 
@@ -25,7 +21,7 @@ layout: landing
 
   <!-- Two -->
   <section id="two" class="spotlights">
-{% for behandling in page.behandlingar %}
+{% for behandling in site.behandlingar %}
       <section>
         <a href="{{ site.boka }}" class="image">
           <img src="{{ behandling.image }}" alt="{{ behandling.title }}" data-position="center center" />
