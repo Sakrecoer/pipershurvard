@@ -1,11 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2017-10-24 10:39:35+00:00
-layout: landing
-link: http://pipershudvard.com/ansiktsbehandlingar-magic-pot/
-slug: ansiktsbehandlingar-magic-pot
 title: Ansiktsbehandlingar Magic Pot
+description:
+image:
+permalink: /ansiktsbehandlingar-magic-pot/
 ---
 
 **Magic Pot Facial Powerlift, 60min 1200:-**

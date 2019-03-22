@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2017-10-24 10:39:32+00:00
-layout: landing
-link: http://pipershudvard.com/ansiktsbehandlingar-cliniccare/
-slug: ansiktsbehandlingar-cliniccare
 title: Ansiktsbehandlingar Cliniccare
-wordpress_id: 39
+description:
+image:
+permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
 

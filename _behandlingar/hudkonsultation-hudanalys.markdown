@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2018-07-24 07:25:35+00:00
-layout: landing
-link: http://pipershudvard.com/hudkonsultation-hudanalys/
-slug: hudkonsultation-hudanalys
 title: Hudkonsultation/Hudanalys
-wordpress_id: 1127
+description:
+image:
+permalink: /hudkonsultation-hudanalys/
 ---
 
 **Hudkonsultation/Hudanalys, 30 min 250:-**

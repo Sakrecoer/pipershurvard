@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2017-10-24 10:39:41+00:00
-layout: landing
-link: http://pipershudvard.com/kroppsbehandlingar-magic-pot/
-slug: kroppsbehandlingar-magic-pot
 title: Kroppsbehandlingar Magic Pot
-wordpress_id: 44
+description: 
+image: 
+permalink: /kroppsbehandlingar-magic-pot/
 ---
 
 **Magic Pot djupgående kroppsmassage, 30 min 600:-**

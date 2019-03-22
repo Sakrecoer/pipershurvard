@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2018-02-26 08:51:35+00:00
-layout: landing
-link: http://pipershudvard.com/frans-bryn/
-slug: frans-bryn
 title: Frans & bryn
-wordpress_id: 730
+description:
+image:
+permalink: /frans-bryn/
 ---
 
 **Fransfärg, 30 min 300:-** (som Add-on i ansiktsbehandling 150:-)

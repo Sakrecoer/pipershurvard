@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2017-10-24 10:39:39+00:00
-layout: landing
-link: http://pipershudvard.com/kemisk-peel/
-slug: kemisk-peel
 title: Kemisk Peel
-wordpress_id: 43
+description: 
+image: 
+permalink: /kemisk-peel/
 ---
 
 **Cliniccare Kemisk Peel, 40 min 1500:-**

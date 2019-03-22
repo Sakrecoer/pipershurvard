@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2018-01-11 07:51:59+00:00
-layout: landing
-link: http://pipershudvard.com/botox-fillers-victoriakliniken/
-slug: botox-fillers-victoriakliniken
 title: Botox & Fillers
-wordpress_id: 110
+description:
+image:
+permalink: /botox-fillers-victoriakliniken/
 ---
 
 ![1B3C1E16-FAD5-4E51-BF76-7DB90EF496D4](https://pipershudvard.files.wordpress.com/2018/01/1b3c1e16-fad5-4e51-bf76-7db90ef496d4.jpeg)

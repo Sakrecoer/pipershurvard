@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2018-07-30 09:12:37+00:00
-layout: landing
-link: http://pipershudvard.com/dual-injector/
-slug: dual-injector
 title: Dual Injector
-wordpress_id: 1150
+description: 
+image: 
+permalink: /dual-injector/
 ---
 
 ![B565AB8F-061A-4C19-BE8B-FCF94618360C](https://pipershudvard.files.wordpress.com/2018/01/b565ab8f-061a-4c19-be8b-fcf94618360c.jpeg?w=600)
