@@ -2,7 +2,7 @@
 title: Hudvård på Kungsholmen
 description: Unik hudvårdssalong på Kungsholmen i Stockholm. En del av Pipersgatan 30
 layout: default
-image: /images/ph.jpeg
+image: /images/20160101_DSC2110.jpg
 ---
 
 <!-- Wrapper -->
@@ -17,17 +17,17 @@ image: /images/ph.jpeg
 
 						<!-- One -->
 							<section id="one" class="tiles">
-{% for landing in site.landningssida %}
+{% for navigate in site.data.navigation %}{% if navigate.frontpage == true %}
 								<article>
 									<span class="image">
-										<img src="{{ landing.image }}" alt="" />
+										<img src="{{ navigate.image }}" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="{{ landing.link }}" class="link">{{ landing.title }}</a></h3>
-										<p>{{ landing.description }}</p>
+										<h3><a href="{{ navigate.link }}" class="link">{{ navigate.title }}</a></h3>
+										<p>{{ navigate.description }}</p>
 									</header>
 								</article>
-{% endfor %}
+{% endif %}{% endfor %}
 							</section>
 
             <!-- Two -->
@@ -35,8 +35,9 @@ image: /images/ph.jpeg
 							<section id="two" style="background-image:ur('{{ post.image }}';">
 								<div class="inner">
                     <div class="row">
-                    {% for post in site.posts limit: 3 %}
+                    {% for post in site.posts limit: 1 %}
                   <div class="col-4 col-12-medium">
+                    <h2>Vi är Pipers Hudvård</h2>
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.description }}</p>
                     <ul class="actions">
@@ -51,60 +52,7 @@ image: /images/ph.jpeg
 
 					</div>
 
-				<!-- Contact -->
-					<section id="contact">
-						<div class="inner">
-							<section>
-                <form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-                  <input type="hidden" name="_to" value="public+spamdev@sakrecoer.com">
-                  <input type="text" name="_gotcha" style="display: none;">
-									<div class="fields">
-										<div class="field half">
-											<label for="name">Namn</label>
-											<input type="text" name="name" id="name" required />
-										</div>
-										<div class="field half">
-											<label for="email">E-post</label>
-											<input type="text" name="email" id="email" required />
-										</div>
-										<div class="field">
-											<label for="message">Meddelande</label>
-											<textarea name="message" id="message" rows="6" required></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Skicka" class="primary" /></li>
-										<li><input type="reset" value="Återställ" /></li>
-									</ul>
-								</form>
-							</section>
-							<section class="split">
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-envelope"></span>
-										<h3>Email</h3>
-										<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-phone"></span>
-										<h3>Phone</h3>
-										<span><a href="tel:{{ site.phone }}">{{ site.phone }}</a></span>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon alt fa-home"></span>
-										<h3>Address</h3>
-										<span>1234 Somewhere Road #5432<br />
-										Nashville, TN 00000<br />
-										United States of America</span>
-									</div>
-								</section>
-							</section>
-						</div>
-					</section>
+{% include contact.html %}
 
 {% include footer.html %}
 
