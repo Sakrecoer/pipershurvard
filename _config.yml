@@ -71,14 +71,8 @@ defaults:
       permalink: /:year/:month/:day/:title/
   - scope:
       path: ""
-      type: "menu"
-    values:
+      type: "behandlingar"
+    values: 
       layout: "post"
-      permalink: /:title/
-  - scope:
-      path: ""
-      type: "landningssida"
-    values:
-      layout: "landing"
 sass:
     sass_dir: /assets/sass/
