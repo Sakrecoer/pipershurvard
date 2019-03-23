@@ -1,6 +1,6 @@
 ---
 title: Ansiktsbehandlingar Cliniccare
-description:
+description: Resultatinriktade ansiktsbehandlingar med Cliniccare
 image:
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
