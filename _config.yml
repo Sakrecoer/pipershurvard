@@ -53,12 +53,9 @@ clinicare: https://www.beauty-bar.se/produkt-kategori/varumarken/cliniccare/?ref
 
 # collection
 collections:
-  menu:
-    output: true
-    permalink: /:path/
-  landningssida:
-    output: true
-    permalink: /:path/
+  # landningssida:
+  #   output: true
+  #   permalink: /:path/
   behandlingar: 
     output: true
 
