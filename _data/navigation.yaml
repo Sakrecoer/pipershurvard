@@ -4,11 +4,11 @@
   frontpage: false
 - title: Behandlingar
   link: /behandlingar/
-  image: /images/behandling.jpeg
+  image: /images/behandlingar.jpg
   frontpage: true
 - title: Produkter
   link: /produkter/
-  image: /images/produkter.png
+  image: /images/producters.jpg
   frontpage: true
 - title: Vi är Pipers Hudvård
   link: /nyheter/

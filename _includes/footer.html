@@ -1,16 +1,19 @@
 				<!-- Footer -->
         <footer id="footer">
           <div class="inner">
+            
             <ul class="icons">
-              <li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-              <li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-              <li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-              <li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                <li>
+                    <a href="https://shr.nu/salongsok/?searchstring=pipers+hudvard" target="_blank" rel="noopener noreferrer nofollow" style="border:none;"><img src="/images/SHR.png" alt="SHR logotyp" height="30px;" /></a>
+                  </li>
+              {% for network in site.social %}<li><a href="{{ network.link }}" class="icon alt fa-{{ network.name }}" target="_blank" rel="noopener noreferrer nofollow"><span class="label">{{ network.name }}</span></a></li>{% endfor %}
+              <li></li>
             </ul>
+          
             <ul class="copyright">
-              <li>&copy; {{ site.title }}</li><li>Design: <a href="https://html5up.net">HTML5 UP</a> Jekyllified by <a href="https://set.hallstrom.ch" target="_blank">Set Hallstorm</a></li>
+              <li>&copy; {{ site.title }}</li><li>Design: <a href="https://html5up.net" target="_blank" rel="noopener noreferrer nofollow">HTML5 UP</a> Jekyllified by <a href="https://set.hallstrom.ch" target="_blank">Set Hallstorm</a></li>
             </ul>
           </div>
+
         </footer>
         

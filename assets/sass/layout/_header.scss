@@ -34,7 +34,12 @@
 			font-size: 0.8em;
 			height: inherit;
 			line-height: inherit;
-			padding: 0 1.5em;
+      padding: 0 1.5em;
+      
+      span {
+        position: absolute;
+        top: 0px;
+      }
 
 			strong {
 				@include vendor('transition', (
@@ -133,7 +138,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('animation', 'none');
-			background-color: transparent;
+			// background-color: transparent;
 			box-shadow: none;
 			position: absolute;
 
@@ -184,7 +189,10 @@
 			line-height: 2.75em;
 
 			.logo {
-				padding: 0 1em;
+        padding: 0 1em;
+        img {
+          height: 80px;
+        }
 			}
 
 			nav {
