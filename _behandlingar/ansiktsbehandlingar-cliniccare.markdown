@@ -1,7 +1,7 @@
 ---
 title: Ansiktsbehandlingar Cliniccare
 description: Resultatinriktade ansiktsbehandlingar med Cliniccare
-image: /images/D5F43296-A991-4061-9AEE-62B3099107F5.jpeg
+image: /images/Dan-Karlsson-c39c37f3-7854-4add-80f3-0a8801533283.jpg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
