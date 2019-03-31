@@ -86,22 +86,12 @@ defaults:
       type: "behandlingar"
     values: 
       layout: "post"
-      content: # Content Editor and block Editable Regions
-        uploads_dir: "images/behandlingar"
-        width: 1200
-        height: 300
-        resize_style: "cover"
-        mime_type: "image/jpg"
+      _options:
+        content: # Content Editor and block Editable Regions
+          uploads_dir: "images/behandlingar"
+          width: 1200
+          height: 300
+          resize_style: "cover"
+          mime_type: "image/jpg"
 sass:
     sass_dir: /assets/sass/
-
-
-_options:
-  image: # Front matter field
-    uploads_dir: "images"
-  content: # Content Editor and block Editable Regions
-    uploads_dir: "images/behandlingar"
-    width: 1200
-    height: 300
-    resize_style: "cover"
-    mime_type: "image/jpg"
