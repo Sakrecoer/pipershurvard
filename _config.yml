@@ -91,5 +91,7 @@ defaults:
           width: 1200
           height: 400
           resize_style: cover
+          mime_type: "image/jpeg"
+          expandable: true
 sass:
     sass_dir: /assets/sass/
