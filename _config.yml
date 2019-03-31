@@ -83,15 +83,15 @@ defaults:
       _options:
         content:
           uploads_dir: "images/behandlingar"
-          width: 1200
-          height: 400
+          width: "1200"
+          height: "400"
           resize_style: "cover"
         image:
           uploads_dir: "images/behandlingar"
-          width: 1200
-          height: 400
-          resize_style: cover
+          width: "1200"
+          height: "400"
+          resize_style: "cover"
           mime_type: "image/jpeg"
-          expandable: true
+          expandable: "true"
 sass:
     sass_dir: /assets/sass/
