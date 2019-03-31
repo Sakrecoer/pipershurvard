@@ -1,7 +1,7 @@
 ---
 title: Kemisk Peel
 description:
-image: /EEB1CA06-E778-4833-BDFC-C9CA985A9216.jpeg
+image: /images/20151220_DSC1848.jpg
 permalink: /kemisk-peel/
 ---
 
