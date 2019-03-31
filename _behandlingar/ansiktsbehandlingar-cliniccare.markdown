@@ -1,7 +1,7 @@
 ---
 title: Ansiktsbehandlingar Cliniccare
 description: Resultatinriktade ansiktsbehandlingar med Cliniccare
-image: /images/behandlingar/smeria.png
+image: /images/behandlingar/a0167219696-10.jpg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
