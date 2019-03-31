@@ -1,7 +1,7 @@
 ---
 title: Dual Injector
-description: 
-image: 
+description:
+image: /67267BCB-B2A1-4206-8667-2F4BA01E7140.jpeg
 permalink: /dual-injector/
 ---
 
