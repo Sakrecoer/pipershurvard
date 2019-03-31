@@ -68,7 +68,7 @@ collections:
         width: 1200
         height: 300
         resize_style: "cover"
-        mime_type: "image/jpg"
+        mime_type: "image/jpeg"
 
 # defaults
 uploads_dir: "uploads"
@@ -92,6 +92,6 @@ defaults:
           width: 1200
           height: 300
           resize_style: "cover"
-          mime_type: "image/jpg"
+          mime_type: "image/jpeg"
 sass:
     sass_dir: /assets/sass/
