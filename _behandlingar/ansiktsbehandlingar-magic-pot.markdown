@@ -1,7 +1,7 @@
 ---
 title: Ansiktsbehandlingar Magic Pot
 description:
-image: /D8472A74-25F9-4207-A815-02A659D037A5.jpeg
+image: /images/screenshot-at-2019-03-29-14-04-14.png
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
 
