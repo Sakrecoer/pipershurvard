@@ -83,7 +83,7 @@ defaults:
       resize_style: cover
       _options:
         image: # Front matter field
-        uploads_dir: "images/behandlingar"
+          uploads_dir: "images/behandlingar"
 sass:
     sass_dir: /assets/sass/
 
