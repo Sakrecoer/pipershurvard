@@ -64,7 +64,6 @@ collections:
     output: true
 
 # defaults
-uploads_dir: "uploads"
 timezone: Europe/Stockholm
 permalink: /:categories/:title/ 
 defaults:
@@ -83,6 +82,7 @@ defaults:
       layout: "post"
       _options:
         content:
+          uploads_dir: "images/behandlingar"
           width: 1200
           height: 400
           resize_style: cover
