@@ -71,6 +71,7 @@ collections:
         mime_type: "image/jpg"
 
 # defaults
+uploads_dir: "uploads"
 timezone: Europe/Stockholm
 permalink: /:categories/:title/ 
 defaults:
