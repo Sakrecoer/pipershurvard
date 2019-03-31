@@ -78,5 +78,16 @@ defaults:
       type: "behandlingar"
     values: 
       layout: "post"
+      width: 1024
+      height: 360
+      resize_style: cover
+      _options:
+        image: # Front matter field
+        uploads_dir: "images/behandlingar"
 sass:
     sass_dir: /assets/sass/
+
+
+_options:
+  image: # Front matter field
+    uploads_dir: "images"
