@@ -1,7 +1,7 @@
 ---
 title: Ansiktsbehandlingar Magic Pot
 description:
-image: /images/screenshot-at-2019-03-29-14-04-14.png
+image: /uploads/bromma-flyttstadning.jpg
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
 
