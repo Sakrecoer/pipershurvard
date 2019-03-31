@@ -74,13 +74,15 @@ uploads_dir: "uploads"
 timezone: Europe/Stockholm
 permalink: /:categories/:title/ 
 defaults:
-  - scope:
+  - 
+    scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
       permalink: /:year/:month/:day/:title/
-  - scope:
+  - 
+    scope:
       path: ""
       type: "behandlingar"
     values: 
