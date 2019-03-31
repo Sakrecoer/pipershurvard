@@ -62,6 +62,13 @@ collections:
   #   permalink: /:path/
   behandlingar: 
     output: true
+    _options:
+      content: # Content Editor and block Editable Regions
+        uploads_dir: "images/behandlingar"
+        width: 1200
+        height: 300
+        resize_style: "cover"
+        mime_type: "image/jpg"
 
 # defaults
 timezone: Europe/Stockholm
