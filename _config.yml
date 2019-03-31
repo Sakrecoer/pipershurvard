@@ -90,7 +90,7 @@ defaults:
           uploads_dir: "images/behandlingar"
           width: 1200
           height: 400
-          resize_style: contain
+          resize_style: cover
           mime_type: "image/jpeg"
           expandable: true
 sass:
