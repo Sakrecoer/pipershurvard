@@ -65,7 +65,7 @@ collections:
 
 # defaults
 timezone: Europe/Stockholm
-permalink: /:categories/:title/
+permalink: /:categories/:title/ 
 defaults:
   - scope:
       path: ""
@@ -78,12 +78,14 @@ defaults:
       type: "behandlingar"
     values: 
       layout: "post"
-      width: 1024
-      height: 360
-      resize_style: cover
       _options:
-        image: # Front matter field
-        uploads_dir: "images/behandlingar"
+        content: # Content Editor and block Editable Regions
+          uploads_dir: "images/behandlingar"
+          width: 1200
+          height: 300
+          resize_style: "cover"
+          mime_type: "image/jpg"
+
 sass:
     sass_dir: /assets/sass/
 
