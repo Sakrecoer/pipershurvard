@@ -1,7 +1,9 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Forty by HTML5 UP
+# html5up.net | @ajlkn
 
+## Jekyllified by @sakrecoer
+
+## Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
 creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
