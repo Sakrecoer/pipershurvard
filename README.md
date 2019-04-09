@@ -1,7 +1,5 @@
 # Forty by HTML5 UP
-# html5up.net | @ajlkn
-
-## Jekyllified by @sakrecoer
+## html5up.net by @ajlkn | Jekyllified by @sakrecoer
 
 ## Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -11,19 +9,12 @@ set up to smoothly transition to secondary landing pages (for which a separate p
 template is provided), and includes a number of neat effects (check out the menu!),
 extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Demo images* courtesy of ajlkn
 
-(* = not included)
-
-AJ
 aj@lkn.io | @ajlkn
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
@@ -32,3 +23,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jekyll: https://jekyllrb.com/
+		
