@@ -6,63 +6,59 @@ image: /images/salongen.jpg
 ---
 
 <!-- Wrapper -->
-			<div id="wrapper">
+<div id="wrapper">
 
 {% include navigation.html %}
-
 {% include banner.html %}
 
-				<!-- Main -->
-					<div id="main">
+  <!-- Main -->
+  <div id="main">
 
-						<!-- One -->
-							<section id="one" class="tiles">
-{% for navigate in site.data.navigation %}{% if navigate.frontpage == true %}
-								<article>
-									<span class="image">
-										<img src="{{ navigate.image }}" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="{{ navigate.link }}" class="link">{{ navigate.title }}</a></h3>
-									</header>
-								</article>
-{% endif %}{% endfor %}
-                <article>
-                  <span class="image">
-                    <img src="/images/SHR-Logga_1.png" alt="SHR Loggotyp" />
-                  </span>
-                  <header class="major">
-                    <h3><a href="{{ site.boka }}" class="link">Boka Nu!</a></h3>
-                  </header>
-                </article>
-							</section>
+    <!-- One -->
+    <section id="one" class="tiles">
+      {% for navigate in site.data.navigation %}{% if navigate.frontpage == true %}
+      <article>
+        <span class="image">
+          <img src="{{ navigate.image }}" alt="" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ navigate.link }}" class="link">{{ navigate.title }}</a></h3>
+        </header>
+      </article>
+      {% endif %}{% endfor %}
+      <article>
+        <span class="image">
+          <img src="/images/SHR-Logga_1.png" alt="SHR Loggotyp" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ site.boka }}" class="link">Boka Nu!</a></h3>
+        </header>
+      </article>
+    </section>
 
-            <!-- Two -->
+    <!-- Two -->
 
-							<section id="two" style="background-image:ur('{{ post.image }}';">
-								<div class="inner">
-                    <div class="row">
-                    {% for post in site.posts limit: 1 %}
-                  <div class="col-12-medium">
-                    <h2>Vi är Pipers Hudvård</h2>
-                    <h3>{{ post.title }}</h3>
-                    <p>{{ post.description }}</p>
-                    <ul class="actions">
-                        <li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
-                      </ul>
-                  </div>
-									
-                  {% endfor %}
-                </div>
-								</div>
-							</section>
+    <section id="two" style="background-image:ur('{{ post.image }}';">
+      <div class="inner">
+        <div class="row">
+          {% for post in site.posts limit: 1 %}
+          <div class="col-12-medium">
+            <h2>Vi är Pipers Hudvård</h2>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.description }}</p>
+            <ul class="actions">
+              <li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
+            </ul>
+          </div>
 
-					</div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+
+  </div>
 
 {% include contact.html %}
-
 {% include footer.html %}
 
-			</div>
-
-
+</div>
