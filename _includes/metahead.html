@@ -44,12 +44,8 @@
 
 {% if page.url == '/' %}
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ site.url }}" />{% else %}
-<meta property="og:type" content="article" />
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />{% endif %}
-
-{% for social in site.social %}
-<meta property="og:see_also" content="{{ social.link }}" />
+<meta property="og:url" content="{{ site.url }}" />{% else %}<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />{% endif %}{% for social in site.social %}<meta property="og:see_also" content="{{ social.link }}" />
 {% endfor %}
 
 <!-- Twitter Card -->
