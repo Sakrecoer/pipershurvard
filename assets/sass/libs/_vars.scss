@@ -20,8 +20,9 @@
 
 // Font.
 	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
-		family-fixed:		('Courier New', monospace),
+		family:				('Alegreya Sans', Helvetica, sans-serif),
+    family-fixed:		('Courier New', monospace),
+    family-title: ('Montserrat', Helvetica, sans-serif),
 		weight:				300,
 		weight-bold:		600,
 		letter-spacing:		0.025em,
@@ -30,18 +31,19 @@
 
 // Palette.
 	$palette: (
-		bg:					#f9faf9,
-		bg-alt:				#ffffff,
+		bg:					#EFE3D3,
+		bg-alt:				#fff,
 		fg:					#0f0f0f,
 		fg-bold:			#2d2e2d,
 		fg-light:			rgb(50, 53, 51),
 		border:				rgb(39, 48, 41),
 		border-bg:			#958b8c,
 		highlight:			#0ad6ff,
-		accent1:			#cd5676,
-		accent2:			#576c43,
-		accent3:			#958b8c,
-		accent4:			#0ad6ff,
+		accent1:			#A5AA94,
+		accent2:			#C4C9B2,
+		accent3:			#F1CDB7,
+		accent4:			#EF9D87,
 		accent5:			#958b8c,
-		accent6:			#958b8c
+    accent6:			#958b8c,
+    footer:         #ffffff
 	);

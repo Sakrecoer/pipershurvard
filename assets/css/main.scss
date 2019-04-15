@@ -7,7 +7,14 @@
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
 @import 'libs/cloudset';
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/assets/fonts/Montserrat/Montserrat-Regular.ttf');
+}
+@font-face {
+	font-family: 'Alegerya Sans';
+	src: url('/assets/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf');
+}
 
 /*
 	Forty by HTML5 UP

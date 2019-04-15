@@ -7,8 +7,10 @@
 /* Contact */
 
 	#contact {
-		border-bottom: solid 1px _palette(border);
-		overflow-x: hidden;
+    border-bottom: solid 1px _palette(border);
+    border-top: solid 1px _palette(border);
+    overflow-x: hidden;
+    background-color: _palette(bg-alt);
 
 		> .inner {
 			@include vendor('display', 'flex');
