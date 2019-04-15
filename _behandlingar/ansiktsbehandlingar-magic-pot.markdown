@@ -1,7 +1,7 @@
 ---
 title: Ansiktsbehandlingar Magic Pot
 description:
-image: ''
+image: '/images/20151220_DSC1848.jpg'
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
 
