@@ -1,7 +1,7 @@
 ---
 title: Kemisk Peel
 description:
-image: /images/20151220_DSC1848.jpg
+image: /images/behandlingar/kemiskpeel.jpg
 permalink: /kemisk-peel/
 ---
 
@@ -13,7 +13,9 @@ permalink: /kemisk-peel/
 
 En behandlingskur där du får alla våra mest kraftfulla ansiktsbehandlingar i ett paket. Denna kur passar alla hudtyper och är för dig som behöver en rejäl fuktboost, lyster och en ordentlig uppfräschning.
 
-1:a behandlingen, Kemisk Peel2:a behandlingen, [Microneedling](http://pipershudvard.com/microneedling/)3:e behandlingen, [Magic Pot Facial Powerlift](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/)
+- 1:a behandlingen, Kemisk Peel
+- 2:a behandlingen, [Microneedling](http://pipershudvard.com/microneedling/)
+- 3:e behandlingen, [Magic Pot Facial Powerlift](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/)
 
 Pris 4500:-
 

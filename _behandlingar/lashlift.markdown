@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2018-01-11 07:46:00+00:00
-layout: landing
-link: http://pipershudvard.com/lashlift/
-slug: lashlift
 title: Lash Lift
-wordpress_id: 108
+description:
+image: /images/behandlingar/lashlift.jpg
+permalink: /lashlift/
 ---
 
 ### Elleebana One Shot Lash Lift

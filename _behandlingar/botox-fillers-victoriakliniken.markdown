@@ -1,7 +1,7 @@
 ---
 title: Botox & Fillers
 description:
-image: ''
+image: '/images/behandlingar/botoxfillers.jpg'
 permalink: /botox-fillers-victoriakliniken/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Dual Injector
 description:
-image: ''
+image: '/images/behandlingar/dualinjector.jpg'
 permalink: /dual-injector/
 ---
 

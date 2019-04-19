@@ -1,12 +1,8 @@
 ---
-author: pipershudvard
-comments: false
-date: 2017-10-24 10:39:37+00:00
-layout: landing
-link: http://pipershudvard.com/microneedling/
-slug: microneedling
 title: Microneedling
-wordpress_id: 42
+description:
+image: /images/behandlingar/microneedling.jpg
+permalink: /microneedling/
 ---
 
 **Cliniccare Microneedling face 2250:-**

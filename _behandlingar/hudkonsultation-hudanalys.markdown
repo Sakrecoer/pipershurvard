@@ -1,7 +1,7 @@
 ---
 title: Hudkonsultation/Hudanalys
 description:
-image:
+image: /images/behandlingar/konsultation.jpg
 permalink: /hudkonsultation-hudanalys/
 ---
 

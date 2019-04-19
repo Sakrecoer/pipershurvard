@@ -23,7 +23,7 @@ layout: landing
   <section id="two" class="spotlights">
 {% for behandling in site.behandlingar %}
       <section>
-        <a href="{{ site.boka }}" class="image">
+        <a href="{{ behandling.url }}" class="image">
           <img src="{{ behandling.image }}" alt="{{ behandling.title }}" data-position="center center" />
         </a>
         <div class="content">
