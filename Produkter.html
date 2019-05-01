@@ -150,12 +150,13 @@ layout: landing
         <div class="inner">
           <header class="major">
             <h3>{{ produkt.title }}</h3>
+            <p>{{ produkt.category }}</p>
           </header>
           <p>{{ produkt.description }}</p>
           <h4>{{ produkt.pris }}</h4>
           <ul class="actions">
-            <li><a href="{{ produkt.shoplink }}" class="button editable">Läs mer</a></li>
-            <li><a href="{{ produkt.shoplink }}" class="button primary editable">Lägg i varukorg</a></li>
+            <li class="editable"><a href="{{ produkt.shoplink }}" class="button">Läs mer</a></li>
+            <li class="editable"><a href="{{ produkt.shoplink }}" class="button primary">Lägg i varukorg</a></li>
           </ul>
         </div>
       </div>
