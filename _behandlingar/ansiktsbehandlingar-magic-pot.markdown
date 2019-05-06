@@ -69,7 +69,7 @@ Pris 4500:- (Ord. Pris 4950:-)
 
 Hela kurpriset betalas vid första behandlingstillfället.
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
+### [TILL BOKNING](/bokning/)
 
 ![16A67B44-1972-4BA5-BF31-1327F80827DC](https://pipershudvard.files.wordpress.com/2018/01/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)![6AD3F1F2-8EDE-4649-B20B-CD235D480554](https://pipershudvard.files.wordpress.com/2018/01/6ad3f1f2-8ede-4649-b20b-cd235d480554.jpeg?w=510)
 
@@ -127,7 +127,7 @@ Resultaten av Magic pot behandlingar innebär:
 
 
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
+### [TILL BOKNING](/bokning/)
 
 ![16A67B44-1972-4BA5-BF31-1327F80827DC](https://pipershudvard.files.wordpress.com/2018/01/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
 

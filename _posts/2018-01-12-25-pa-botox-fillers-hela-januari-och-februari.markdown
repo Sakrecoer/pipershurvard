@@ -34,4 +34,4 @@ Antal ml beror på önskat resultat och bestäms efter konsultation.
 [Tider för januari och februari hittar ni här.](http://pipershudvard.com/botox-fillers-victoriakliniken/)
 
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
+### [TILL BOKNING](/bokning/)

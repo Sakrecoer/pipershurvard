@@ -49,7 +49,7 @@ Till samtliga behandlingar kan du lägga till en eller fler utav våra Add-ons
 
 • Brynformning inkl brynfärg 250:-
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
+### [TILL BOKNING](/bokning/)
 
 ![88592A92-8F37-401D-A76D-7E7843669234](https://pipershudvard.files.wordpress.com/2017/10/88592a92-8f37-401d-a76d-7e7843669234.jpeg?w=600)
 

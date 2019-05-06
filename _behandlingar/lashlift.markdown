@@ -28,7 +28,7 @@ Lash Dose appliceras efter en Lash Lift eller [färgning av fransar och bryn](ht
 
 
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
+### [TILL BOKNING](/bokning/)
 
 
 

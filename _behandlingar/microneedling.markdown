@@ -40,7 +40,7 @@ Pris 4500:-
 Hela kurpriset betalas vid första behandlingstillfället.
 
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
+### [TILL BOKNING](/bokning/)
 
 
 ![4349D29E-3F47-423D-8C5A-A73407A0B80D](https://pipershudvard.files.wordpress.com/2018/01/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)

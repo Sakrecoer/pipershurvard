@@ -19,6 +19,18 @@
             <textarea name="message" id="message" rows="6" required></textarea>
           </div>
         </div>
+
+        <div>
+          <input type="checkbox" name="consent" id="consent" required class="css-checkbox lrg klaus" /><label
+            for="consent" class="css-label lrg klaus">I agree with
+            {% if page.url == '/privacy-policy/' %} this privacy policy.
+            {% else %} the <a href="/privacy-policy/">privacy policy.</a>
+            {% endif %}</label>
+        </div>
+        <div>
+          <input type="checkbox" name="news" id="news" class="css-checkbox lrg klaus" /><label for="news"
+            class="css-label lrg klaus">Send me news!</label>
+        </div>
         <ul class="actions">
           <li><input type="submit" value="Skicka" class="primary" /></li>
           <li><input type="reset" value="Återställ" /></li>
@@ -53,4 +65,3 @@
   </div>
 </section>
 <!-- END contact.html -->
-
