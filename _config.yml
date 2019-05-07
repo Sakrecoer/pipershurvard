@@ -55,6 +55,7 @@ pagination:
 # Site Variables:
 boka: https://boka.itsperfect.se/31782333/Kund/Loggain?ReturnUrl=%2F31782333
 clinicare: https://www.beauty-bar.se/partner/pipers-hudvard/
+victoria: https://www.victoriakliniken.com/webbokning-pipers/#city=0&locations=4,5,9&activity=null&caregivers=all
 
 # collection
 collections:
