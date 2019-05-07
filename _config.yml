@@ -95,4 +95,4 @@ defaults:
           mime_type: "image/jpeg"
           expandable: "true"
 sass:
-    sass_dir: /assets/sass/
+  sass_dir: /assets/sass/
