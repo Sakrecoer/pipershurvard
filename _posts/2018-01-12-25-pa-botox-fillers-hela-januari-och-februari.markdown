@@ -1,11 +1,11 @@
 ---
-author: pipershudvard
-comments: false
+image: /images/arkivbilder/644ad092-59d0-4688-8531-7d6c7d7debfe.jpeg
 date: 2018-01-12 12:12:06+00:00
 layout: post
 link: http://pipershudvard.com/2018/01/12/25-pa-botox-fillers-hela-januari-och-februari/
 slug: 25-pa-botox-fillers-hela-januari-och-februari
 title: 25 % på botox & fillers hela januari och februari!
+description: Injektionssköterska från Victoriakliniken kommer till Pipers Hudvård
 wordpress_id: 366
 categories:
 - Okategoriserade
