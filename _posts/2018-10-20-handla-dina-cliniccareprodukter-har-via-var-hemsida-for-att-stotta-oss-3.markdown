@@ -1,12 +1,10 @@
 ---
-author: pipershudvard
-comments: false
+title: Handla dina Cliniccareprodukter här via vår hemsida för att stötta oss <3
+description: Nu kan du handla Cliniccare på nätet, men ändå stötta din lokala hudvårdssalong!
+image: /images/arkivbilder/80698409-027c-4a48-9ac0-84b3513970ac.jpeg
 date: 2018-10-20 08:12:54+00:00
 layout: post
-link: http://pipershudvard.com/2018/10/20/handla-dina-cliniccareprodukter-har-via-var-hemsida-for-att-stotta-oss-3/
 slug: handla-dina-cliniccareprodukter-har-via-var-hemsida-for-att-stotta-oss-3
-title: Handla dina Cliniccareprodukter här via vår hemsida för att stötta oss <3
-wordpress_id: 1254
 categories:
 - Okategoriserade
 ---

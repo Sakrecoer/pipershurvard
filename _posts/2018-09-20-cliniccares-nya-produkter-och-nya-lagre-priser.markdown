@@ -1,19 +1,15 @@
 ---
-author: pipershudvard
-comments: true
-date: 2018-09-20 18:33:17+00:00
-layout: post
-link: http://pipershudvard.com/2018/09/20/cliniccares-nya-produkter-och-nya-lagre-priser/
-slug: cliniccares-nya-produkter-och-nya-lagre-priser
 title: Cliniccares nya produkter och nya (lägre) priser!
-wordpress_id: 1216
+date: 2018-09-20 18:33:17+00:00
+description: Svenska hudvårdsmärket Cliniccare förstärker nu sin plats på den globala skönhetsmarknaden som ett av marknadens mest effektiva hudvårdsserier med en  uppdaterad och mer resultatinriktad hudvårdsserie.
+image: /images/arkivbilder/19897110-65df-4cb9-8860-f990b6eadd75.jpeg
+layout: post
+slug: cliniccares-nya-produkter-och-nya-lagre-priser
 categories:
 - Okategoriserade
 ---
 
 Svenska hudvårdsmärket Cliniccare förstärker nu sin plats på den globala skönhetsmarknaden som ett av marknadens mest effektiva hudvårdsserier med en  uppdaterad och mer resultatinriktad hudvårdsserie.
-
-![19897110-65DF-4CB9-8860-F990B6EADD75](https://pipershudvard.files.wordpress.com/2018/07/19897110-65df-4cb9-8860-f990b6eadd75.jpeg?w=600)
 
 Cliniccare **X3M **EGF.
 

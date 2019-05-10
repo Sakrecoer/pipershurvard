@@ -1,20 +1,13 @@
 ---
-author: pipershudvard
-comments: false
+title: Power Trio, ny behandlingskur!
+description: 'Ny behandlingskur där du får alla våra mest kraftfulla ansiktsbehandlingar'
+image: /images/arkivbilder/8283c051-9001-47de-b44c-5168862ef85b.jpeg
 date: 2018-01-19 09:57:12+00:00
 layout: post
-link: http://pipershudvard.com/2018/01/19/power-trio-ny-behandlingskur/
 slug: power-trio-ny-behandlingskur
-title: Power Trio, ny behandlingskur!
-wordpress_id: 581
 categories:
 - Okategoriserade
 ---
-
-#### ![8283C051-9001-47DE-B44C-5168862EF85B](https://pipershudvard.files.wordpress.com/2018/01/8283c051-9001-47de-b44c-5168862ef85b.jpeg?w=2048)
-
-
-
 
 #### Power Trio, vår nya behandlingskur!
 

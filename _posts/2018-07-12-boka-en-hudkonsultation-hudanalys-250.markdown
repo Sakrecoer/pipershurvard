@@ -5,7 +5,7 @@ date: 2018-07-12 09:56:34+00:00
 layout: post
 link: http://pipershudvard.com/2018/07/12/boka-en-hudkonsultation-hudanalys-250/
 slug: boka-en-hudkonsultation-hudanalys-250
-title: Boka en Hudkonsultation/hudanalys 250:-
+title: Boka en Hudkonsultation / hudanalys 250:-
 wordpress_id: 1064
 categories:
 - Okategoriserade

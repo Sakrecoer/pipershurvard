@@ -1,21 +1,14 @@
 ---
-author: pipershudvard
-comments: false
+title: Happy Hour hela November!
+description: "Under höstens mörkaste period erbjuder vi 10% rabatt på våra ansiktsbehandlingar"
+image: /images/arkivbilder/5584f293-0123-4907-aea2-e64a4d20026d.png
 date: 2018-10-30 08:34:44+00:00
 layout: post
-link: http://pipershudvard.com/2018/10/30/happy-hour-hela-november/
 slug: happy-hour-hela-november
-title: Happy Hour hela November!
-wordpress_id: 1312
 categories:
 - Okategoriserade
 ---
-
-![5584F293-0123-4907-AEA2-E64A4D20026D](https://pipershudvard.files.wordpress.com/2018/10/5584f293-0123-4907-aea2-e64a4d20026d.png?w=2048)
-
-
 **HAPPY HOUR hela november mellan kl 10-13! **
-
 
 Under höstens mörkaste period erbjuder vi 10% rabatt på våra ansiktsbehandlingar mellan klockan 10:00-13:00, så nu får du en extra härlig anledning att komma ut en stund under dygnets ljusa(re) timmar! 
 
