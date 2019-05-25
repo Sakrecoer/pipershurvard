@@ -1,20 +1,14 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-02-10 10:54:43+00:00
 layout: post
-link: http://pipershudvard.com/2018/02/10/nytt-fran-elleebana-lash-lift/
 slug: nytt-fran-elleebana-lash-lift
 title: Nytt från Elleebana Lash Lift
-wordpress_id: 662
+images: /images/arkivbilder/d87b3c47-83f9-4a9c-b0cd-ef47278c8927.jpeg
+description: Från och med 12/2 kan vi på Pipers erbjuda det senaste från Elleebana Lash Lift.
 categories:
 - Okategoriserade
 ---
-
 Från och med 12/2 kan vi på Pipers erbjuda det senaste från Elleebana Lash Lift.
-
-
-![D87B3C47-83F9-4A9C-B0CD-EF47278C8927](https://pipershudvard.files.wordpress.com/2018/02/d87b3c47-83f9-4a9c-b0cd-ef47278c8927.jpeg?w=600)
 
 Elleebana Strong Hold, världens första lash lift-lim med biotin och keratin som vårdar och stärker fransarna under hela behandlingen.
 

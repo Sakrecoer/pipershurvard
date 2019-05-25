@@ -43,7 +43,7 @@ Hela kurpriset betalas vid första behandlingstillfället.
 ### [TILL BOKNING](/bokning/)
 
 
-![4349D29E-3F47-423D-8C5A-A73407A0B80D](https://pipershudvard.files.wordpress.com/2018/01/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)
+![4349D29E-3F47-423D-8C5A-A73407A0B80D](/images/arkivbilder/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)
 
 Vi använder oss utav microneedlingpennan Micro Injector Litium+ för att skapa tusentals microkanaler i huden. I behandlingen använder vi endast Cliniccares sterila serum för att fylla huden med deras exklusiva lågmolekylära hyaluronsyra i kombination med mängder av antioxidanter.
 
@@ -51,15 +51,15 @@ Microneedling stimulerar produktionen av kollagen och elastin samt stimulerar c
 
 Microneedling kan användas för huduppstramning och hudföryngring samt för att reducera och förebygga synligheten av:
 
-• fina linjer och rynkor
+- fina linjer och rynkor
 
-• stora porer
+- stora porer
 
-• pigmenteringar
+- pigmenteringar
 
-• ärr
+- ärr
 
-• hudbristningar
+- hudbristningar
 
 Beroende på vad som ska behandlas anpassar vi hur djupt nålarna går ner i huden, mellan 0,25 och 2,5 mm.
 
@@ -75,36 +75,36 @@ Upp till 4 dagar: lätt fjällig och torr
 
 För optimal återfuktning använd Cliniccares specialanpassade hemvårdsprodukter.
 
-• Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, låt huden vila och lägg inte på någon produkt
+- Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, låt huden vila och lägg inte på någon produkt
 
-• För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen
+- För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen
 
-• Vänta minst 6 timmar efter behandling med att applicera makeup
+- Vänta minst 6 timmar efter behandling med att applicera makeup
 
-• Rör inte området med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden
+- Rör inte området med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden
 
-• Vänta 48 tim med hård fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudvårdsbehandlingar
+- Vänta 48 tim med hård fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudvårdsbehandlingar
 
-• Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon på minst en vecka efter behandling
+- Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon på minst en vecka efter behandling
 
-• För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer
+- För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer
 
 **Vi kan inte utföra behandlingen om du**
 
-• har keloider, el har en historia av keloida ärr
+- har keloider, el har en historia av keloida ärr
 
-• har en pågående infektion/virus i huden tex herpes simplex eller vårtor
+- har en pågående infektion/virus i huden tex herpes simplex eller vårtor
 
-• har områden av infekterad hud
+- har områden av infekterad hud
 
-• har hudcancer eller solkeratoser
+- har hudcancer eller solkeratoser
 
-• är gravid eller ammande
+- är gravid eller ammande
 
-• har svårinställd diabetes mellitus
+- har svårinställd diabetes mellitus
 
-• har svår dermatit, psoriasis eller liknande
+- har svår dermatit, psoriasis eller liknande
 
-• har aktiv papulopustular rosacea eller acne vulgaris
+- har aktiv papulopustular rosacea eller acne vulgaris
 
-• får antikoagulantia terapi, cellgiftsbehandling,strålbehandling,höga doser av kortikosteroider, orala retinoider
+- får antikoagulantia terapi, cellgiftsbehandling,strålbehandling,höga doser av kortikosteroider, orala retinoider

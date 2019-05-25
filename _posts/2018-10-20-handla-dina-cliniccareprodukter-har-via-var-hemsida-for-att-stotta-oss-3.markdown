@@ -17,7 +17,7 @@ Vi är jättetacksamma om ni vill komma hit till vår hemsida och härifrån kli
 
 [https://www.beauty-bar.se/produkt-kategori/varumarken/cliniccare/?ref=14](https://www.beauty-bar.se/produkt-kategori/varumarken/cliniccare/?ref=14)
 
-![small business happy dance](https://pipershudvard.files.wordpress.com/2018/09/80698409-027c-4a48-9ac0-84b3513970ac.jpeg)
+![small business happy dance](/images/arkivbilder/80698409-027c-4a48-9ac0-84b3513970ac.jpeg)
 
 
 [Läs mer om produkterna här! ](http://pipershudvard.com/produkter/)

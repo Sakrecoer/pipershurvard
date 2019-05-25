@@ -23,7 +23,7 @@ Hela kurpriset betalas vid första behandlingstillfället.
 
 ### [TILL BOKNING](/bokning/)
 
-![88592A92-8F37-401D-A76D-7E7843669234](https://pipershudvard.files.wordpress.com/2017/10/88592a92-8f37-401d-a76d-7e7843669234.jpeg?w=600)
+![88592A92-8F37-401D-A76D-7E7843669234](https://pipershudvard.files.wordpress.com/2017/10/88592a92-8f37-401d-a76d-7e7843669234.jpeg)
 
 Cliniccare Peel är en helt unik kemisk peeling som erbjuder en effektiv behandling med fantastiska resultat. En kombination av syror med anpassat pH-värde ger unika behandlingar som kan skräddarsys för just dina behov. Allt utifrån hudtyp och hudtillstånd.Behandlingen kan göras en gång som en rejäl uppfräschning eller så jobbar man långsiktigt med en kur på 3-6 behandlingar.För dig som verkligen vill se unika resultat rekommenderas att kombinera kemisk peeling med microneedling-behandlingar, då jobbar vi både med ytan och på djupet.
 
@@ -35,18 +35,18 @@ Kemisk Peeling kan användas för att reducera ålderstecken såsom fina linjer,
 
 Det är normalt att rodnad och lätt svullnad uppstår efter behandling, vanligtvis försvinner detta efter några timmar, i vissa fall kan det ta upp till ett par dagar beroende på hur djup behandling man gjortUpp till 1-2 dagar: kan huden kännas stickig, torr och stramUpp till 4 dagar: lätt fjällig och torrFör optimal återfuktning använd Cliniccares specialanpassade hemvårdsprodukter.
 
-• Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, låt huden vila och lägg inte på någon produkt
+- Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, låt huden vila och lägg inte på någon produkt
 
-• För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen
+- För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen
 
-• Vänta minst 6 timmar efter behandling med att applicera makeup
+- Vänta minst 6 timmar efter behandling med att applicera makeup
 
-• Rör inte området med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden
+- Rör inte området med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden
 
-• Vänta 48 tim med hård fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudvårdsbehandlingar
+- Vänta 48 tim med hård fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudvårdsbehandlingar
 
-• Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon på minst en vecka efter behandling
+- Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon på minst en vecka efter behandling
 
-• För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer
+- För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer
 
-**Vi kan inte utföra behandlingen om du**• har keloider, el har en historia av keloida ärr• har en pågående infektion/virus i huden tex herpes simplex eller vårtor• har områden av infekterad hud• har hudcancer eller solkeratoser• är gravid eller ammande• har svårinställd diabetes mellitus• har svår dermatit, psoriasis eller liknande• har aktiv papulopustular rosacea eller acne vulgaris• får antikoagulantia terapi, cellgiftsbehandling,strålbehandling,höga doser av kortikosteroider, orala retinoider
+**Vi kan inte utföra behandlingen om du**- har keloider, el har en historia av keloida ärr- har en pågående infektion/virus i huden tex herpes simplex eller vårtor- har områden av infekterad hud- har hudcancer eller solkeratoser- är gravid eller ammande- har svårinställd diabetes mellitus- har svår dermatit, psoriasis eller liknande- har aktiv papulopustular rosacea eller acne vulgaris- får antikoagulantia terapi, cellgiftsbehandling,strålbehandling,höga doser av kortikosteroider, orala retinoider

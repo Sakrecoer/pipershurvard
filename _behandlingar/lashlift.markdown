@@ -33,7 +33,7 @@ Lash Dose appliceras efter en Lash Lift eller [färgning av fransar och bryn](ht
 
 
 
-![07609269-BBA3-44DB-8199-DA8DBB26070C](https://pipershudvard.files.wordpress.com/2018/02/07609269-bba3-44db-8199-da8dbb26070c.jpeg?w=600)![3A5AD696-B589-47AF-BCE1-C8C000CA368E](https://pipershudvard.files.wordpress.com/2018/01/3a5ad696-b589-47af-bce1-c8c000ca368e.jpeg?w=600)
+![07609269-BBA3-44DB-8199-DA8DBB26070C](/images/arkivbilder/07609269-bba3-44db-8199-da8dbb26070c.jpeg)![3A5AD696-B589-47AF-BCE1-C8C000CA368E](/images/arkivbilder/3a5ad696-b589-47af-bce1-c8c000ca368e.jpeg)
 
 
 

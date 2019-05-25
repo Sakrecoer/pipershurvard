@@ -5,7 +5,7 @@ image: '/images/behandlingar/dualinjector.jpg'
 permalink: /dual-injector/
 ---
 
-![B565AB8F-061A-4C19-BE8B-FCF94618360C](https://pipershudvard.files.wordpress.com/2018/01/b565ab8f-061a-4c19-be8b-fcf94618360c.jpeg?w=600)
+![B565AB8F-061A-4C19-BE8B-FCF94618360C](/images/arkivbilder/b565ab8f-061a-4c19-be8b-fcf94618360c.jpeg)
 
 Dual Injector kan läggas till som en Add-on i våra [ansiktsbehandlingar](http://pipershudvard.com/ansiktsbehandlingar-cliniccare/) tillsammans med en Sheet-mask (250:-)
 

@@ -17,7 +17,7 @@ tags:
 - victoriakliniken
 ---
 
-![644AD092-59D0-4688-8531-7D6C7D7DEBFE](https://pipershudvard.files.wordpress.com/2018/01/644ad092-59d0-4688-8531-7d6c7d7debfe.jpeg?w=600)
+![644AD092-59D0-4688-8531-7D6C7D7DEBFE](/images/arkivbilder/644ad092-59d0-4688-8531-7d6c7d7debfe.jpeg)
 
 Vi kommer ha en injektionssköterska från [Victoriakliniken](https://www.victoriakliniken.com/behandlingar/injektionsbehandlingar/) hos oss på Pipers ett par dagar varje månad. Som invigningserbjudande på vårt samarbete får ni hela 25% rabatt på injektionsbehandlingar under januari och februari!
 

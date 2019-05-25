@@ -9,9 +9,9 @@ categories:
 - Okategoriserade
 ---
 
-![](https://pipershudvard.files.wordpress.com/2019/02/8d25a0ee-7170-4404-9176-dbd3ccba5147.jpeg)
+![](/images/arkivbilder/8d25a0ee-7170-4404-9176-dbd3ccba5147.jpeg)
 
-![](https://pipershudvard.files.wordpress.com/2019/02/94c26744-bd5a-46b0-9704-b71a6b552854.jpeg)
+![](/images/arkivbilder/94c26744-bd5a-46b0-9704-b71a6b552854.jpeg)
 
 #### [Läs mer om våra ansiktsbehandlingar och Add-ons](http://pipershudvard.com/ansiktsbehandlingar-cliniccare/)
 

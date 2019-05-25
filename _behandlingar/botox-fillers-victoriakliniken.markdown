@@ -5,7 +5,7 @@ image: '/images/behandlingar/botoxfillers.jpg'
 permalink: /botox-fillers-victoriakliniken/
 ---
 
-![1B3C1E16-FAD5-4E51-BF76-7DB90EF496D4](https://pipershudvard.files.wordpress.com/2018/01/1b3c1e16-fad5-4e51-bf76-7db90ef496d4.jpeg)
+![1B3C1E16-FAD5-4E51-BF76-7DB90EF496D4](/images/arkivbilder/1b3c1e16-fad5-4e51-bf76-7db90ef496d4.jpeg)
 
 Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er injektionsbehandlingar i toppklass. Alla behandlingar utförs av injektionssköterskor från Victoriakliniken.
 
@@ -39,7 +39,7 @@ Länken ovan tar dig till Victoriaklinikens onlinebokning. Välj tjänst: botox 
 
 Vill du ha hjälp med bokning eller har frågor maila oss på Pipershudvard@gmail.com
 
-![SkinCare logotype_medres.ai](https://pipershudvard.files.wordpress.com/2018/01/205f5d24-7027-4014-9e20-c407ee38adef.jpeg?w=600)
+![SkinCare logotype_medres.ai](/images/arkivbilder/205f5d24-7027-4014-9e20-c407ee38adef.jpeg)
 
 Victoriakliniken är en specialistklinik för estetisk och rekonstruktiv plastikkirurgi, belägen i Saltsjöbaden. De utför all form av estetisk plastikkirurgi. Dr. Charles Randquist som driver kliniken har i 15 års tid utbildat tusentals läkare världen över i sin injektionsteknik. Denna grundar sig på ett naturligt utseende med minsta möjliga risk för komplikationer, smärta eller blödning.
 
@@ -65,9 +65,9 @@ Behandlingen utförs inte om du är gravid eller om du ammar.
 
 Efter behandling kan lättare obehag och små blåmärken kring injektionsställena uppstå.
 
-![9828FC7F-070E-4C98-8D07-18BD0F20204E](https://pipershudvard.files.wordpress.com/2018/01/9828fc7f-070e-4c98-8d07-18bd0f20204e.png?w=600)
+![9828FC7F-070E-4C98-8D07-18BD0F20204E](/images/arkivbilder/9828fc7f-070e-4c98-8d07-18bd0f20204e.png)
 
-![FE15847B-2805-4356-A46E-0C9A828C0AA3](https://pipershudvard.files.wordpress.com/2018/01/fe15847b-2805-4356-a46e-0c9a828c0aa3.jpeg?w=600)
+![FE15847B-2805-4356-A46E-0C9A828C0AA3](/images/arkivbilder/fe15847b-2805-4356-a46e-0c9a828c0aa3.jpeg)
 
 **Fillers**
 

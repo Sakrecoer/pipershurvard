@@ -18,8 +18,8 @@ tags:
 ---
 
 
-![Datum och premisser](https://pipershudvard.files.wordpress.com/2018/01/344f069a-c502-45f4-bd30-0dba74c816e5.png)
-![Miss Diamond kör en show](https://pipershudvard.files.wordpress.com/2018/01/80903343-1fa5-47d8-a88e-3e123ac319f8.jpeg)
+![Datum och premisser](/images/arkivbilder/344f069a-c502-45f4-bd30-0dba74c816e5.png)
+![Miss Diamond kör en show](/images/arkivbilder/80903343-1fa5-47d8-a88e-3e123ac319f8.jpeg)
 
 [Läs mer om injektionsbehandlingar och Victoriakliniken här](https://www.victoriakliniken.com/behandlingar/injektionsbehandlingar/)
 

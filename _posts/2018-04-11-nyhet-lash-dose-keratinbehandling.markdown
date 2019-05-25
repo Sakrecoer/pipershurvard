@@ -18,4 +18,4 @@ Lash Dose appliceras efter en Lash Lift eller [färgning av fransar och bryn](ht
 
 Som Add-on i annan behandling kommer priset ligga på endast 50:-
 
-![865A7364-7C98-429C-86DC-7B90A0F293A1.jpeg](https://pipershudvard.files.wordpress.com/2018/04/865a7364-7c98-429c-86dc-7b90a0f293a1.jpeg)
+![865A7364-7C98-429C-86DC-7B90A0F293A1.jpeg](/images/arkivbilder/865a7364-7c98-429c-86dc-7b90a0f293a1.jpeg)

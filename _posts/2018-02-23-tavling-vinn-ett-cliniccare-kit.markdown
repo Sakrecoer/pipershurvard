@@ -1,23 +1,16 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-02-23 15:04:42+00:00
 layout: post
-link: http://pipershudvard.com/2018/02/23/tavling-vinn-ett-cliniccare-kit/
 slug: tavling-vinn-ett-cliniccare-kit
 title: Tävling! Vinn ett Cliniccare-kit!
-wordpress_id: 726
+image: /images/arkivbilder/d5425ec7-2db8-4b24-ae38-a57a86fd2923.jpeg
+description: 'Nu har du chans att vinna detta kit från Cliniccare! (Värde 1624:-)'
 categories:
 - Okategoriserade
 ---
+### Nu har du chans att vinna detta kit från Cliniccare! (Värde 1624:-)
 
-![D5425EC7-2DB8-4B24-AE38-A57A86FD2923.jpeg](https://pipershudvard.files.wordpress.com/2018/02/d5425ec7-2db8-4b24-ae38-a57a86fd2923.jpeg)
-
-
-**Nu har du chans att vinna detta kit från Cliniccare! (Värde 1624:-)**
-
-
-1.[Cliniccare EGF Extra Refresh Toner ](http://mimass.se/produkt/egf-extra-refresh-toner100ml/)
+1. [Cliniccare EGF Extra Refresh Toner ](http://mimass.se/produkt/egf-extra-refresh-toner100ml/)
 Ett ansiktsvatten baserat på naturliga extrakt och ekologiska aktiva ingredienser för att ge huden den säkraste vägen till att uppnå mer ungdomlig, frisk och problemfri hy. Appliceras över ansikte, hals och dekolletage efter rengöring.
 
 2. [Cliniccare EGF Extra Refresh Essence](http://mimass.se/produkt/egf-extra-refresh-essence50ml/)

@@ -71,7 +71,7 @@ Hela kurpriset betalas vid första behandlingstillfället.
 
 ### [TILL BOKNING](/bokning/)
 
-![16A67B44-1972-4BA5-BF31-1327F80827DC](https://pipershudvard.files.wordpress.com/2018/01/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)![6AD3F1F2-8EDE-4649-B20B-CD235D480554](https://pipershudvard.files.wordpress.com/2018/01/6ad3f1f2-8ede-4649-b20b-cd235d480554.jpeg?w=510)
+![16A67B44-1972-4BA5-BF31-1327F80827DC](/images/arkivbilder/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)![6AD3F1F2-8EDE-4649-B20B-CD235D480554](/images/arkivbilder/6ad3f1f2-8ede-4649-b20b-cd235d480554.jpeg?w=510)
 
 Magic Pot erbjuder 3 moderna teknologier vid ett och samma behandlingstillfälle, Radiofrekvens, vakuum och Super LED- ljus.
 
@@ -93,17 +93,17 @@ Vi kan även välja att arbeta med rött ljus (640nm) som har en påverkan på f
 
 Denna kombination gör Magic Pot till en utav de mest effektiva behandlingsmetoderna för att uppnå en mer vital och åtstramad hud.
 
-• Förbättrad syresättning i huden
+- Förbättrad syresättning i huden
 
-• Ökad elasticitet
+- Ökad elasticitet
 
-• Ökad cirkulation
+- Ökad cirkulation
 
-• Reduktion av linjer
+- Reduktion av linjer
 
-• Djupgående bindvävsmassage
+- Djupgående bindvävsmassage
 
-• Hudåtstramning
+- Hudåtstramning
 
 # Kropsbehandling med Magic Pot
 
@@ -129,9 +129,9 @@ Resultaten av Magic pot behandlingar innebär:
 
 ### [TILL BOKNING](/bokning/)
 
-![16A67B44-1972-4BA5-BF31-1327F80827DC](https://pipershudvard.files.wordpress.com/2018/01/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
+![16A67B44-1972-4BA5-BF31-1327F80827DC](/images/arkivbilder/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
 
-![6AD3F1F2-8EDE-4649-B20B-CD235D480554](https://pipershudvard.files.wordpress.com/2018/01/6ad3f1f2-8ede-4649-b20b-cd235d480554.jpeg?w=510)
+![6AD3F1F2-8EDE-4649-B20B-CD235D480554](/images/arkivbilder/6ad3f1f2-8ede-4649-b20b-cd235d480554.jpeg?w=510)
 Magic Pot erbjuder 3 moderna teknologier vid ett och samma behandlingstillfälle, Radiofrekvens, vakuum och Super LED- ljus.
 Vi kan arbeta i både ansikte och på kroppen och anpassa behandlingen efter dina önskemål och behov.
 
