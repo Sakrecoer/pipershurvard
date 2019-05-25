@@ -1,21 +1,14 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-05-18 06:27:02+00:00
 layout: post
-link: http://pipershudvard.com/2018/05/18/sthlm-beauty-prize-instagramtavling/
 slug: sthlm-beauty-prize-instagramtavling
 title: Sthlm Beauty Prize & Instagramtävling!
-wordpress_id: 955
+image: /images/arkivbilder/186e417e-bcad-4e0d-924e-f6806d514521.jpeg
+description: Sthlm Beauty Prize, prisutdelning där Pipers Hudvård var nominerade till bästa salong 2018. Stort grattis till Turkos Sweden som tog hem vinsten!
 categories:
 - Okategoriserade
 ---
-
-![186E417E-BCAD-4E0D-924E-F6806D514521](https://pipershudvard.files.wordpress.com/2018/05/186e417e-bcad-4e0d-924e-f6806d514521.jpeg)
-
-
-Sthlm Beauty Prize, prisutdelning. Stort grattis till Turkos Sweden som tog hem vinsten!
-
+Sthlm Beauty Prize, prisutdelning där Pipers Hudvård var nominerade till bästa salong 2018. Stort grattis till Turkos Sweden som tog hem vinsten!
 
 ![56F30834-7AD5-4042-8808-38D1188BCCA8](https://pipershudvard.files.wordpress.com/2018/05/56f30834-7ad5-4042-8808-38d1188bcca8.jpeg)
 

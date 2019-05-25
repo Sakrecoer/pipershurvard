@@ -1,21 +1,13 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-07-03 12:11:09+00:00
 layout: post
-link: http://pipershudvard.com/2018/07/03/nu-kan-du-kopa-cliniccare-online/
 slug: nu-kan-du-kopa-cliniccare-online
 title: Nu kan du köpa Cliniccare online!
-wordpress_id: 1001
+image: /images/arkivbilder/218e37b8-ba3b-4738-9866-cab7f2a30429.jpeg
+description: När du handlar på Beauty Bar by Mimass via länkarna på vår hemsida kan du vara säker på att du får hem samma kvalitetsprodukt som om du köper den hos oss på salongen.
 categories:
 - Okategoriserade
 ---
-
-![Utskrift](https://pipershudvard.files.wordpress.com/2018/01/218e37b8-ba3b-4738-9866-cab7f2a30429.jpeg?w=600)
-
-
-
-
 #### Cliniccare kan nu köpas online, direkt hem till dig, på [Beauty Bar by Mimass!](http://www.beauty-bar.se/ansikte/?ref=14)
 
 

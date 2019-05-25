@@ -1,13 +1,10 @@
 ---
-author: pipershudvard
-comments: true
 date: 2018-08-02 14:52:57+00:00
 layout: post
-link: http://pipershudvard.com/2018/08/02/vikten-av-en-toner-efter-din-rengoring/
 published: false
 slug: vikten-av-en-toner-efter-din-rengoring
 title: Vikten av en Toner efter din rengöring
-wordpress_id: 1158
+image: 
 categories:
 - Okategoriserade
 ---

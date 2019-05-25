@@ -1,12 +1,10 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-05-04 14:26:55+00:00
 layout: post
-link: http://pipershudvard.com/2018/05/04/vi-ar-nominerade-till-arets-skonhetssalong/
 slug: vi-ar-nominerade-till-arets-skonhetssalong
 title: Vi är nominerade till Årets Skönhetssalong!
-wordpress_id: 942
+image: /images/arkivbilder/fd11853e-a0aa-42ec-a1ca-0c3d14f5ca48.jpeg
+description: Om ni vill rösta på oss, kika på Stockholm Beauty Weeks Instagram och tagga @pipershudvard i kommentarerna på tävlingsinlägget 💘️
 categories:
 - Okategoriserade
 mentions:

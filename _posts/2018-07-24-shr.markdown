@@ -1,22 +1,14 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-07-24 06:36:37+00:00
 layout: post
-link: http://pipershudvard.com/2018/07/24/shr/
 slug: shr
 title: SHR - Sveriges Hudterapeuters Riksorganisation
-wordpress_id: 1123
+image: /images/arkivbilder/2ff1a91c-a8b1-45aa-aa7f-8e6c6daab497.png
+description: Sveriges Hudterapeuters Riksorganisation, är en sammanslutning av auktoriserade hudterapeuter i Sverige. Pipers Hudvår är natruligtvis ansluten!
 categories:
 - Okategoriserade
 ---
-
-![2FF1A91C-A8B1-45AA-AA7F-8E6C6DAAB497](https://pipershudvard.files.wordpress.com/2018/02/2ff1a91c-a8b1-45aa-aa7f-8e6c6daab497.png)
-
-
 Vi är medlemmar i Sveriges Hudterapeuters Riksorganisation
-
-
 
 
 [Vad är SHR?](http://www.shr.nu/vad-ar-shr)

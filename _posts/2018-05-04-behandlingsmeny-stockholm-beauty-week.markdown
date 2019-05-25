@@ -1,25 +1,14 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-05-04 08:18:31+00:00
 layout: post
-link: http://pipershudvard.com/2018/05/04/behandlingsmeny-stockholm-beauty-week/
 slug: behandlingsmeny-stockholm-beauty-week
 title: Behandlingsmeny, Stockholm Beauty Week
-wordpress_id: 935
+image: /images/arkivbilder/4eda79a5-987e-4c98-93aa-5cff76b57256.jpeg
+description: Vi har kortat ner och anpassat behandlingarna till mässan för att kunna ge er ett smakprov på vad vår salong har att erbjuda.
 categories:
 - Okategoriserade
 ---
-
-[![4EDA79A5-987E-4C98-93AA-5CFF76B57256](https://pipershudvard.files.wordpress.com/2018/02/4eda79a5-987e-4c98-93aa-5cff76b57256.jpeg)](http://stockholmbeautyweek.se/hem/)
-
-
-#### **Behandlingsmeny Stockholm Beauty Week**
-
-
-Vi har kortat ner och anpassat behandlingarna till mässan för att kunna ge er ett smakprov på vad vår salong har att erbjuda.
-
-
+### Behandlingsmeny Stockholm Beauty Week
 
 **Instant Glow, ca 20 min 250kr (ord. pris 495:-)**
 

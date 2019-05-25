@@ -3,16 +3,14 @@ author: pipershudvard
 comments: false
 date: 2018-04-11 08:41:21+00:00
 layout: post
-link: http://pipershudvard.com/2018/04/11/nyhet-lash-dose-keratinbehandling/
 slug: nyhet-lash-dose-keratinbehandling
 title: Nyhet! Lash Dose keratinbehandling.
-wordpress_id: 848
+image: /images/arkivbilder/dc182996-7aa1-421c-9be8-46a1a24a292d.jpeg
+description: Snart kommer en nyhet in till Pipers!
 categories:
 - Okategoriserade
 ---
-
-![DC182996-7AA1-421C-9BE8-46A1A24A292D](https://pipershudvard.files.wordpress.com/2018/04/dc182996-7aa1-421c-9be8-46a1a24a292d.jpeg)Snart kommer en nyhet in till Pipers!
-
+Snart kommer en nyhet in till Pipers!
 
 Lash Dose, en vårdande keratinbehandling för både fransar och bryn. Den första keratinbehandlingen som är kompatibel med [Eleebana’s One Shot Lash Lift](http://pipershudvard.com/lashlift/).
 

@@ -1,20 +1,13 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-05-31 12:29:31+00:00
 layout: post
-link: http://pipershudvard.com/2018/05/31/sommarerbjudande/
 slug: sommarerbjudande
 title: Sommarerbjudande!
-wordpress_id: 976
+image: /images/arkivbilder/ef46e852-4900-4708-870a-99c9eabc3730.png
+description: Passa på att göra Lash Lift i juni så ingår färgning av fransarna och keratinbehandlingen Lash Dose!
 categories:
 - Okategoriserade
 ---
-
-
-
-![EF46E852-4900-4708-870A-99C9EABC3730.png](https://pipershudvard.files.wordpress.com/2018/05/ef46e852-4900-4708-870a-99c9eabc3730.png)
-
 Passa på att göra [Lash Lift](http://pipershudvard.com/lashlift/) i juni så ingår färgning av fransarna och keratinbehandlingen Lash Dose!
 
 Ord. Pris 750:- (använd kampanjkod 'sommarerbjudande' vid webbokning)
