@@ -21,14 +21,9 @@ Användning​ ​av​ ​Dual​ ​Injector,​ ​tillsammans​ ​med​ �
 
 RF​ ​&​ ​elektroporation​ ​ökar​ ​leveranshastigheten​ ​till​ ​ett​ ​högre​ ​flöde​ ​än​ ​vad​ ​som​ ​normalt​ ​är möjligt​ ​(5​ ​gånger​ ​högre​ ​leveranshastighet​ ​jämfört​ ​med​ ​traditionella​ ​applikationsmetoder) Vi​ ​kan​ ​tyvärr inte ​utföra​ ​behandling​ ​med​ ​dual​ ​injector​ ​om​ ​du​ ​har;
 
-•Epilepsi
-
-•Pacemaker
-
-•Cancer
-
-•Virussår,​ ​Herpes,​ ​Bältros
-
-•Eksem​ ​eller​ ​seborroiskt​ ​eksem
-
-•AIDS,​ ​HIV​ ​eller​ ​annan​ ​autoimmun​ ​sjukdom
+- Epilepsi
+- Pacemaker
+- Cancer
+- Virussår,​ ​Herpes,​ ​Bältros
+- Eksem​ ​eller​ ​seborroiskt​ ​eksem
+- AIDS,​ ​HIV​ ​eller​ ​annan​ ​autoimmun​ ​sjukdom
