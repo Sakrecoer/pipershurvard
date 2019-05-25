@@ -30,23 +30,14 @@ Till samtliga behandlingar kan du lägga till en eller fler utav våra Add-ons
 **Add-ons, tillägg i ansiktsbehandling**
 
 - EGF Sheet-mask, 150:- (anpassas till hudtyp och tillstånd)
-
 - AHA + EGF skinbooster, 150:-
-
 - Portömning med Derma F+, 150:- (portömning med hjälp av ultraljud)
-
 - EGF Sheet-mask + Inslussning med [Dual Injector](http://pipershudvard.com/dual-injector/), 250:- (stramar upp huden samt hjälper näringsämnen och fukt ner till djupare hudlager)
-
 - Djupgående kroppsmassage Magic Pot 10 min, 250:-
-
 - Ansiktsmassage Magic Pot 10 min, 250:-
-
 - Frans och brynfärg, inkl brynansning, 250:-
-
 - Fransfärg, 150:-
-
 - Brynfärg, inkl brynansning, 150:-
-
 - Brynformning inkl brynfärg 250:-
 
 ### [TILL BOKNING](/bokning/)
@@ -56,27 +47,18 @@ Till samtliga behandlingar kan du lägga till en eller fler utav våra Add-ons
 **Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.** Produkterna innehåller enbart ingredienser som har vetenskapligt stöd för en god hudhälsa.
 
 - Lågmolekulär hyaluronsyra (LMH)
-
 - Silkespeptider -18 aminosyror
-
 - Epidermala tillväxtfaktorer -EGF
-
 - Nanoinkapsling - en teknik som förbättrar penetration av de aktiva ingredienserna i huden
 
 Lågmolekylär hyaluronsyra är en av de grundläggande komponenterna i CLINICCARE’s hudvård. Hyaluronsyra har många funktioner i hela kroppen. I huden är några utav dess kända roller följande;
 
 - hålla fukt
-
 - ökad viskositet, vilket ökar hudens motståndskraft och flexibilitet
-
 - minskar permeabilitet, förmågan för främmande ämnen att röra sig ut eller in i huden
-
 - mekanisk motståndskraft, ökar hudens förmåga att stå emot uv-exponering. Verkar som ett skydd för kollagen och elastin
-
 - reglering av läkning i vävnad
-
 - reglering av hudens naturliga proliferation av celler
-
 - reglering av immunologiska och inflammatoriska reaktioner
 
 Hyaluronsyra är, trots namnet, inte en syra utan en sockermolekyl som finns naturligt i kroppen och kan bära fukt upp till 1000 gånger sin egen vikt. Med åldern avtar mängden hyaluronsyra i huden vilket bidrar till fuktförlust, huden blir tunnare och mindre smidig. Förlusten av hyaluronsyra kan också försämra hudens förmåga att reparera sig själv. Denna process leder ofrånkomligt till en negativ spiral som påskyndar åldrandet i huden.

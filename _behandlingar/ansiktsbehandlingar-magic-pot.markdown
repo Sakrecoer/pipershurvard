@@ -94,15 +94,10 @@ Vi kan även välja att arbeta med rött ljus (640nm) som har en påverkan på f
 Denna kombination gör Magic Pot till en utav de mest effektiva behandlingsmetoderna för att uppnå en mer vital och åtstramad hud.
 
 - Förbättrad syresättning i huden
-
 - Ökad elasticitet
-
 - Ökad cirkulation
-
 - Reduktion av linjer
-
 - Djupgående bindvävsmassage
-
 - Hudåtstramning
 
 # Kropsbehandling med Magic Pot
@@ -114,18 +109,14 @@ Med hjälp av Magic Pot kan vi jobba fyra gånger djupare och mer effektivt än 
 
 Resultaten av Magic pot behandlingar innebär:
 
--Tighteningeffekt
--Förbättrad struktur i bindväv
--Ökad lymfcirkulation 
--Ökad blodcirkulation 
--Minskad smärta i samband med arbete mot triggerpunkter och ömmande och svullna muskler
--Snabbare resultat, kortare behandlingstid 
--Orörliga leder kan snabbt ”lösas” upp 
-
--Förbättring i hudstruktur, såsom cellulitbildningar
-
-
-
+- Tighteningeffekt
+- Förbättrad struktur i bindväv
+- Ökad lymfcirkulation 
+- Ökad blodcirkulation 
+- Minskad smärta i samband med arbete mot triggerpunkter och ömmande och svullna muskler
+- Snabbare resultat, kortare behandlingstid
+- Orörliga leder kan snabbt ”lösas” upp 
+- Förbättring i hudstruktur, såsom cellulitbildningar
 
 ### [TILL BOKNING](/bokning/)
 
