@@ -26,4 +26,7 @@ layout: default
     </section>
   </div>
   {% include footer.html %}
+  {% if page.collection == 'behandlingar' %}
+  {% include boka.html %}
+  {% endif %}
 </div>

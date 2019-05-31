@@ -8,5 +8,7 @@ layout: default
   {{ content }}
   {% include contact.html %}
   {% include footer.html %}
+  {% if page.url == '/behandlingar/' %}
   {% include boka.html %}
+  {% endif %}
 </div>
