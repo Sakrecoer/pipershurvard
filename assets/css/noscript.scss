@@ -6,7 +6,6 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import 'libs/cloudset';
 /*
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
@@ -27,4 +26,12 @@
 				opacity: 1;
 			}
 		}
-	}
+  }
+  #boka {
+    position: fixed;
+    bottom: 1.5em;
+    right: 1.5em;
+    z-index: 1000;
+    background-color: #fff;
+  }
+  
