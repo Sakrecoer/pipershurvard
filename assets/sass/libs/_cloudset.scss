@@ -22,7 +22,28 @@
   bottom: 1.5em;
   right: 1.5em;
   z-index: 1000;
-  background-color: #fff;
+  background: linear-gradient(228deg, _palette(accent3), _palette(bg-alt));
+  background-size: 400% 400%;
+  
+  -webkit-animation: AnimationName 2s ease infinite;
+  -moz-animation: AnimationName 2s ease infinite;
+  animation: AnimationName 2s ease infinite;
+  
+  @-webkit-keyframes AnimationName {
+      0%{background-position:73% 0%}
+      50%{background-position:28% 100%}
+      100%{background-position:73% 0%}
+  }
+  @-moz-keyframes AnimationName {
+      0%{background-position:73% 0%}
+      50%{background-position:28% 100%}
+      100%{background-position:73% 0%}
+  }
+  @keyframes AnimationName {
+      0%{background-position:73% 0%}
+      50%{background-position:28% 100%}
+      100%{background-position:73% 0%}
+  }
 }
 @include breakpoint('<=small') {
   #boka {
