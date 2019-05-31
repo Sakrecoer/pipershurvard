@@ -6,7 +6,7 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import 'libs/cloudset';
+
 
 /*
 	Forty by HTML5 UP
@@ -73,4 +73,7 @@
 	@import 'layout/contact';
 	@import 'layout/footer';
 	@import 'layout/wrapper';
-	@import 'layout/menu';
+  @import 'layout/menu';
+
+// Set Stuff  
+  @import 'libs/cloudset';
