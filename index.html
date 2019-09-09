@@ -40,18 +40,31 @@ image: /images/salongen.jpg
 
     <section id="two" style="background-image:ur('{{ post.image }}';">
       <div class="inner">
+        <header class="major">
+          <h2>Nyheter på PipersHudvård</h2>
+        </header>
+    
         <div class="row">
-          {% for post in site.posts limit: 1 %}
-          <div class="col-12-medium">
-            <h2>Nyheter på PipersHudvård</h2>
+        
+          {% for post in site.posts limit: 3 %}
+          <div class="col-6 col-12-small">
+        
             <h3>{{ post.title }}</h3>
             <p>{{ post.description }}</p>
             <ul class="actions">
               <li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
             </ul>
           </div>
-
+        
           {% endfor %}
+          <div class="col-6 col-12-small">
+        
+            <h3>Intresserad av hudvård?</h3>
+            <p>Gå till nyhetssidan</p>
+            <ul class="actions">
+              <li><a href="/nyheter/" class="button next">Fler Artiklar</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
