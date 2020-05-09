@@ -132,3 +132,16 @@ defaults:
           expandable: "true"
 sass:
   sass_dir: /assets/sass/
+
+exclude:
+  - changelog.md
+  - '*.*~'
+  - '*.xcf'
+  - '*.blend*'
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+  - instalib.sh
+  - package-lock.json
+  - package.json
