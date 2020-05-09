@@ -66,6 +66,7 @@ collections:
     output: true
   products:
     output: false
+    sort_by: category
 
 # defaults
 timezone: Europe/Stockholm
