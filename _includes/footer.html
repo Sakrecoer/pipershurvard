@@ -7,7 +7,7 @@
           rel="noopener" style="border:none;">
           <img class="shr" src="/images/SHR.png" alt="SHR logotyp" height="30px;" /></a>
       </li>
-      {% for network in site.social %}<li><a href="{{ network.link }}" class="icon alt fa-{{ network.name }}"
+      {% for network in site.data.socialmedia %}<li><a href="{{ network.link }}" class="icon alt fa-{{ network.name }}"
           target="_blank" rel="noopener"><span class="label">{{ network.name }}</span></a></li>
       {% endfor %}
     </ul>
