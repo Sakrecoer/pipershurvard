@@ -5,8 +5,8 @@ layout: default
   body {
     background-color: #fff;
   }
-  
-  </style>
+</style>
+{% include relBase.html %}
 <!-- Wrapper -->
 <div id="wrapper">
   {% include navigation.html %}
@@ -17,7 +17,7 @@ layout: default
     <section id="one">
       <div class="inner">
         {% if page.collection == 'posts' or page.collection == 'behandlingar' %}
-        <span class="image main"><img src="{{ page.image }}" alt="" /></span>
+        <span class="image main"><img src="{{ relBase }}{{ page.image }}" alt="" /></span>
         {% endif %}
         <div id="postimage" class="editable">
           {{ content }}

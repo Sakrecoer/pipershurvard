@@ -1,18 +1,19 @@
+{% include relBase.html %}
 <!-- BEGIN metahead.html -->
 {% seo %}
-{% feed_meta %}
+
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fonts.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css" />
-<noscript><link rel="stylesheet" href="{{ site.baseurl }}assets/css/noscript.css" /></noscript>
+<link rel="stylesheet" href="{{ relBase }}/assets/css/fonts.css" />
+<link rel="stylesheet" href="{{ relBase }}/assets/css/main.css" />
+<link rel="stylesheet" href="{{ relBase }}/assets/css/font-awesome.min.css" />
+<noscript><link rel="stylesheet" href="{{ relBase }}assets/css/noscript.css" /></noscript>
 <link rel="shortcut icon" href="{{ site.url }}{{ site.logo }}" type="image/png" />
-<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+<link rel="apple-touch-icon" href="{{ relBase }}/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="{{ relBase }}/touch-icon.png" sizes="192x192">
 
 <!-- Standard SEO -->
 <meta name="title" content="{{ page.title }}, {{ site.title }}">
-<meta name="dc.date.modified" scheme="ISO8601" content="{{ site.time | date_to_xmlschema }}" />
+<meta name="dc.date.modified" scheme="ISO8601" content="{{ page.last_modified_at | date_to_xmlschema }}" />
 <meta name='robots' content='index' />
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -38,7 +39,7 @@
 <meta name="dcterms.Title" content="{{ page.title }} | {{ site.title }}" />
 <meta name="dcterms.Subject" content="{{ site.description | strip_html }}" />
 <meta name="dcterms.Contributor" content="{{ site.title }}" />
-<meta name="dcterms.Date" content="{{ site.time | date: "%Y-%m-%d" }}" />
+{% if page.date == null %}<meta name="dcterms.Date" content="{{ site.time | date: '%Y-%m-%d' }}" />{% else %}<meta name="dcterms.Date" content="{{ page.date | date: '%Y-%m-%d' }}" />{% endif %}
 <meta name="dcterms.Description" content="{{ page.description | strip_html }}" />
 
 <!-- Twitter Card -->
