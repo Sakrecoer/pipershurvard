@@ -1,13 +1,14 @@
 ---
 date: 2018-08-02 14:52:57+00:00
-layout: post
 published: false
 slug: vikten-av-en-toner-efter-din-rengoring
 title: Vikten av en Toner efter din rengöring
 image: 
+description: Att använda ett ansiktsvatten eller toner efter din rengöring är ett mycket viktigt steg i din dagliga hudvårdsrutin.
+tags: 
 ---
 
-Att använda ett ansiktsvatten eller toner efter din rengöring är ett mycket viktigt steg i din dagliga hudvårdsrutin.
+
 
 Många blandar ihop Micellärt vatten och ansiktsvatten/toner. Ett micellärt vatten används efter rengöring för att ta bort makeuprester medans din toner återställer pH-värdet på huden som har rubbats något efter rengöringen.
 

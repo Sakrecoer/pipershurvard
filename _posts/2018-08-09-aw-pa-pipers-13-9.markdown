@@ -1,10 +1,10 @@
 ---
 date: 2018-08-09 09:57:43+00:00
-layout: post
 slug: aw-pa-pipers-13-9
 title: AW på Pipers 13/9
 image: /images/arkivbilder/84c25112-4bc1-4e3e-9100-b60daa8e487d.jpeg
 description: AW för våra kära kunder och vänner den 13/9 kl 18-21.
+tags: 
 ---
 AW för våra kära kunder och vänner den 13/9 kl 18-21. Föranmälan krävs. Maila till Pipershudvard@gmail.com senast den 9/9 om du vill komma förbi.
 

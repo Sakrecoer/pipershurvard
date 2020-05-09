@@ -3,10 +3,8 @@ title: 'Vinn en dag på Pipersgatan30 & Pipers Hudvård, för 2 personer'
 description: "Pipers \U0001F498️ Musikhjälpen \U0001F3B6️"
 image: /images/salongen.jpg
 date: 2018-12-10 21:53:00 +0100
-layout: post
 slug: vinn-en-dag-pa-pipersgatan-30-pipers-hudvard-for-2-pers
-categories:
-  - Okategoriserade
+tags: 
 ---
 
 **PIPERS &lt;3 MUSIKHJÄLPEN**

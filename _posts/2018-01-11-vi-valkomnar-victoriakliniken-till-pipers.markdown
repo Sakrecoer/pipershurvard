@@ -3,7 +3,6 @@ title: Vi välkomnar Victoriakliniken till Pipers!
 image: /images/arkivbilder/e7aed950-619d-4054-977e-65df032d1c69.jpeg
 description: Välkomnadsfest för Viktoriakliniken som kommer till Pipers!
 date: 2018-01-11 15:38:11+00:00
-layout: post
 slug: vi-valkomnar-victoriakliniken-till-pipers
 tags:
 - Botox

@@ -1,10 +1,9 @@
 ---
 title:
-author: pipershudvard
+description:
 date: 
 image: 
-layout: post
 tags:
-- Nyckel
-- Ord
+  - Nyckel
+  - Ord
 ---

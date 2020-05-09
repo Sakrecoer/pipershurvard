@@ -1,10 +1,10 @@
 ---
 date: 2018-05-04 08:18:31+00:00
-layout: post
 slug: behandlingsmeny-stockholm-beauty-week
 title: Behandlingsmeny, Stockholm Beauty Week
 image: /images/arkivbilder/4eda79a5-987e-4c98-93aa-5cff76b57256.jpeg
 description: Vi har kortat ner och anpassat behandlingarna till mässan för att kunna ge er ett smakprov på vad vår salong har att erbjuda.
+tags: 
 ---
 ### Behandlingsmeny Stockholm Beauty Week
 

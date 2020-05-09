@@ -1,12 +1,10 @@
 ---
-author: pipershudvard
-comments: false
 date: 2018-04-11 08:41:21+00:00
-layout: post
 slug: nyhet-lash-dose-keratinbehandling
 title: Nyhet! Lash Dose keratinbehandling.
 image: /images/arkivbilder/dc182996-7aa1-421c-9be8-46a1a24a292d.jpeg
 description: Snart kommer en nyhet in till Pipers!
+tags: 
 ---
 Snart kommer en nyhet in till Pipers!
 
