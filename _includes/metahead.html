@@ -1,13 +1,14 @@
 <!-- BEGIN metahead.html -->
 {% seo %}
 {% feed_meta %}
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fonts.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css" />
 <noscript><link rel="stylesheet" href="{{ site.baseurl }}assets/css/noscript.css" /></noscript>
 <link rel="shortcut icon" href="{{ site.url }}{{ site.logo }}" type="image/png" />
-<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/rss.xml" />
+<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
 
 <!-- Standard SEO -->
 <meta name="title" content="{{ page.title }}, {{ site.title }}">
@@ -40,14 +41,6 @@
 <meta name="dcterms.Date" content="{{ site.time | date: "%Y-%m-%d" }}" />
 <meta name="dcterms.Description" content="{{ page.description | strip_html }}" />
 
-<!-- Facebook OpenGraph -->
-
-{% if page.url == '/' %}
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ site.url }}" />{% else %}<meta property="og:type" content="article" />
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />{% endif %}{% for social in site.social %}<meta property="og:see_also" content="{{ social.link }}" />
-{% endfor %}
-
 <!-- Twitter Card -->
 
 <meta name="twitter:card" content="summary" />
@@ -58,13 +51,5 @@
 <meta name="twitter:image" content="{{ site.logo }}{{ site.logo }}" />{% else %}
 <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
 
-
-<!-- Humans.txt authorship http://humanstxt.org  
-  <link type="text/plain" rel="author" href="{{ site.url }}/humans.txt" /> 
--->
-
-<!-- Domain verification -->
-
-<!-- Identity -->
 
 <!-- END metahead.html -->
