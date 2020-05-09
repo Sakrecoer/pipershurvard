@@ -4,7 +4,7 @@ slug: ny-kur-deep-hydration-x-3
 title: Ny kur! Deep Hydration x 3
 wordpress_id: 1594
 description: Vår populära behandling Magic Pot Hydration finns nu som en kur!
-image:
+image: /images/arkivbilder/475af1b2-5a62-4b7b-a15e-d9d940a441f4.jpeg
 ---
 
 Vår populära behandling [Magic Pot Hydration](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/) finns nu som en kur!

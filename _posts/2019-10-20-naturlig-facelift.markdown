@@ -3,14 +3,13 @@ date: 2019-10-20 07:14:20+00:00
 slug: naturlig-facelift
 title: Naturlig Facelift
 wordpress_id: 1707
-image:
+image: /images/arkivbilder/04116545-a7f9-44dc-9af4-5421d912de0d.jpeg
 description: Naturlig Facelift är en behaglig ansiktsmassage som löser upp spänningar och ger ansiktsmusklerna ett riktigt lyft utan kirurgiska ingrepp.
 ---
 
 ## Snart kommer en ny behandling till Pipers Hudvård.
 
 ### Massagebehandlingen Naturlig Facelift.
-
 
 [Naturlig Facelift](http://pipershudvard.com/naturlig-facelift/) är en behaglig ansiktsmassage som löser upp spänningar och ger ansiktsmusklerna ett riktigt lyft utan kirurgiska ingrepp. Behandlingen fördröjer åldrandeprocessen, skapar balans i energisystemet samt sänker djup avslappning vilket bidrar till att förbättra den  allmänna hälsan.
 

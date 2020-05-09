@@ -4,6 +4,7 @@ slug: nu-slapper-vi-hostens-botox-och-fillerstider
 title: Nu släpper vi höstens botox och fillerstider!
 wordpress_id: 1578
 description: Vår fantastiska injektionssköterska Marina från Victoriakliniken kommer självklart tillbaka till hösten.
+image: /images/arkivbilder/205f5d24-7027-4014-9e20-c407ee38adef.jpeg
 ---
 
 Vår fantastiska injektionssköterska Marina från Victoriakliniken kommer självklart tillbaka till hösten. Två dagar varje månad, med start den 2:a september, kommer hon vara hos oss erbjuda [botox och fillersbehandlingar.](http://pipershudvard.com/botox-fillers-victoriakliniken/)

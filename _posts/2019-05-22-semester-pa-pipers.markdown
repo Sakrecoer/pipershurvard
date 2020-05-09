@@ -3,7 +3,8 @@ date: 2019-05-22 04:43:11+00:00
 slug: semester-pa-pipers
 title: Semester på Pipers
 wordpress_id: 1533
-image: 
+image: /images/arkivbilder/3566e5d6-8609-451b-988f-e75cf6ee305b.jpeg
+description: Våra semestertider sommaren 2019
 ---
 
 Den 25/5-9/6 har Lie semester!

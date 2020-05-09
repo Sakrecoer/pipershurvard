@@ -3,7 +3,7 @@ date: 2020-03-18 16:56:14+00:00
 slug: erbjudande-cliniccare
 title: Erbjudande Cliniccare!
 wordpress_id: 1915
-image: /images/arkivbilder/6c95b487-367f-475b-809d-704cd54b510a.jpeg
+image: /images/arkivbilder/clinicare-supportus.jpg
 description: Du kan handla dina favoritprodukter från Cliniccare och samtidigt stötta oss på Pipers.
 ---
 Du kan handla dina favoritprodukter från Cliniccare och samtidigt stötta oss på Pipers.

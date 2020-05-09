@@ -3,7 +3,7 @@ date: 2020-01-12 16:47:04+00:00
 slug: varens-botox-fillerstider
 title: Vårens botox & fillerstider
 wordpress_id: 1872
-image:
+image: /images/arkivbilder/001935fe-fc37-49b0-8aea-a7136a5c71b0.png
 description: Bästa Marina Bjälkdal från Victoriakliniken kommer vara hos oss under våren
 ---
 
