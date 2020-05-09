@@ -8,8 +8,8 @@ image: /images/salongen.jpg
 <!-- Wrapper -->
 <div id="wrapper">
 
-{% include navigation.html %}
-{% include banner.html %}
+  {% include navigation.html %}
+  {% include banner.html %}
 
   <!-- Main -->
   <div id="main">
@@ -40,9 +40,10 @@ image: /images/salongen.jpg
     <section>
       <div class="inner">
         <header class="major editable">
-          <h2>Hudvårdssalongen Pipers Hudvård hittar du på Pipersgatan 30 på Kungsholmen i Stockholm.</h2> 
-          <p>Enklaste sättet att ta sig dit är att antingen åka till Rådhuset med blåa linjen eller att ta en liten promenad från Centralstationen.</p>
-<br />
+          <h2>Hudvårdssalongen Pipers Hudvård hittar du på Pipersgatan 30 på Kungsholmen i Stockholm.</h2>
+          <p>Enklaste sättet att ta sig dit är att antingen åka till Rådhuset med blåa linjen eller att ta en liten
+            promenad från Centralstationen.</p>
+          <br />
           <ul class="actions">
             <li>
               <a href="/valkommen-till-pipers-hudvard/" class="button next">Läs mer om oss</a>
@@ -50,7 +51,7 @@ image: /images/salongen.jpg
           </ul>
         </header>
         <div class="row edtiable">
-  
+
 
 
         </div>
@@ -62,22 +63,22 @@ image: /images/salongen.jpg
         <header class="major">
           <h2>Nyheter på PipersHudvård</h2>
         </header>
-    
+
         <div class="row">
-        
+
           {% for post in site.posts limit: 3 %}
           <div class="col-6 col-12-small">
-        
+
             <h3>{{ post.title }}</h3>
             <p>{{ post.description }}</p>
             <ul class="actions">
               <li><a href="{{ post.url }}" class="button next">Läs mer</a></li>
             </ul>
           </div>
-        
+
           {% endfor %}
           <div class="col-6 col-12-small">
-        
+
             <h3>Intresserad av hudvård?</h3>
             <p>Gå till nyhetssidan</p>
             <ul class="actions">
@@ -85,13 +86,22 @@ image: /images/salongen.jpg
             </ul>
           </div>
         </div>
+
+      </div>
+    </section>
+    <section>
+      <div class="inner">
+        <header class="major">
+          <h2>Instagram</h2>
+        </header>
+
         {% include insta.html %}
       </div>
     </section>
 
   </div>
 
-{% include contact.html %}
-{% include footer.html %}
+  {% include contact.html %}
+  {% include footer.html %}
 
 </div>
