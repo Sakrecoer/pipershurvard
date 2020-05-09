@@ -14,15 +14,17 @@ permalink: /lashlift/
 
 Elleebana One Shot Lash Lift är en skonsam behandling där vi böjer dina egna fransar. Resultatet ger ett stort lyft för ögat och fransarna f&aring;r ett fylligare intryck. Behandlingen är semi-permanent och h&aring;ller mellan 6-12 veckor beroende p&aring; din tillväxt av fransar samt skötsel. Vi rekommenderar ett &aring;terbesök efter ca 6-8 veckor.
 
-**Lash Lift utan färg, 45 min 650:-**
+#### Lash Lift utan färg, 45 min 650:-
 
-**Lash Lift med fransfärg, 55 min 700:-**
+#### Lash Lift med fransfärg, 55 min 700:-
 
-**Lash Lift med Frans och Brynfärg + brynansning, 60 min 750:-**
+#### Lash Lift med Frans och Brynfärg + brynansning, 60 min 750:-
+
+&nbsp;
 
 **Add-on, tillägg i behandling:**
 
-**Lash Dose Kertinbehandling, 50:-**
+#### Lash Dose Kertinbehandling, 50:-
 
 Lash Dose, en v&aring;rdande keratinbehandling för b&aring;de fransar och bryn. Den första och enda keratinbehandlingen som är kompatibel med Eleebana’s One Shot Lash Lift.
 
@@ -32,10 +34,10 @@ Lash Dose appliceras efter en Lash Lift eller [färgning av fransar och bryn](ht
 
 ![3A5AD696-B589-47AF-BCE1-C8C000CA368E](/images/arkivbilder/3a5ad696-b589-47af-bce1-c8c000ca368e.jpeg)
 
-**Att tänka p&aring; inför en lash lift:**
+#### Att tänka p&aring; inför en lash lift:
 
 Kom gärna osminkad Om du använder linser s&aring; kom gärna utan eller kom ih&aring;g att ta ut dessa innan behandling Är du känslig, kom in för ett pricktest innan du bokar Färga inte fransarna innan behandlingen d&aring; färgen kommer försvinna pga permanentvätskorna, vi erbjuder färgning som tillägg i behandlingen för bästa resultat.
 
-**Efterv&aring;rd:**
+#### Efterv&aring;rd:
 
 Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&aring; produkten m&aring;ste f&aring; fäste, spola inte fransarna med varmt vatten p&aring; 48 tim Undvik mascara och oljebaserade produkter i ögonomr&aring;det närmsta 24-48 tim efter behandling. Oljan kan förstöra effekten. Boka inte in n&aring;gon fysisk aktivitet inom 24 tim efter behandling
