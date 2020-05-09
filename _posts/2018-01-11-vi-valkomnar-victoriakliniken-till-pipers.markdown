@@ -5,8 +5,6 @@ description: Välkomnadsfest för Viktoriakliniken som kommer till Pipers!
 date: 2018-01-11 15:38:11+00:00
 layout: post
 slug: vi-valkomnar-victoriakliniken-till-pipers
-categories:
-- Okategoriserade
 tags:
 - Botox
 - fillers

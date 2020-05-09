@@ -5,8 +5,6 @@ slug: sthlm-beauty-prize-instagramtavling
 title: Sthlm Beauty Prize & Instagramtävling!
 image: /images/arkivbilder/186e417e-bcad-4e0d-924e-f6806d514521.jpeg
 description: Sthlm Beauty Prize, prisutdelning där Pipers Hudvård var nominerade till bästa salong 2018. Stort grattis till Turkos Sweden som tog hem vinsten!
-categories:
-- Okategoriserade
 ---
 Sthlm Beauty Prize, prisutdelning där Pipers Hudvård var nominerade till bästa salong 2018. Stort grattis till Turkos Sweden som tog hem vinsten!
 

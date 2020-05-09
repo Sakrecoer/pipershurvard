@@ -5,8 +5,6 @@ published: false
 slug: vikten-av-en-toner-efter-din-rengoring
 title: Vikten av en Toner efter din rengöring
 image: 
-categories:
-- Okategoriserade
 ---
 
 Att använda ett ansiktsvatten eller toner efter din rengöring är ett mycket viktigt steg i din dagliga hudvårdsrutin.

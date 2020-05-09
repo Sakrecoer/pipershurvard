@@ -5,8 +5,6 @@ image: /images/arkivbilder/5584f293-0123-4907-aea2-e64a4d20026d.png
 date: 2018-10-30 08:34:44+00:00
 layout: post
 slug: happy-hour-hela-november
-categories:
-- Okategoriserade
 ---
 **HAPPY HOUR hela november mellan kl 10-13! **
 

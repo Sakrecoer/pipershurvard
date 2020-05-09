@@ -7,8 +7,6 @@ slug: nyhet-lash-dose-keratinbehandling
 title: Nyhet! Lash Dose keratinbehandling.
 image: /images/arkivbilder/dc182996-7aa1-421c-9be8-46a1a24a292d.jpeg
 description: Snart kommer en nyhet in till Pipers!
-categories:
-- Okategoriserade
 ---
 Snart kommer en nyhet in till Pipers!
 

@@ -5,8 +5,6 @@ slug: nytt-fran-elleebana-lash-lift
 title: Nytt från Elleebana Lash Lift
 image: /images/arkivbilder/d87b3c47-83f9-4a9c-b0cd-ef47278c8927.jpeg
 description: Från och med 12/2 kan vi på Pipers erbjuda det senaste från Elleebana Lash Lift.
-categories:
-- Okategoriserade
 ---
 Från och med 12/2 kan vi på Pipers erbjuda det senaste från Elleebana Lash Lift.
 

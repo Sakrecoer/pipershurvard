@@ -5,8 +5,6 @@ slug: huden-i-fokus
 title: Huden i fokus
 image: /images/arkivbilder/1deb7953-14c6-4958-8d5a-048f3b4e2f95.jpeg
 description: Denna vår och sommar ser vi på Pipers fram emot en mer naturlig look med lättare och mer transparenta makeup-baser som låter din hud vara i fokus.
-categories:
-- Okategoriserade
 ---
 Denna vår och sommar ser vi på Pipers fram emot en mer naturlig look med lättare och mer transparenta makeup-baser som låter din hud vara i fokus.
 

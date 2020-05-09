@@ -5,8 +5,6 @@ slug: shr
 title: SHR - Sveriges Hudterapeuters Riksorganisation
 image: /images/arkivbilder/2ff1a91c-a8b1-45aa-aa7f-8e6c6daab497.png
 description: Sveriges Hudterapeuters Riksorganisation, är en sammanslutning av auktoriserade hudterapeuter i Sverige. Pipers Hudvår är natruligtvis ansluten!
-categories:
-- Okategoriserade
 ---
 Vi är medlemmar i Sveriges Hudterapeuters Riksorganisation
 

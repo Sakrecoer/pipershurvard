@@ -5,8 +5,6 @@ slug: sommarerbjudande-2
 title: Sommarerbjudande!
 image: /images/arkivbilder/78aa8070-5b34-4cba-8627-50843eb4a2d2.png
 description: Boka vår effektiva 30-minutersbehandling Instant glow mellan 23/7-17/8 så ingår portömning med med Derma-F.
-categories:
-- Okategoriserade
 ---
 Behöver din hud också en Quick fix efter/mellan semestervanorna?
 

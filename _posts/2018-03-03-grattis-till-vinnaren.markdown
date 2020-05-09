@@ -5,8 +5,6 @@ slug: grattis-till-vinnaren
 title: Grattis till vinnaren!
 image: /images/arkivbilder/cf4c4f20-3066-4c46-b1da-6d44cae219f8.jpeg
 description: Detta kit från Cliniccare kommer skickas till inom kort.
-categories:
-- Okategoriserade
 ---
 ## GRATTIS ALICE!
 

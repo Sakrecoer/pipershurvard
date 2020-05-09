@@ -5,8 +5,6 @@ image: /images/arkivbilder/3e8c200d-8f45-4497-bdb9-6d32e7444e9e.jpeg
 description: "Ta chansen att ge bort världens bästa (eller iallafall världens mest uppskattade) julklapp!"
 layout: post
 slug: julkampanj-24-rabatt
-categories:
-- Okategoriserade
 ---
 
 Vi på Pipers ger dig chansen att ge bort världens bästa (eller iallafall världens mest uppskattade) julklapp! Därför har vi fram till och med den 20/12 hela 24% rabatt på ett hemvårdskit från Cliniccare.
