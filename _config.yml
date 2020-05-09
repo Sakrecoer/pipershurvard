@@ -16,7 +16,6 @@
 title: "Pipers Hudvård - En del av Pipersgatan 30"
 email: pipershudvard@gmail.com
 phone: +46 8 120 589 89
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pipershudvard.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: pipershudvard
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -41,8 +40,7 @@ social:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-last-modified-at
 
 # Plugin settings:
 
