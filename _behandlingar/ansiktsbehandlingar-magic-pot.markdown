@@ -61,20 +61,6 @@ Brynfärg, inkl brynansning, 150:-
 
 Brynformning inkl färg 250:-
 
-**Power Trio behandlingskur**
-
-En behandlingskur där du f&aring;r alla v&aring;ra mest kraftfulla ansiktsbehandlingar i ett paket. Denna kur passar alla hudtyper och är för dig som behöver en rejäl fuktboost, lyster och en ordentlig uppfräschning.
-
-1:a behandlingen, [Kemisk Peel](http://pipershudvard.com/kemisk-peel/)
-
-2:a behandlingen, [Microneedling](http://pipershudvard.com/microneedling/)
-
-3:e behandlingen, Magic Pot Facial Powerlift
-
-Pris 4500:- (Ord. Pris 4950:-)
-
-Hela kurpriset betalas vid första behandlingstillfället.
-
 ### [TILL BOKNING](/bokning/)
 
 ![16A67B44-1972-4BA5-BF31-1327F80827DC](/images/arkivbilder/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
