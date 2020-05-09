@@ -13,7 +13,7 @@ permalink: /ansiktsbehandlingar-magic-pot/
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-**Magic Pot Deep Hydration, 50 min 1350:-**
+#### Magic Pot Deep Hydration, 50 min 1350:-
 
 Fuktboost\!
 
@@ -21,13 +21,13 @@ Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic P
 
 Resultatet av denna dunderkombination blir en hälsosam, &aring;terfuktad hud med mycket lyster.
 
-**Kur, Magic Pot Deep Hydration**
+#### Kur, Magic Pot Deep Hydration
 
 3 behandlingar 3550:-
 
 Hela kurpriset betalas vid första behandlingstillfället. Kuren är giltig 6 m&aring;nader.
 
-**Magic Pot Facial Powerlift, 60min 1200:-**
+#### Magic Pot Facial Powerlift, 60min 1200:-
 
 En kraftfull anti-age behandling som passar alla hudtyper och ger ett omedelbart resultat.
 
@@ -35,13 +35,13 @@ Behandlingen inneh&aring;ller: grundrengöring, enzympeeling, AHA + EGF Skinboos
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition)
 
-**Kur, Magic Pot Facial Powerlift**
+#### Kur, Magic Pot Facial Powerlift
 
 3 behandlingar 3100:-
 
 Hela kurpriset betalas vid första behandlingstillfället.
 
-**Magic Pot Facial Vitalizing, 30 min 800:-**
+#### Magic Pot Facial Vitalizing, 30 min 800:-
 
 En kraftfull anti-age behandling som passar alla hudtyper. Detta är en ’Quick fix’ inför helgen\! Behandlingen erbjuder ett omedelbart resultat.
 
@@ -49,7 +49,7 @@ Behandlingen inneh&aring;ller: rengöring, mjukgörande lotion i kombination med
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition.)
 
-**Magic Pot Anti-age hals, käklinje och dekolletage, 30 min 700:-**
+#### Magic Pot Anti-age hals, käklinje och dekolletage, 30 min 700:-
 
 **NYHET\! Ny tjänst: [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min**
 
@@ -57,7 +57,7 @@ Behandlingen inneh&aring;ller: rengöring, mjukgörande lotion i kombination med
 
 Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-ons
 
-**Add-ons till Magic Pot**
+#### Add-ons till Magic Pot
 
 * Portömning med Derma F+, 150:-
 * Djupg&aring;ende kroppsmassage Magic Pot 10 min, &nbsp;250:-
