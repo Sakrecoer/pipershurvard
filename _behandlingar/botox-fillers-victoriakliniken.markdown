@@ -10,13 +10,13 @@ permalink: /botox-fillers-victoriakliniken/
 
 Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er injektionsbehandlingar i toppklass. Alla behandlingar utförs av injektionssköterskor fr&aring;n Victoriakliniken.
 
-**Botox, ett omr&aring;de 1900:-**
+#### Botox, ett omr&aring;de 1900:-
 
-**Botox, tv&aring; omr&aring;den 2900:-**
+#### Botox, tv&aring; omr&aring;den 2900:-
 
-**Botox, tre omr&aring;den 3900:-**
+#### Botox, tre omr&aring;den 3900:-
 
-**Fillers 4000:-/ml**\*
+#### Fillers 4000:-/ml\*
 
 \*Antal ml beror p&aring; önskat resultat och bestäms efter konsultation.
 
@@ -44,7 +44,7 @@ Victoriakliniken är en specialistklinik för estetisk och rekonstruktiv plastik
 
 Han anlitas regelbundet av de största tillverkarna av injektionsmaterial för att föreläsa och utbilda.
 
-**Botox**
+#### Botox
 
 Botulinumtoxin typ A, Botox, är ett muskelavslappnande medel som injiceras antingen i musklerna eller i huden, beroende p&aring; vilken behandling det handlar om.
 
@@ -68,7 +68,7 @@ Efter behandling kan lättare obehag och sm&aring; bl&aring;märken kring injekt
 
 ![FE15847B-2805-4356-A46E-0C9A828C0AA3](/images/arkivbilder/fe15847b-2805-4356-a46e-0c9a828c0aa3.jpeg)
 
-**Fillers**
+#### Fillers
 
 Victoriakliniken arbetar enbart med fillers fr&aring;n Restylane &reg;, som tillverkas av Galderma™.
 
