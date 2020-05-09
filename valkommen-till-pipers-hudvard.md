@@ -22,6 +22,6 @@ En god hudhälsa kräver ett &aring;tagande och kontinuitet men det ska inte beh
 
 Vi förespr&aring;kar ett holistiskt synsätt p&aring; hälsa och v&aring;rt m&aring;l är att stärka v&aring;ra kunders självkänsla.
 
-Har ni fr&aring;gor till oss p&aring; Pipers Hudv&aring;rd g&aring;r det bra att maila p&aring; Pipershudvard@gmail.com. H&aring;rtjejerna kan ni n&aring; p&aring; info@pipersgatan30.se eller ring till salongen 08-120 589 89.
+**Har ni fr&aring;gor till oss p&aring; Pipers Hudv&aring;rd så kan ni kontakta oss på informationen nedan.**
 
 Välkomna till oss\!
