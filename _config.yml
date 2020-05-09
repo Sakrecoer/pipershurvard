@@ -64,6 +64,8 @@ collections:
   #   permalink: /:path/
   behandlingar: 
     output: true
+  products:
+    output: false
 
 # defaults
 timezone: Europe/Stockholm
@@ -76,6 +78,18 @@ defaults:
     values:
       layout: "post"
       permalink: "/:year/:month/:day/:slug/"
+  - 
+    scope:
+      path: ""
+      types: "produkter"
+    values:
+      categories:
+        - Rengöring
+        - Toner
+        - Essence
+        - Serum&sol;Kräm
+        - UV-skydd
+        - Mask
   - 
     scope:
       path: ""
