@@ -1,6 +1,10 @@
 ---
 title: Milk Peel Dermaceutic
-description:
+description: >-
+  Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut
+  hudtonen och jobbar på orenheter. Behandlingen reducerar effektivt fina linjer
+  och torrhetsrynkor. Den rengör och fräschar effektivt upp oren, trött och
+  livlös hud.
 image: /images/behandlingar/7770bbca-1be4-4041-81ec-b02ee5fc97b4.jpg
 permalink: /milk-peel-dermaceutic/
 ---
