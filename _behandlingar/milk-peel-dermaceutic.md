@@ -1,17 +1,13 @@
 ---
 title: Milk Peel Dermaceutic
-description: >-
-  Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut
-  hudtonen och jobbar på orenheter. Behandlingen reducerar effektivt fina linjer
-  och torrhetsrynkor. Den rengör och fräschar effektivt upp oren, trött och
-  livlös hud.
+description:
 image: /images/behandlingar/7770bbca-1be4-4041-81ec-b02ee5fc97b4.jpg
 permalink: /milk-peel-dermaceutic/
 ---
 
 **Milk Peel Dermaceutic ansikte, 30 min 1700:-&nbsp;**
 
-&nbsp;
+Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut hudtonen och jobbar p&aring; orenheter. Behandlingen reducerar effektivt fina linjer och torrhetsrynkor. Den rengör och fräschar effektivt upp oren, trött och livlös hud.
 
 **Kur, Milk Peel.**
 
@@ -27,7 +23,7 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För 
 
 • Djupg&aring;ende kroppsmassage Magic Pot 10 min 250:-
 
-### [TILL BOKNING](https://pipershudvard.com/kontakta-oss/){: target="_blank"}
+### [TILL BOKNING](/bokning/){: target="_blank"}
 
 &nbsp;
 
@@ -44,7 +40,7 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För 
 
 Glykolsyra, mjölksyra & salicylsyra – pH 1.9
 
-&nbsp;
+![](/images/behandlingar/7770bbca-1be4-4041-81ec-b02ee5fc97b4.jpg){: width="1200" height="858"}
 
 Dermaceutic är utvecklat i Frankrike av ett team hudv&aring;rdsexperter (biokemister, hudläkare och estetiska kirurger) för att behandla olika hudproblem som tecken p&aring; &aring;ldrande, hyperpigmentering och acne.
 
