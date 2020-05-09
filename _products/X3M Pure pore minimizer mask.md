@@ -5,5 +5,5 @@ image: /images/banner.jpg
 shop_link:
 info_link:
 pris:
-category:
+category: Mask
 ---
