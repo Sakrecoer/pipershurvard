@@ -1,7 +1,7 @@
 ---
 title: Hudterapeutens val
 description:
-image:
+image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink: /hudterapeutens-val/
 ---
 
