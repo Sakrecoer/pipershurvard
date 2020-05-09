@@ -1,6 +1,6 @@
 ---
 title: Frans & bryn
-description:
+description: Frans- och brynfärg plus brynformning.
 image: /images/behandlingar/photo-2020-05-09-18-05-52.jpg
 permalink: /frans-bryn/
 ---
