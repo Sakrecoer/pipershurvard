@@ -1,10 +1,11 @@
 ---
-title: Välkommen till Pipers Hurvård
+title: Välkommen till Pipers Hudvård
 description: >-
   Hudvårdssalongen Pipers Hudvård hittar du på Pipersgatan 30 på Kungsholmen i
   Stockholm. Enklaste sättet att ta sig dit är att antingen åka till Rådhuset
   med blåa linjen eller att ta en liten promenad från Centralstationen.
 image:
+layout: post
 ---
 
 P&aring; Pipersgatan 30 hittar du även Stockholms bästa h&aring;rsalong som heter just [Pipersgatan 30](https://www.pipersgatan30.se/){: target="_blank"}, där arbetar fem fantastiska frisörer Emma, Elin, Evelin, Ronja och Ingvild.Det är dessa tjejer som gör sitt bästa för att hjälpa er när ni vill boka tid och köpa produkter eller presentkort när Lie eller Karin inte är p&aring; plats.

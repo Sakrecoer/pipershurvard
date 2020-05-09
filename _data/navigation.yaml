@@ -18,3 +18,7 @@
   link: 'https://www.pipersgatan.se'
   image: /images/pipers.jpg
   frontpage: true
+- title: Om oss
+  link: /valkommen-till-pipers-hudvard/
+  image:
+  frontpage: false
