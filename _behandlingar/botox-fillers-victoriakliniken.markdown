@@ -1,7 +1,10 @@
 ---
 title: Botox & Fillers
-description:
-image: '/images/behandlingar/botoxfillers.jpg'
+description: >-
+  Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er
+  injektionsbehandlingar i toppklass. Alla behandlingar utförs av
+  injektionssköterskor från Victoriakliniken.
+image: /images/behandlingar/botoxfillers.jpg
 permalink: /botox-fillers-victoriakliniken/
 ---
 
