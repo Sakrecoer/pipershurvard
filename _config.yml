@@ -99,12 +99,12 @@ defaults:
           uploads_dir: "images/produkter"
           width: "1024"
           height: "480"
-          resize_style: "cover"
+          resize_style: "contain"
         image:
           uploads_dir: "images/produkter"
           width: "1024"
           height: "480"
-          resize_style: "cover"
+          resize_style: "contain"
           mime_type: "image/jpeg"
   - 
     scope:
