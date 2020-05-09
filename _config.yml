@@ -16,7 +16,6 @@
 title: "Pipers Hudvård - En del av Pipersgatan 30"
 email: pipershudvard@gmail.com
 phone: +46 8 120 589 89
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pipershudvard.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: pipershudvard
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -27,24 +26,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 author:
   name: 
-  email:
+  email: pipershudvard@gmail.com
   twitter: PipersHudvard # twitter username without the @ symbol
 lang: sv_SE
 social:
-  - name: twitter
-    link: https://twitter.com/PipersHudvard
-  - name: instagram    
-    link: https://instagram.com/pipershudvard
-  - name: facebook
-    link: https://www.facebook.com/PipersHudvard/
-  - name: spotify
-    link: https://open.spotify.com/playlist/2EDQlOV0cZe3KHLiSf1nly?si=4iwj3I4ETYqnym8RHXuKMw
+  name: Pipers Hudvård
+  links:
+    - https://twitter.com/PipersHudvard
+    - https://www.facebook.com/PipersHudvard/
+    - https://instagram.com/pipershudvard
+
 # Build settings
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-last-modified-at
 
 # Plugin settings:
 
@@ -54,16 +50,18 @@ pagination:
 
 # Site Variables:
 boka: https://boka.itsperfect.se/31782333/Kund/Loggain?ReturnUrl=%2F31782333
-clinicare: https://www.beauty-bar.se/partner/pipers-hudvard/
+clinicare: https://www.beauty-bar.se/partner/pipers-hudvard/?ref=14
 victoria: https://www.victoriakliniken.com/webbokning-pipers/#city=0&locations=4,5,9&activity=null&caregivers=all
+ref: '?ref=14'
 
 # collection
 collections:
-  # landningssida:
-  #   output: true
-  #   permalink: /:path/
   behandlingar: 
     output: true
+  products:
+    sort_by: "category"
+    output: false
+    _hide_content: true
 
 # defaults
 timezone: Europe/Stockholm
@@ -76,6 +74,43 @@ defaults:
     values:
       layout: "post"
       permalink: "/:year/:month/:day/:slug/"
+      _options:
+        content:
+          uploads_dir: "images/prosts"
+          width: "1024"
+          height: "480"
+          resize_style: "contain"
+        image:
+          uploads_dir: "images/posts"
+          width: "1024"
+          height: "480"
+          resize_style: "contain"
+          mime_type: "image/jpeg"
+  - 
+    scope:
+      path: ""
+      types: "produkter"
+    values:
+      categories:
+        - Rengöring
+        - Toner
+        - Essence
+        - Serum&sol;Kräm
+        - UV-skydd
+        - Mask
+        - Ögonkräm
+      _options:
+        content:
+          uploads_dir: "images/produkter"
+          width: "1024"
+          height: "480"
+          resize_style: "contain"
+        image:
+          uploads_dir: "images/produkter"
+          width: "1024"
+          height: "480"
+          resize_style: "contain"
+          mime_type: "image/jpeg"
   - 
     scope:
       path: ""
@@ -85,14 +120,14 @@ defaults:
       _options:
         content:
           uploads_dir: "images/behandlingar"
-          width: "1200"
-          height: "400"
-          resize_style: "cover"
+          width: "1024"
+          height: "480"
+          resize_style: "contain"
         image:
           uploads_dir: "images/behandlingar"
-          width: "1200"
-          height: "400"
-          resize_style: "cover"
+          width: "1024"
+          height: "480"
+          resize_style: "contain"
           mime_type: "image/jpeg"
           expandable: "true"
 sass:

@@ -1,12 +1,10 @@
 ---
 date: 2018-04-20 04:57:54+00:00
-layout: post
 slug: '870'
 title: Förboka Magic Pot Deep Hydration till ett supererbjudande!
 image: /images/arkivbilder/8d02b337-fe42-4ab6-814e-9bb144b28f99.jpeg
 description: Kom till oss mellan 30/4-11/5 och få en Dermo Corrective Cream SPF 50++ (Värde 995:-) med dig hem 🌸
-categories:
-- Okategoriserade
+tags: 
 ---
 ### Kom och gör en Magic Pot Deep Hydration (1350:-) 
 

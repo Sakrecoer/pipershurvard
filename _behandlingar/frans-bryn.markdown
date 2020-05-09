@@ -1,7 +1,7 @@
 ---
 title: Frans & bryn
-description:
-image:
+description: Frans- och brynfärg plus brynformning.
+image: /images/behandlingar/photo-2020-05-09-18-05-52.jpg
 permalink: /frans-bryn/
 ---
 
@@ -17,9 +17,8 @@ permalink: /frans-bryn/
 
 **Lash Dose Keratinbehandling, 50:-**
 
-Lash Dose, en vårdande keratinbehandling för både fransar och bryn. Den första keratinbehandlingen som är kompatibel med [Eleebana’s One Shot Lash Lift](https://pipershudvard.com/lashlift/).
+Lash Dose, en v&aring;rdande keratinbehandling för b&aring;de fransar och bryn. Den första keratinbehandlingen som är kompatibel med [Eleebana’s One Shot Lash Lift](https://pipershudvard.com/lashlift/).
 
-Lash Dose appliceras efter en Lash Lift eller färgning av fransar och bryn för att återställa strånas naturliga skydd, låsa in färgen och tillföra närande keratin.
-
+Lash Dose appliceras efter en Lash Lift eller färgning av fransar och bryn för att &aring;terställa str&aring;nas naturliga skydd, l&aring;sa in färgen och tillföra närande keratin.
 
 ### [TILL BOKNING](http://pipershudvard.com/kontakta-oss/)

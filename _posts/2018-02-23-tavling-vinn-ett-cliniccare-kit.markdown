@@ -1,12 +1,10 @@
 ---
 date: 2018-02-23 15:04:42+00:00
-layout: post
 slug: tavling-vinn-ett-cliniccare-kit
 title: Tävling! Vinn ett Cliniccare-kit!
 image: /images/arkivbilder/d5425ec7-2db8-4b24-ae38-a57a86fd2923.jpeg
 description: 'Nu har du chans att vinna detta kit från Cliniccare! (Värde 1624:-)'
-categories:
-- Okategoriserade
+tags: 
 ---
 ### Nu har du chans att vinna detta kit från Cliniccare! (Värde 1624:-)
 

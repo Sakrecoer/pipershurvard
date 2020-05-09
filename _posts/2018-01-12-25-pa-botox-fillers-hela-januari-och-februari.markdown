@@ -3,10 +3,7 @@ title: 25 % på botox & fillers hela januari och februari!
 description: Injektionssköterska från Victoriakliniken kommer till Pipers Hudvård
 image: /images/arkivbilder/644ad092-59d0-4688-8531-7d6c7d7debfe.jpeg
 date: 2018-01-12 12:12:06+00:00
-layout: post
 slug: 25-pa-botox-fillers-hela-januari-och-februari
-categories:
-- Okategoriserade
 tags:
 - Botox
 - fillers

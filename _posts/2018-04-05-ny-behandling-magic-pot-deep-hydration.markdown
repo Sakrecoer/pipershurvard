@@ -1,12 +1,10 @@
 ---
 date: 2018-04-05 08:05:37+00:00
-layout: post
 slug: ny-behandling-magic-pot-deep-hydration
 title: Ny behandling! Magic Pot Deep Hydration
 image: /images/arkivbilder/f34d949c-5cfd-4d4e-b233-8022e71da5c8.png
 description: I denna behandling kombinerar vi radiofrekvens från agic Pot tillsammans med elektroporation från Dual Injector
-categories:
-- Okategoriserade
+tags: 
 ---
 I denna behandling kombinerar vi radiofrekvens från _[Magic Pot](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/)_ tillsammans med elektroporation från _[Dual Injector](http://mimass.se/produkt/dual-injector/)_ för att ännu effektivare kunna slussa ner aktiva ingredienser djupt ner i huden.
 

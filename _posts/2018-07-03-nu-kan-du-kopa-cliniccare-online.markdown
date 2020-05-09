@@ -1,12 +1,10 @@
 ---
 date: 2018-07-03 12:11:09+00:00
-layout: post
 slug: nu-kan-du-kopa-cliniccare-online
 title: Nu kan du köpa Cliniccare online!
 image: /images/arkivbilder/218e37b8-ba3b-4738-9866-cab7f2a30429.jpeg
 description: När du handlar på Beauty Bar by Mimass via länkarna på vår hemsida kan du vara säker på att du får hem samma kvalitetsprodukt som om du köper den hos oss på salongen.
-categories:
-- Okategoriserade
+tags: 
 ---
 #### Cliniccare kan nu köpas online, direkt hem till dig, på [Beauty Bar by Mimass!](http://www.beauty-bar.se/ansikte/?ref=14)
 
