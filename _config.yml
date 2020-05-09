@@ -93,6 +93,18 @@ defaults:
         - UV-skydd
         - Mask
         - Ögonkräm
+      _options:
+        content:
+          uploads_dir: "images/produkter"
+          width: "1024"
+          height: "480"
+          resize_style: "cover"
+        image:
+          uploads_dir: "images/produkter"
+          width: "1024"
+          height: "480"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
   - 
     scope:
       path: ""
