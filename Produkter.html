@@ -23,7 +23,9 @@ layout: landing
   </section>
   <!-- Two -->
   <section id="two" class="spotlights">
-    {% for produkt in site.products %}
+    {% assign produkter = site.products | sort: 'category' %}
+    {% for produkt in produkter %}
+
     <section>
       <a href="{{ produkt.info_link }}?ref=14" class="image">
         <img src="{{ produkt.image }}" alt="{{ produkt.title }}" data-position="center center" />
