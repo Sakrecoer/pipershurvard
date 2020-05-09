@@ -10,16 +10,17 @@ layout: default
 <!-- Wrapper -->
 <div id="wrapper">
   {% include navigation.html %}
+  {% include banner.html %}
   <!-- Main -->
-  <div id="main" class="alt">
+  <div id="main">
     <!-- One -->
     <section id="one">
       <div class="inner">
         <header class="major">
-          <h1>{{ page.title }}</h1>
+
         </header>
         <span class="image main"><img src="{{ page.image }}" alt="" /></span>
-        <div id="postimage">
+        <div id="postimage" class="editable">
           {{ content }}
         </div>
       </div>
