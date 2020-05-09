@@ -68,6 +68,7 @@ collections:
   products:
     sort_by: "category"
     output: false
+    _hide_content: true
 
 # defaults
 timezone: Europe/Stockholm
