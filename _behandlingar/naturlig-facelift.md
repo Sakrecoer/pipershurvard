@@ -1,11 +1,15 @@
 ---
 title: Naturlig Facelift
-description:
+description: >-
+  Naturlig Facelift är en behaglig ansiktsmassage som löser upp spänningar och
+  ger ansiktsmusklerna ett riktigt lyft utan kirurgiska ingrepp. Behandlingen
+  fördröjer åldrandeprocessen, skapar balans i energisystemet samt sänker djup
+  avslappning vilket bidrar till att förbättra den  allmänna hälsan.
 image: /images/behandlingar/22e791ed-7f41-4123-86f6-a8eb95e557bb.jpg
 permalink: /naturlig-facelift/
 ---
 
-\*\*Naturlig Facelift, 50 min 850:- \*\*
+**Naturlig Facelift, 50 min 850:- **
 
 Behandlingen inkluderar en lättare rengöring, vi rekommenderar att komma **osminkad**, massage av ansikte, nacke, axlar, huvud och dekolletage med olja eller kräm samt avslutande ansiktsprodukter.
 
@@ -20,8 +24,6 @@ Denna behandling g&aring;r bara att boka hos Lie.
 3 behandlingar
 
 Hela kurpriset betalas vid första behandlingstillfället.
-
-![](/images/behandlingar/22e791ed-7f41-4123-86f6-a8eb95e557bb.jpg){: width="1200" height="1200"}
 
 Naturlig Facelift är en behaglig ansiktsmassage som löser upp spänningar och ger ansiktsmusklerna ett riktigt lyft utan kirurgiska ingrepp. Behandlingen fördröjer &aring;ldrandeprocessen, skapar balans i energisystemet samt sänker djup avslappning vilket bidrar till att förbättra den &nbsp;allmänna hälsan.
 
