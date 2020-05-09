@@ -9,39 +9,23 @@ image: /images/behandlingar/microneedling.jpg
 permalink: /microneedling/
 ---
 
-**Cliniccare Microneedling face 2250:-**
+#### Cliniccare Microneedling face 2250:-
 
 Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar grundrengöring, enzympeeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande EGF sheet-mask, en fuktgivande essence samt Dermo Corrective Cream SPF 50++
 
 **Add on:**
 
-Behandling av hals 150:-
+* Behandling av hals 150:-
+* Behandling av dekolletage 150:-
+* Behandling av hals och dekolletage 250:-
 
-Behandling av dekolletage 150:-
-
-Behandling av hals och dekolletage 250:-
-
-**Microneedling-kur, 3 behandlingar 6500:-**
+#### Microneedling-kur, 3 behandlingar 6500:-
 
 Vid bokning av kur ing&aring;r hemv&aring;rdsprodukter till ett värde av ca 1000:-
 
-Hela kurpriset betalas vid första behandlingstillfället.
+Hela kurpriset betalas vid första behandlingstillfället och kuren är giltig 6 m&aring;nader.
 
 För behandlingar p&aring; kroppen, tex hudbristningar och ärr, kontakta oss för mer information, prisuppgifter och hjälp med bokning.
-
-**Power Trio behandlingskur**
-
-En behandlingskur där du f&aring;r alla v&aring;ra mest kraftfulla ansiktsbehandlingar i ett paket. Denna kur passar alla hudtyper och är för dig som behöver en rejäl fuktboost, lyster och en ordentlig uppfräschning.
-
-1:a behandlingen, [Kemisk Peel](http://pipershudvard.com/kemisk-peel/)
-
-2:a behandlingen, Microneedling
-
-3:e behandlingen, [Magic Pot Facial Powerlift](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/)
-
-Pris 4500:-
-
-Hela kurpriset betalas vid första behandlingstillfället.
 
 ### [TILL BOKNING](/bokning/)
 
@@ -63,7 +47,7 @@ Beroende p&aring; vad som ska behandlas anpassar vi hur djupt n&aring;larna g&ar
 
 M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med Cliniccare Kemisk Peel och Magic Pot Facial Powerlift.
 
-**Att tänka p&aring; efter microneedling:**
+#### Att tänka p&aring; efter microneedling:
 
 Det är normalt att rodnad och lätt svullnad uppst&aring;r efter behandling, vanligtvis försvinner detta efter n&aring;gra timmar, i vissa fall kan det ta upp till ett par dagar beroende p&aring; hur djup behandling man gjort
 
@@ -81,7 +65,7 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade hemv&aring;
 * Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon p&aring; minst en vecka efter behandling
 * För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer
 
-**Vi kan inte utföra behandlingen om du**
+#### Vi kan inte utföra behandlingen om du
 
 * har keloider, el har en historia av keloida ärr
 * har en p&aring;g&aring;ende infektion/virus i huden tex herpes simplex eller v&aring;rtor
