@@ -1,6 +1,10 @@
 ---
 title: Hudterapeutens val
-description:
+description: >-
+  Är du osäker på vilken behandling som skulle passa dig bäst så är detta
+  alternativet du ska välja när du bokar din ansiktsbehandling. Efter en
+  konsultation bestämmer vi tillsammans vad som passar dig utifrån hudtyp,
+  hudtillstånd och ekonomi.
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink: /hudterapeutens-val/
 ---
