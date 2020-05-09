@@ -27,7 +27,7 @@ layout: landing
     {% for produkt in produkter %}
 
     <section>
-      <a href="{{ produkt.info_link }}{{ site.ref }}" class="image">
+      <a target="_blank" rel="noopener" href="{{ produkt.info_link }}{{ site.ref }}" class="image">
         <img src="{{ produkt.image }}" alt="{{ produkt.title }}" data-position="center center" />
       </a>
       <div class="content">
@@ -39,8 +39,8 @@ layout: landing
           <p>{{ produkt.description }}</p>
           <h4>{{ produkt.pris }}</h4>
           <ul class="actions">
-            <li><a href="{{ produkt.info_link }}{{ site.ref }}" class="button">Läs mer</a></li>
-            <li><a href="{{ produkt.shop_link }}{{ site.ref }}" class="button primary">Köp</a></li>
+            <li><a target="_blank" rel="noopener" href="{{ produkt.info_link }}{{ site.ref }}" class="button">Läs mer</a></li>
+            <li><a target="_blank" rel="noopener" href="{{ produkt.shop_link }}{{ site.ref }}" class="button primary">Köp</a></li>
           </ul>
         </div>
       </div>
