@@ -1,7 +1,11 @@
 ---
 title: Dual Injector
-description:
-image: '/images/behandlingar/dualinjector.jpg'
+description: >-
+  Dual​ ​Injector​ ​är​ ​ett system​ ​som​ ​använder​ ​radiofrekvens​ ​(RF)​
+  ​och​ ​elektroporation. Radiofrekvensen​ ​ger en uppstramande effekt, det
+  värmer upp vävnaden vilket sätter igång microcirkulationen, öppnar porerna och
+  gör huden mer mottaglig för efterkommande produkter.
+image: /images/behandlingar/dualinjector.jpg
 permalink: /dual-injector/
 ---
 
