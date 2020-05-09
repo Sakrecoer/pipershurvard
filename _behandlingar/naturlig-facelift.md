@@ -9,7 +9,7 @@ image: /images/behandlingar/22e791ed-7f41-4123-86f6-a8eb95e557bb.jpg
 permalink: /naturlig-facelift/
 ---
 
-**Naturlig Facelift, 50 min 850:- **
+#### Naturlig Facelift, 50 min 850:-
 
 Behandlingen inkluderar en lättare rengöring, vi rekommenderar att komma **osminkad**, massage av ansikte, nacke, axlar, huvud och dekolletage med olja eller kräm samt avslutande ansiktsprodukter.
 
@@ -18,12 +18,6 @@ Drick gärna vatten innan och efter behandlingen för att underlätta utrensning
 För att uppn&aring; bästa effekt rekommenderas 3-5 behandlingar i tät följd. Därefter kan man underh&aring;lla sitt ansikte genom att ta en behandling var 5:e – 6:e vecka.
 
 Denna behandling g&aring;r bara att boka hos Lie.
-
-**Kur, Naturlig Facelift (Kommer snart\!)**
-
-3 behandlingar
-
-Hela kurpriset betalas vid första behandlingstillfället.
 
 Naturlig Facelift är en behaglig ansiktsmassage som löser upp spänningar och ger ansiktsmusklerna ett riktigt lyft utan kirurgiska ingrepp. Behandlingen fördröjer &aring;ldrandeprocessen, skapar balans i energisystemet samt sänker djup avslappning vilket bidrar till att förbättra den &nbsp;allmänna hälsan.
 
