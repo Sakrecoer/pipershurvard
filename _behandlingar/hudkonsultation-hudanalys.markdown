@@ -10,7 +10,7 @@ image: /images/behandlingar/konsultation.jpg
 permalink: /hudkonsultation-hudanalys/
 ---
 
-**Hudkonsultation/Hudanalys, 30 min 250:-**
+#### Hudkonsultation/Hudanalys, 30 min 250:-
 
 I hudkonsultationen ing&aring;r en hudanalys där vi fastställer hudtyp och vilket tillst&aring;nd huden är i just där och d&aring;. Det är viktigt att veta att ens hudtillst&aring;nd ändras, därför är det aldrig fel att g&aring; p&aring; flera hudanalyser under &aring;ret för att veta vad huden behöver. Hudtillst&aring;ndet p&aring;verkas av tex &aring;rstid, livsstil, miljö, stress, hormoner mm.
 
