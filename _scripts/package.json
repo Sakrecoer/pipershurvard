@@ -1,0 +1,15 @@
+{
+  "name": "instalib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "instant-liberation": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "instalib": "instalib"
+  },
+  "author": "",
+  "license": "ISC"
+}
