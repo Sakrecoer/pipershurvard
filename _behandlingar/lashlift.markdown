@@ -16,7 +16,11 @@ Elleebana One Shot Lash Lift är en skonsam behandling där vi böjer dina egna 
 
 #### Lash Lift utan färg, 45 min 650:-
 
+&nbsp;
+
 #### Lash Lift med fransfärg, 55 min 700:-
+
+&nbsp;
 
 #### Lash Lift med Frans och Brynfärg + brynansning, 60 min 750:-
 
