@@ -65,8 +65,8 @@ collections:
   behandlingar: 
     output: true
   products:
+    sort_by: "category"
     output: false
-    sort_by: category
 
 # defaults
 timezone: Europe/Stockholm
