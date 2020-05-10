@@ -20,8 +20,10 @@
 
 #boka {
   position: fixed;
-  bottom: 1.5em;
-  right: 1.5em;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
   z-index: 1000;
   background: linear-gradient(228deg, _palette(accent3), _palette(bg-alt));
   background-size: 400% 400%;
@@ -46,11 +48,7 @@
       100%{background-position:73% 0%}
   }
 }
-@include breakpoint('<=small') {
-  #boka {
-    right: 0.5em;
-  }
-}
+
 
 /* cookies */
 
