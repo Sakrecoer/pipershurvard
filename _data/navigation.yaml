@@ -15,7 +15,7 @@
   image: /images/producters.jpg
   frontpage: true
   outbound: false
-  menu: true
+  menu: false
 - title: Nyheter
   link: /nyheter/
   image: /images/20160101_DSC2110.jpg
