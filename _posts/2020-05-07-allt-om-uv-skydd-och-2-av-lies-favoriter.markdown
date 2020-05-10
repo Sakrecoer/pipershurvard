@@ -11,7 +11,7 @@ description:
 
 ”Maj månad och förhoppningsvis är solen här för att ge oss en värme, D-vitamin och långa ljusa dagar! Jag vill inte lägga smolk i bägaren, men den efterlängtade solen kräver också aktsamhet. Visste du det här om solskyddsmedel?”
 
-[**Läs SHR’s inlägg **](https://shrbloggen.wordpress.com/2020/05/07/skydda-huden-med-solskyddsmedel/)**[om UV-skydd här med mycket bra info!](https://shrbloggen.wordpress.com/2020/05/07/skydda-huden-med-solskyddsmedel/)**
+[Läs SHR's inlägg om UV-skydd här](https://shrbloggen.wordpress.com/2020/05/07/skydda-huden-med-solskyddsmedel/)
 
 
 #### **Hos oss på Pipers Hudvård i Stockholm hittar du UV-skydd för alla tillfällen, detta är 2 utav våra favoriter:**
