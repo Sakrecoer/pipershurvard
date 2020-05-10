@@ -1,5 +1,5 @@
 ---
-title: Hudkonsultation/Hudanalys
+title: Hudkonsultation / Hudanalys
 description: >-
   I hudkonsultationen ingår en hudanalys där vi fastställer hudtyp och vilket
   tillstånd huden är i just där och då. Det är viktigt att veta att ens
