@@ -2,10 +2,8 @@
 title: Hudkonsultation / Hudanalys
 description: >-
   I hudkonsultationen ingår en hudanalys där vi fastställer hudtyp och vilket
-  tillstånd huden är i just där och då. Det är viktigt att veta att ens
-  hudtillstånd ändras, därför är det aldrig fel att gå på flera hudanalyser
-  under året för att veta vad huden behöver. Hudtillståndet påverkas av tex
-  årstid, livsstil, miljö, stress, hormoner mm.
+  tillstånd huden är i just där och då. Hudtillståndet påverkas av tex årstid,
+  livsstil, miljö, stress, hormoner mm.
 image: /images/behandlingar/konsultation.jpg
 permalink: /hudkonsultation-hudanalys/
 ---
