@@ -45,8 +45,6 @@ Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-
 * Brynfärg, inkl brynansning, 150:-
 * Brynformning inkl brynfärg 250:-
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
-
 **Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.** Produkterna inneh&aring;ller enbart ingredienser som har vetenskapligt stöd för en god hudhälsa.
 
 * L&aring;gmolekulär hyaluronsyra (LMH)
