@@ -26,7 +26,7 @@ image: /images/salongen.jpg
           <img src="{{ navigate.image }}" alt="" />
         </span>
         <header class="major">
-          <h3><a href="{{ navigate.link }}" class="link">{{ navigate.title }}</a></h3>
+          <h3><a href="{{ navigate.link }}" class="link"{% if navigate.outbound == true %} target="_blank" rel="noopener"{% endif %}>{{ navigate.title }}</a></h3>
         </header>
       </article>
       {% endif %}{% endfor %}

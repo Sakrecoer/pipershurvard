@@ -12,12 +12,16 @@
 <nav id="menu">
   <ul class="links">
 {% for links in site.data.navigation %}
-    <li><a href="{{ links.link }}">{{ links.title }}</a></li>
+{% if links.menu == true %}
+{% unless links.title == 'Hem' and page.url == '/' %}
+    <li><a href="{{ links.link }}" class="link primary"{% if links.outbound == true %} target="_blank" rel="noopener"{% endif %}>{{ links.title }}</a></li>
+{% endunless %}
+{% endif %}
 {% endfor %}
   </ul>
   <ul class="actions stacked">
     <li><a href="/bokning/" class="button primary fit">Boka Nu!</a></li>
-    <li><a href="{{ site.clinicare }}{{ site.ref }}" class="button fit">Köp produkter online</a></li>
+    <li><a href="/produkter/" class="button fit" target="_blank" rel="noopener">Köp produkter online</a></li>
   </ul>
   <a href="https://shr.nu/salongsok/?searchstring=pipers+hudvard" style="border:none;" target="_blank"
     rel="noopener noreferrer nofollow"><img src="/images/SHR.png" alt="SHR logotyp" /></a>

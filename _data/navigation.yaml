@@ -2,23 +2,35 @@
   link: /
   image:
   frontpage: false
+  menu: true
+  outbound: false
 - title: Behandlingar
   link: /behandlingar/
   image: /images/behandlingar.jpg
   frontpage: true
+  outbound: false
+  menu: true
 - title: Produkter
   link: /produkter/
   image: /images/producters.jpg
   frontpage: true
+  outbound: false
+  menu: true
 - title: Nyheter
   link: /nyheter/
   image: /images/20160101_DSC2110.jpg
   frontpage: false
+  outbound: false
+  menu: true
 - title: Hårsalong
   link: 'https://www.pipersgatan30.se'
   image: /images/pipers.jpg
   frontpage: true
+  outbound: true
+  menu: false
 - title: Om oss
   link: /valkommen-till-pipers-hudvard/
   image:
   frontpage: false
+  outbound: false
+  menu: true
