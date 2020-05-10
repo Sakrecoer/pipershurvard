@@ -29,4 +29,4 @@ Lash Dose, en v&aring;rdande keratinbehandling för b&aring;de fransar och bryn.
 
 Lash Dose appliceras efter en Lash Lift eller färgning av fransar och bryn för att &aring;terställa str&aring;nas naturliga skydd, l&aring;sa in färgen och tillföra närande keratin.
 
-### [TILL BOKNING](http://pipershudvard.com/kontakta-oss/)
+&nbsp;
