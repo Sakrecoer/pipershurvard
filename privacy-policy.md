@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 description: >-
-  How we handle the information you submit through my contact form and what i do
+  How we handle the information you submit through the contact form and what i do
   with cookies.
 image:
 layout: post
@@ -39,24 +39,24 @@ sitemap: false
 <p>Some of our pages display content from external providers, e.g. YouTube, Facebook and Twitter.<br />To view this third-party content, you first have to accept their specific terms and conditions. This includes their cookie policies, which we have no control over.<br />But if you do not view this content, no third-party cookies are installed on your device.</p>
 <h3>Third-party providers that may found on this website</h3>
 <ul>
-  <li><a target="_blank" href="https://www.youtube.com/t/terms">YouTube</a></li>
-  <li><a target="_blank" href="https://archive.org/about/terms.php">Internet Archive</a></li>
-  <li><a target="_blank" href="https://www.scribblelive.com/legal/terms-of-use/">ScribbleLive</a></li>
-  <li><a href="https://www.google.com/intl/en_be/help/terms_maps/">Google Maps</a></li>
-  <li><a target="_blank" href="https://twitter.com/en/tos?wcmmode=disabled#intlTerms">Twitter</a></li>
-  <li><a target="_blank" href="https://www.tv1.eu/en/datenschutz/">TV1</a></li>
-  <li><a target="_blank" href="https://vimeo.com/terms">Vimeo</a></li>
-  <li><a target="_blank" href="https://www.microsoft.com/en/servicesagreement/">Microsoft</a></li>
-  <li><a target="_blank" href="https://www.facebook.com/legal/terms">Facebook</a></li>
-  <li><a target="_blank" href="https://policies.google.com/terms?hl=en&amp;gl=be">Google</a></li>
-  <li><a target="_blank" href="https://www.linkedin.com/legal/user-agreement">LinkedIn</a></li>
-  <li><a target="_blank" href="https://livestream.com/legal/terms">Livestream</a></li>
-  <li><a target="_blank" href="https://soundcloud.com/pages/privacy">SoundCloud</a></li>
-  <li><a target="_blank" href="http://www.europarl.europa.eu/portal/en/legal-notice">European Parliament</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.youtube.com/t/terms">YouTube</a></li>
+  <li><a target="_blank" rel="noopener" href="https://archive.org/about/terms.php">Internet Archive</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.scribblelive.com/legal/terms-of-use/">ScribbleLive</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.google.com/intl/en_be/help/terms_maps/">Google Maps</a></li>
+  <li><a target="_blank" rel="noopener" href="https://twitter.com/en/tos?wcmmode=disabled#intlTerms">Twitter</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.tv1.eu/en/datenschutz/">TV1</a></li>
+  <li><a target="_blank" rel="noopener" href="https://vimeo.com/terms">Vimeo</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.microsoft.com/en/servicesagreement/">Microsoft</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.facebook.com/legal/terms">Facebook</a></li>
+  <li><a target="_blank" rel="noopener" href="https://policies.google.com/terms?hl=en&amp;gl=be">Google</a></li>
+  <li><a target="_blank" rel="noopener" href="https://www.linkedin.com/legal/user-agreement">LinkedIn</a></li>
+  <li><a target="_blank" rel="noopener" href="https://livestream.com/legal/terms">Livestream</a></li>
+  <li><a target="_blank" rel="noopener" href="https://soundcloud.com/pages/privacy">SoundCloud</a></li>
+  <li><a target="_blank" rel="noopener" href="http://www.europarl.europa.eu/portal/en/legal-notice">European Parliament</a></li>
 </ul>
 <p>These third-party services are outside of the control of the Terminal Network Foundation. Providers may, at any time, change their terms of service, purpose and use of cookies, etc.</p>
 <h2>How can you manage cookies?</h2>
-<p>You can <strong>manage/delete</strong> cookies as you wish - for details, see <a target="_blank" href="https://www.aboutcookies.org/">aboutcookies.org</a></p>
+<p>You can <strong>manage/delete</strong> cookies as you wish - for details, see <a target="_blank" rel="noopener" href="https://www.aboutcookies.org/">aboutcookies.org</a></p>
 <h3>Removing cookies from your device</h3>
 <p>You can delete all cookies that are already on your device by clearing the browsing history of your browser. This will remove all cookies from all websites you have visited.<br />Be aware though that you may also lose some saved information (e.g. saved login details, site preferences).</p>
 <h3>Managing site-specific cookies</h3>
@@ -69,7 +69,7 @@ sitemap: false
 
 <h2>Personal data protection</h2>
 <p>Terminal Network Foundation is committed to user privacy.</p>
-<p>The policy on protection of individuals with regard to the processing of personal data by Terminal Network Foundationis based on <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725">Regulation (EU) 2018/1725</a> of the European Parliament and Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by Terminal Network Foundation and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC.</p>
+<p>The policy on protection of individuals with regard to the processing of personal data by Terminal Network Foundationis based on <a target="_blank" rel="noopener" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725">Regulation (EU) 2018/1725</a> of the European Parliament and Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by Terminal Network Foundation and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC.</p>
 <p>This general policy covers the Terminal Network Foundation's family of websites, within any of it's domain. Although you can browse through most of these websites without giving any personal information, in some cases information is required in order to provide the e-services you request. Websites that require such information treat it in full compliance with the regulation mentioned above and provide information about the use of your data in their specific privacy policy statements.</p>
 <p>In this respect:</p>
 <ul>
@@ -107,4 +107,4 @@ sitemap: false
 <p>Collected personal data is stored and encrypted on a computer of the external subcontractor acting as processor, who must guarantee the data protection and confidentiality required by Regulation (EU) 2018/1725.</p>
 <h2>Verifying, modifying or deleting information</h2>
 <p>If you want to verify, modify or delete your personal data stored by the responsible controllers for the Terminal Network Foundation website and its sub-sites, you can email the data controller for the Terminal Network Foundation website at the address below. In your email, clearly state your request and include the URL of the website/webpages your request refers to.</p>
-<p>Email: <a href="mailto:set+web@hallstrom.ch">set+web@hallstrom.ch</a></p>
+<p>Email: <a href="mailto:set+gdpr@terminalnet.work">set+gdpr@terminalnet.work/a></p>
