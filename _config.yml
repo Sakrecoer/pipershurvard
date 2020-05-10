@@ -21,9 +21,7 @@ instagram_username: pipershudvard
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vi tror på att respektera huden och bygga upp den från grunden med hjälp utav aktiva, vårdande ingredienser, på försiktighet och tålamod. Vi förespråkar ett holistiskt synsätt på hälsa och vårt mål är att stärka våra kunders självkänsla.
 author:
   name: 
   email: pipershudvard@gmail.com
