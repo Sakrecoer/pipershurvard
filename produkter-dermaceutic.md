@@ -4,7 +4,7 @@ description: >-
   Dermaceutic är utvecklat i Frankrike av ett team hudvårdsexperter
   (biokemister, hudläkare och estetiska kirurger) för att behandla olika
   hudproblem som tecken på åldrande, hyperpigmentering och acne.
-image: /uploads/a381345e-e902-40c4-9570-6d86d7d950f6.jpeg
+image: /images/arkivbilder/a381345e-e902-40c4-9570-6d86d7d950f6.jpeg
 layout: post
 ---
 
@@ -12,7 +12,7 @@ Dermaceutic är ett av de första hudv&aring;rdsmärken att börja utveckla prod
 
 Produkterna inneh&aring;ller en unik kombination av aktiva ämnen i höga koncentrationer som resulterar i en fastare och slätare hud med ökad lyster. Alla kan hitta sin egen favorit ur Dermaceutics sortiment, även de som lider av akne eller tilltäppt hud. Produkterna är skonsamma och är dessutom paraben- och doftfria.
 
-![](/uploads/4c78ecc5-e09b-479e-9127-0f74293b5270.jpeg){: width="1000" height="367"}
+![](/images/arkivbilder/20849ed076e412e575d82fa55727ba14.jpeg)
 
 Vi kommer endast sälja dessa produkter p&aring; salongen (inte online) och de mest aktiva produkterna kommer endast kunna köpas efter en konsultation eller behandling. Detta är för att kunna säkerställa att de används korrekt och du kan vara trygg i att de är anpassade efter din hudtyp och tillst&aring;nd.
 
