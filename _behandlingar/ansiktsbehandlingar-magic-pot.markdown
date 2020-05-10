@@ -1,5 +1,5 @@
 ---
-title: Ansikts- och kroppsbehandlingar med Magic Pot
+title: Behandlingar för ansikte och kropp med Magic Pot
 description: >-
   Magic Pot erbjuder 3 moderna teknologier vid ett och samma
   behandlingstillfälle, Radiofrekvens, vakuum och Super LED- ljus.

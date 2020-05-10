@@ -1,5 +1,5 @@
 ---
-title: Ansiktsbehandlingar Cliniccare
+title: Behandlingar med Cliniccare
 description: >-
   Cliniccare är en professionell salongsprodukt som enbart erbjuds på salonger,
   spa och kliniker med utbildade terapeuter, hudläkare och sjuksköterskor.
