@@ -7,10 +7,9 @@ description: >-
 image:
 layout: post
 ---
+Lie & Karin öppnade Pipers Hudv&aring;rd i Pipersgatan 30’s lokaler hösten 2017 och vi hade inte kunnat välja ett bättre ställe\! Det är ett kreativt, peppande och stärkande gäng tjejer som alla driver sina egna företag vilket ger oss en unik sammanh&aring;llning.Redan efter &aring;r 1 blev Pipers Hudv&aring;rd nominerade till &Aring;rets Salong p&aring; Sthlm Beauty Week, vi vann inte men det var en otrolig bekräftelse p&aring; v&aring;rt h&aring;rda arbete och en push fram&aring;t.
 
 P&aring; Pipersgatan 30 hittar du även Stockholms bästa h&aring;rsalong som heter just [Pipersgatan 30](https://www.pipersgatan30.se/){: target="_blank"}, där arbetar fem fantastiska frisörer Emma, Elin, Evelin, Ronja och Ingvild.Det är dessa tjejer som gör sitt bästa för att hjälpa er när ni vill boka tid och köpa produkter eller presentkort när Lie eller Karin inte är p&aring; plats.
-
-Lie & Karin öppnade Pipers Hudv&aring;rd i Pipersgatan 30’s lokaler hösten 2017 och vi hade inte kunnat välja ett bättre ställe\! Det är ett kreativt, peppande och stärkande gäng tjejer som alla driver sina egna företag vilket ger oss en unik sammanh&aring;llning.Redan efter &aring;r 1 blev Pipers Hudv&aring;rd nominerade till &Aring;rets Salong p&aring; Sthlm Beauty Week, vi vann inte men det var en otrolig bekräftelse p&aring; v&aring;rt h&aring;rda arbete och en push fram&aring;t.
 
 **V&aring;r hudfilosofi**
 
