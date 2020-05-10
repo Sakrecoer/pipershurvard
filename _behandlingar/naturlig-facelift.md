@@ -9,7 +9,7 @@ image: /images/behandlingar/22e791ed-7f41-4123-86f6-a8eb95e557bb.jpg
 permalink: /naturlig-facelift/
 ---
 
-#### Naturlig Facelift, 50 min 850:-
+## Naturlig Facelift, 50 min 850:-
 
 Behandlingen inkluderar en lättare rengöring, vi rekommenderar att komma **osminkad**, massage av ansikte, nacke, axlar, huvud och dekolletage med olja eller kräm samt avslutande ansiktsprodukter.
 

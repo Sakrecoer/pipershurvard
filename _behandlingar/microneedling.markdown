@@ -9,7 +9,7 @@ image: /images/behandlingar/microneedling.jpg
 permalink: /microneedling/
 ---
 
-#### Cliniccare Microneedling face 2250:-
+## Cliniccare Microneedling face 2250:-
 
 Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar grundrengöring, enzympeeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande EGF sheet-mask, en fuktgivande essence samt Dermo Corrective Cream SPF 50++
 
@@ -26,8 +26,6 @@ Vid bokning av kur ing&aring;r hemv&aring;rdsprodukter till ett värde av ca 100
 Hela kurpriset betalas vid första behandlingstillfället och kuren är giltig 6 m&aring;nader.
 
 För behandlingar p&aring; kroppen, tex hudbristningar och ärr, kontakta oss för mer information, prisuppgifter och hjälp med bokning.
-
-### [TILL BOKNING](/bokning/)
 
 ![4349D29E-3F47-423D-8C5A-A73407A0B80D](/images/arkivbilder/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)
 
@@ -76,3 +74,5 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade hemv&aring;
 * har sv&aring;r dermatit, psoriasis eller liknande
 * har aktiv papulopustular rosacea eller acne vulgaris
 * f&aring;r antikoagulantia terapi, cellgiftsbehandling,str&aring;lbehandling,höga doser av kortikosteroider, orala retinoider
+
+&nbsp;

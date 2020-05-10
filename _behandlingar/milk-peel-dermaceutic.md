@@ -24,10 +24,6 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För 
 * EGF Sheet-mask, 150:- (anpassas till hudtyp och tillst&aring;nd)
 * Djupg&aring;ende kroppsmassage Magic Pot 10 min 250:-
 
-### [TILL BOKNING](/bokning/){: target="_blank"}
-
-&nbsp;
-
 #### Milk Peel kan
 
 * &Aring;terställa lyster till gl&aring;mig hud
@@ -48,3 +44,5 @@ Dermaceutic är utvecklat i Frankrike av ett team hudv&aring;rdsexperter (biokem
 Dermaceutic är ett av de första hudv&aring;rdsmärken att börja utveckla produkter med ingredienser som hyaluronsyra, stabiliserat C-vitamin och glykolsyra. Sedan dess har de varit ledande inom cosmeceuticalindustrin när det gäller att upptäcka nya effektiva kombinationer av ingredienser inom estetisk dermatologi.
 
 Produkterna inneh&aring;ller en unik kombination av aktiva ämnen i höga koncentrationer som resulterar i en fastare och slätare hud med ökad lyster. Alla kan hitta sin egen favorit ur Dermaceutics sortiment, även de som lider av akne och tilltäppt hud. Produkterna är skonsamma och är dessutom paraben- och doftfria.
+
+&nbsp;
