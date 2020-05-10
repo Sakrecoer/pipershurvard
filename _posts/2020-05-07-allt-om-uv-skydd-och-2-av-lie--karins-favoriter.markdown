@@ -5,7 +5,9 @@ slug: allt-om-uv-skydd-och-2-av-lies-favoriter
 title: ”Allt” om UV-skydd och 2 av Lie & Karins favoriter
 wordpress_id: 1966
 image: /images/arkivbilder/e243dd72-a150-48dd-bcd0-1ff307da2eed.jpeg
-description:
+description: >-
+  Hos oss på Pipers Hudvård i Stockholm hittar du UV-skydd för alla tillfällen,
+  detta är 2 utav våra favoriter.
 ---
 
 > Maj m&aring;nad och förhoppningsvis är solen här för att ge oss en värme, D-vitamin och l&aring;nga ljusa dagar\! Jag vill inte lägga smolk i bägaren, men den efterlängtade solen kräver ocks&aring; aktsamhet. Visste du det här om solskyddsmedel?
@@ -30,4 +32,4 @@ K Ceutic använder jag oftast under vinterhalv&aring;ret, när min hud är lite 
 
 K Ceutic är ganska rik i sin känsla och direkt efter applikation kan man känna sig lite kladdig men jag som ofta är yttorr tycker att det är ganska skönt och den g&aring;r in fint efter en stund. Ett tips är att ”värma upp” produkten lite mellan fingrarna innan applikation.
 
-K Ceutic är perfekt om huden behöver &aring;terhämtning efter tex för mycket syrande, retinolkänslighet, microneedling eller andra behandlingar. \*\*OBS\! \*\*All SPF behöver appliceras flera g&aring;nger under dagen för att h&aring;lla sitt skydd\! Det man lägger i ansiktet eller kroppen p&aring; morgonen kommer inte skydda dig när g&aring;r ut efter jobbet eller ens p&aring; lunchen.
+K Ceutic är perfekt om huden behöver &aring;terhämtning efter tex för mycket syrande, retinolkänslighet, microneedling eller andra behandlingar. **OBS\!** All SPF behöver appliceras flera g&aring;nger under dagen för att h&aring;lla sitt skydd\! Det man lägger i ansiktet eller kroppen p&aring; morgonen kommer inte skydda dig när g&aring;r ut efter jobbet eller ens p&aring; lunchen.
