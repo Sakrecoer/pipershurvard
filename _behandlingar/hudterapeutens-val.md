@@ -15,4 +15,4 @@ permalink: /hudterapeutens-val/
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l.
 
-### [TILL BOKNING&nbsp;](/bokning/)
+&nbsp;
