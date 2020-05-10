@@ -11,6 +11,8 @@ image: /images/behandlingar/magicpot.jpg
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
 
+## Ansiktsbehandlingar med Magic Pot
+
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
 #### Magic Pot Deep Hydration, 50 min 1350:-
@@ -66,11 +68,7 @@ Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-
 * Brynfärg, inkl brynansning, 150:-
 * Brynformning inkl färg 250:-
 
-### [TILL BOKNING](https://pipershudvard.wordpress.com/kontakta-oss/)
-
-&nbsp;
-
-# Kropsbehandling med Magic Pot
+## Kropsbehandling med Magic Pot
 
 **Magic Pot djupg&aring;ende kroppsmassage, 30 min 600:-** Vi behandlar **ett omr&aring;de** med radiofrekvens/vakuum/LED som hjälper musklerna att slappna av och jobbar djupt med att lösgöra bindväven. Med hjälp av Magic Pot kan vi jobba fyra g&aring;nger djupare och mer effektivt än manuell massage.
 
@@ -84,8 +82,6 @@ Resultaten av Magic pot behandlingar innebär:
 * Snabbare resultat, kortare behandlingstid
 * Orörliga leder kan snabbt ”lösas” upp
 * Förbättring i hudstruktur, s&aring;som cellulitbildningar
-
-### [TILL BOKNING](/bokning/)
 
 ![16A67B44-1972-4BA5-BF31-1327F80827DC](/images/arkivbilder/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
 
