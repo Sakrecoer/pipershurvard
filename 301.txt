@@ -1,1 +1,2 @@
 /kroppsbehandlingar-magic-pot/ /ansiktsbehandlingar-magic-pot/
+/kontakta-oss/ /bokning/
