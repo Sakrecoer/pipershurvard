@@ -5,6 +5,7 @@ description: >-
   Förutom en hög andel fuktgivande lågmolekylär hyaluronsyra innehåller den även
   ingredienser som jämnar ut hudtonen och hämmar uppkomsten av nya
   pigmenteringar. Peptider stimulerar kollagenproduktionen för en fastare hud.
+  Klappas försiktigt in på torr hud efter renöring.
 image: /images/produkter/image13.jpg
 shop_link: 'https://www.beauty-bar.se/partner/pipers-hudvard/?add-to-cart=1605'
 info_link: 'https://www.beauty-bar.se/produkt/x3megf-glow-liquid-100ml/'
