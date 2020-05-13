@@ -17,7 +17,7 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 #### Magic Pot Deep Hydration, 50 min 1350:-
 
-Fuktboost\!
+Fuktboost\! En favoritbehandling\!
 
 Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic Pot för att generera ner värme. Vi f&aring;r en tightning effekt samt sätter ig&aring;ng microcirkulationen vilket gör huden mer mottaglig för efterföljande produkter. Med hjälp av elektroporation fr&aring;n Dual Injectorn slussar vi sedan ner hyaluronsyra och naturliga näringsämnen djupt ner i huden.
 

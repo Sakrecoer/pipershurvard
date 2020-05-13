@@ -11,9 +11,9 @@ permalink: /microneedling/
 
 ## Cliniccare Microneedling face 2250:-
 
-Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar grundrengöring, enzympeeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande EGF sheet-mask, en fuktgivande essence samt Dermo Corrective Cream SPF 50++
+Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar grundrengöring, enzympeeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande EGF sheet-mask samt Dermo Corrective Cream SPF 50++
 
-**Add on:**
+**Add-on:**
 
 * Behandling av hals 150:-
 * Behandling av dekolletage 150:-
@@ -29,7 +29,7 @@ För behandlingar p&aring; kroppen, tex hudbristningar och ärr, kontakta oss f�
 
 ![4349D29E-3F47-423D-8C5A-A73407A0B80D](/images/arkivbilder/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)
 
-Vi använder oss utav microneedlingpennan Micro Injector Litium+ för att skapa tusentals microkanaler i huden. I behandlingen använder vi endast Cliniccares sterila serum för att fylla huden med deras exklusiva l&aring;gmolekylära hyaluronsyra i kombination med mängder av antioxidanter.
+P&aring; Pipers Hudv&aring;rd använder vi oss utav microneedlingpennan Micro Injector Litium+ för att skapa tusentals microkanaler i huden. I behandlingen använder vi endast Cliniccares sterila serum för att fylla huden med deras exklusiva l&aring;gmolekylära hyaluronsyra i kombination med mängder av antioxidanter.
 
 Microneedling stimulerar produktionen av kollagen och elastin samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan behandlingen.
 
@@ -43,25 +43,25 @@ Microneedling kan användas för huduppstramning och hudföryngring samt för at
 
 Beroende p&aring; vad som ska behandlas anpassar vi hur djupt n&aring;larna g&aring;r ner i huden, mellan 0,25 och 2,5 mm.
 
-M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med Cliniccare Kemisk Peel och Magic Pot Facial Powerlift.
+M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med v&aring;ra [Magic Pot](/ansiktsbehandlingar-magic-pot/){: target="_blank"}\-behandlingar.
 
-#### Att tänka p&aring; efter microneedling:
+#### Efterv&aring;rd microneedling:
 
-Det är normalt att rodnad och lätt svullnad uppst&aring;r efter behandling, vanligtvis försvinner detta efter n&aring;gra timmar, i vissa fall kan det ta upp till ett par dagar beroende p&aring; hur djup behandling man gjort
+Det är normalt att rodnad och lätt svullnad uppst&aring;r efter behandling, vanligtvis försvinner detta efter n&aring;gra timmar, i vissa fall kan det ta upp till ett par dagar beroende p&aring; hur djup behandling man gjort.
 
-Upp till 1-2 dagar: kan huden kännas stickig, torr och stram
+Upp till 1-2 dagar: kan huden kännas stickig, torr och stram.
 
-Upp till 4 dagar: lätt fjällig och torr
+Upp till 4 dagar: lätt fjällig och torr.
 
-För optimal &aring;terfuktning använd Cliniccares specialanpassade hemv&aring;rdsprodukter.
+För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring;rdsprodukter](/produkter/){: target="_blank"}.
 
-* Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, l&aring;t huden vila och lägg inte p&aring; n&aring;gon produkt
-* För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen
-* Vänta minst 6 timmar efter behandling med att applicera makeup
-* Rör inte omr&aring;det med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden
-* Vänta 48 tim med h&aring;rd fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudv&aring;rdsbehandlingar
-* Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon p&aring; minst en vecka efter behandling
-* För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer
+* Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, l&aring;t huden vila och lägg inte p&aring; n&aring;gon produkt.
+* För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen.
+* Vänta minst 6 timmar efter behandling med att applicera makeup.
+* Rör inte omr&aring;det med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden.
+* Vänta 48 tim med h&aring;rd fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudv&aring;rdsbehandlingar.
+* Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon p&aring; minst en vecka efter behandling.
+* För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer.
 
 #### Vi kan inte utföra behandlingen om du
 
