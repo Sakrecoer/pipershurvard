@@ -3,9 +3,7 @@ title: Lash Lift
 description: >-
   Elleebana One Shot Lash Lift är en skonsam behandling där vi böjer dina egna
   fransar. Resultatet ger ett stort lyft för ögat och fransarna får ett
-  fylligare intryck. Behandlingen är semi-permanent och håller mellan 6-12
-  veckor beroende på din tillväxt av fransar samt skötsel. Vi rekommenderar ett
-  återbesök efter ca 6-8 veckor.
+  fylligare intryck.
 image: /images/behandlingar/lashlift.jpg
 permalink: /lashlift/
 ---
