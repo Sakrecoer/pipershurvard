@@ -1,7 +1,7 @@
 ---
 title: X3M EGF Glow Liquid
 description: >-
-  En toner som reducerar hyperpigmenteringar och ger lyser till en glåmig hud.
+  En toner som reducerar hyperpigmenteringar och ger lyster till en glåmig hud.
   Förutom en hög andel fuktgivande lågmolekylär hyaluronsyra innehåller den även
   ingredienser som jämnar ut hudtonen och hämmar uppkomsten av nya
   pigmenteringar. Peptider stimulerar kollagenproduktionen för en fastare hud.
