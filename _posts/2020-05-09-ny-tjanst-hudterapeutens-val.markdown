@@ -20,6 +20,6 @@ Detta alternativ är även perfekt för dig som kommer till oss regelbundet på 
 
 Tjänsten går nu att boka via vår [onlinebokning](https://boka.itsperfect.se/31782333/Kund/Loggain?ReturnUrl=%2F31782333).
 
-Fr.o.m den 1/6 jobbar Lie mån-fre 11:00-15:00 och Karin tis-tors 17:15-19:00 (tider kan variera). [Välkoma till oss på Pipers Hudvård, ](http://pipershudvard.com/valkommen-till-pipers-hudvard/)Pipersgatan 30, Kungsholmen Stockholm.
+Fr.o.m den 1/6 jobbar Lie mån-fre 11:00-15:00 och Karin tis-tors 17:15-19:00 (tider kan variera). [Välkoma till oss på Pipers Hudvård, ](http://pipershudvard.com/om-oss/)Pipersgatan 30, Kungsholmen Stockholm.
 
 

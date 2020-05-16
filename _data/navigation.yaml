@@ -29,7 +29,7 @@
   outbound: true
   menu: false
 - title: Om oss
-  link: /valkommen-till-pipers-hudvard/
+  link: /om-oss/
   image:
   frontpage: false
   outbound: false
