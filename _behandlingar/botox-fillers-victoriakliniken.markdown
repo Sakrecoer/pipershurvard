@@ -20,21 +20,11 @@ Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er injektionsbe
 
 \*Antal ml beror p&aring; önskat resultat och bestäms efter konsultation.
 
-**Lediga tider**
+&nbsp;
 
-Tisdag 26/3: 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 16:30
+**[Klicka här för att komma till Victoriaklinikens onlinebokning](https://www.victoriakliniken.com/webbokning-pipers/#city=0&amp;locations=4,5&amp;activity=null&amp;caregivers=all){: target="_blank"}**.
 
-M&aring;ndag 8/4: 17:00, 17:30, 18:00, 18:30
-
-M&aring;ndag 29/4: 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00, 16:30
-
-Onsdag 29/5: 16:00, 16:30, 17:00, 17:30, 18:00, 18:30
-
-Torsdag 13/6: 16:30, 17:00, 17:30, 18:00, 18:30
-
-Onsdag 26/6: 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00, 16:30
-
-Länken ovan tar dig till Victoriaklinikens onlinebokning. Välj tjänst: botox el fillers, klinik: Pipers Hudv&aring;rd, behandlare: Marina Bjälkdal. Välj dag och tid och fyll sedan i dina personuppgifter, skriv gärna i kommentarsfältet vilket omr&aring;de du önskar behandla. Du f&aring;r sedan en smsbekräftelse där det även finns en avbokningskod, avbokning kan göras p&aring; bokningssidan eller genom att ringa direkt till Victoriakliniken, 08-53021000. Avbokning m&aring;ste ske 24 tim innan avtalad tid för att slippa debitering.
+Välj tjänst: botox el fillers, klinik: Pipers Hudv&aring;rd, behandlare: Marina Bjälkdal. Välj dag och tid och fyll sedan i dina personuppgifter, skriv gärna i kommentarsfältet vilket omr&aring;de du önskar behandla. Du f&aring;r sedan en smsbekräftelse där det även finns en avbokningskod, avbokning kan göras p&aring; bokningssidan eller genom att ringa direkt till Victoriakliniken, 08-53021000. Avbokning m&aring;ste ske 24 tim innan avtalad tid för att slippa debitering.
 
 Vill du ha hjälp med bokning eller har fr&aring;gor maila oss p&aring; Pipershudvard@gmail.com
 
