@@ -5,7 +5,7 @@ description: >-
   C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector
   (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum
   från Dermaceutic och SPF el passande kräm
-image:
+image: /images/behandlingar/image0.jpg
 permalink:
 ---
 
