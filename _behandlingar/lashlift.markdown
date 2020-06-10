@@ -12,15 +12,15 @@ permalink: /lashlift/
 
 Elleebana One Shot Lash Lift är en skonsam behandling där vi böjer dina egna fransar. Resultatet ger ett stort lyft för ögat och fransarna f&aring;r ett fylligare intryck. Behandlingen är semi-permanent och h&aring;ller mellan 6-12 veckor beroende p&aring; din tillväxt av fransar samt skötsel. Vi rekommenderar ett &aring;terbesök efter ca 6-8 veckor.
 
-#### Lash Lift utan färg, 45 min 650:-
+#### Lash Lift utan färg, 45 min 750:-
 
 &nbsp;
 
-#### Lash Lift med fransfärg, 55 min 700:-
+#### Lash Lift med fransfärg, 55 min 800:-
 
 &nbsp;
 
-#### Lash Lift med Frans och Brynfärg + brynansning, 60 min 750:-
+#### Lash Lift med Frans och Brynfärg + brynansning, 60 min 950:-
 
 &nbsp;
 
