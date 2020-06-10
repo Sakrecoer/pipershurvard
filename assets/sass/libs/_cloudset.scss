@@ -24,7 +24,7 @@
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  z-index: 1000;
+  z-index: 1000000;
   background: linear-gradient(228deg, _palette(accent3), _palette(bg-alt));
   background-size: 400% 400%;
   
@@ -82,7 +82,7 @@
   justify-content: space-evenly;
   align-content: center;
   align-items: center;
-
+  box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
   a {
   color: _palette(fg);
   }
@@ -98,6 +98,19 @@
     }
   }
 }
+
+.boka-button-position {
+  bottom: 200px !important;
+  
+
+  @include breakpoint('>=medium') {
+    bottom: 120px !important;
+  }
+  @include breakpoint('>=large') {
+    bottom: 130px !important;
+  }
+}
+
 
 .yes {
   flex: 0 0 250px;

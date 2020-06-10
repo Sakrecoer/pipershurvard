@@ -35,6 +35,8 @@
     {% include analytics.js %}
   } else {
     document.getElementById('cookie-notice').style.display = 'flex';
+    var bokabutton = document.getElementById("boka");
+    bokabutton.classList.add("boka-button-position");
 
     {% include matomo.js %}
 
