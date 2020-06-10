@@ -6,7 +6,7 @@ description: >-
   (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum
   från Dermaceutic och SPF el passande kräm
 image: /images/behandlingar/image0.jpg
-permalink:
+permalink: /vita-c-glow-boost/
 ---
 
 Behandlingen inneh&aring;ller rengöring, peeling, portömning, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum fr&aring;n Dermaceutic och SPF el passande kräm
