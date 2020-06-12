@@ -1,7 +1,7 @@
 ---
 title: Ny C-vitaminbehandling
 description: Vi har uppdaterat vår C-vitaminbehandling Vita C Glow Boost.
-date: 2020-06-12 19:16:58 +0200
+date: 2020-06-12 19:16:00 +0200
 image: /images/posts/vitac.jpg
 tags:
   - c-vitamin
@@ -12,7 +12,9 @@ tags:
   - spf
 ---
 
-Vita C Glow Boost
+[Vita C Glow Boost](/vita-c-glow-boost/)
+
+Behandlingen inneh&aring;ller rengöring, peeling, portömning, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum fr&aring;n Dermaceutic och SPF el passande kräm
 
 C-vitamin/Askorbinsyra
 
