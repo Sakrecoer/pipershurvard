@@ -12,7 +12,7 @@ tags:
   - spf
 ---
 
-[Vita C Glow Boost](/vita-c-glow-boost/)
+#### [Vita C Glow Boost](/vita-c-glow-boost/)
 
 Behandlingen inneh&aring;ller rengöring, peeling, portömning, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum fr&aring;n Dermaceutic och SPF el passande kräm
 
