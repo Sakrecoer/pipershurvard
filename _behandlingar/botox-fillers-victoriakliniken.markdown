@@ -10,9 +10,9 @@ permalink: /botox-fillers-victoriakliniken/
 
 Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er injektionsbehandlingar i toppklass. Alla behandlingar utförs av injektionssköterskor fr&aring;n Victoriakliniken.
 
-#### Botox, ett omr&aring;de 1900:-
+#### Botox, ett omr&aring;de 1500:-
 
-#### Botox, tv&aring; omr&aring;den 2900:-
+#### Botox, tv&aring; omr&aring;den 3000:-
 
 #### Botox, tre omr&aring;den 3900:-
 
@@ -20,7 +20,7 @@ Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er injektionsbe
 
 \*Antal ml beror p&aring; önskat resultat och bestäms efter konsultation.
 
-**[Till Victoriaklinikens onlinebokning](https://www.victoriakliniken.com/webbokning-pipers/#city=0&amp;locations=4,5&amp;activity=null&amp;caregivers=all){: target="_blank"}{: class="button primary"}**.
+**[Till Victoriaklinikens onlinebokning](https://www.victoriakliniken.com/webbokning-pipers/#city=0&amp;locations=4,5&amp;activity=null&amp;caregivers=all){: .button.primary target="_blank"}**.
 
 Välj tjänst: botox el fillers, klinik: Pipers Hudv&aring;rd, behandlare: Marina Bjälkdal. Välj dag och tid och fyll sedan i dina personuppgifter, skriv gärna i kommentarsfältet vilket omr&aring;de du önskar behandla. Du f&aring;r sedan en smsbekräftelse där det även finns en avbokningskod, avbokning kan göras p&aring; bokningssidan eller genom att ringa direkt till Victoriakliniken, 08-53021000. Avbokning m&aring;ste ske 24 tim innan avtalad tid för att slippa debitering.
 
