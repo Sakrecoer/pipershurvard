@@ -27,4 +27,8 @@ Fördelarna med Brow Lift med keratinbehandling:
 * Stärker och v&aring;rdar brynen med vitaminer och mineraler
 * Keratinet v&aring;rdar och stärker str&aring;na&nbsp;
 
-![](/images/behandlingar/browlift3.jpg){: width="960" height="960"}
+&nbsp;
+
+EFTERV&Aring;RD:
+
+Efter behandlingen ska du undvika smink, rengöringsprodukter med olja eller att f&aring; vatten p&aring; dina bryn under 48 timmar. Du ska även försöka undvika att sova p&aring; dem och att träna under 48 timmar för bäst resultat. Borsta dagligen igenom brynen och applicera gärna keratinserum.
