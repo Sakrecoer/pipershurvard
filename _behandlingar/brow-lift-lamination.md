@@ -27,4 +27,4 @@ Fördelarna med Brow Lift med keratinbehandling:
 * Stärker och v&aring;rdar brynen med vitaminer och mineraler
 * Keratinet v&aring;rdar och stärker str&aring;na&nbsp;
 
-![](/images/behandlingar/browlift3.jpg){: width="960" height="960"}
+&nbsp;
