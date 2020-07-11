@@ -21,7 +21,6 @@ Märket By Bexter är ett Svenskt märke och omsorgsfullt framtaget av Elisabeth
 
 Fördelarna med Brow Lift med keratinbehandling:
 
-* Formar dina bryn i en snygg fyllig form
 * H&aring;llbart upp till 4-6 veckor&nbsp;
 * F&aring; fylligare och välformade bryn&nbsp;
 * Stärker och v&aring;rdar brynen med vitaminer och mineraler
