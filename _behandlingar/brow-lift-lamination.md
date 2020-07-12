@@ -1,5 +1,5 @@
 ---
-title: 'BROW LIFT, BROW LAMINATION'
+title: 'Brow Lift, Brow Lamination'
 description: >-
   Brow Lift, Brow Lamination är behandlingen som omskapar brynhårets riktning
   och formar dina bryn till en snygg och perfekt form.
