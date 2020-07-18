@@ -7,15 +7,11 @@ image: /images/behandlingar/browlift4.jpg
 permalink:
 ---
 
-#### Brow Lift, Brow Lamination, 50 min
-
-#### NYHET\! KOMMER SNART\!
+#### Brow Lift, Brow Lamination, 50 min 850:-
 
 Brow Lift, Brow Lamination är behandlingen som omskapar brynh&aring;rets riktning och formar dina bryn till en snygg och perfekt form. Den här behandlingen passar till dig som har tunna bryn och vill skapa en fylligare look, till dig som har ostyriga bryn och vill f&aring; dina bryn p&aring; plats eller för den som bara vill ha de där perfekt formade brynen.
 
 I den här behandlingen ing&aring;r permanent utav dina bryn, färgning i passande färg, formning och en v&aring;rdande keratinbehandling, styling och tips/r&aring;d för dina bryn.
-
-#### Brow Lift utan färg, 30min
 
 #### &nbsp;
 
