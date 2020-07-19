@@ -3,7 +3,7 @@ title: Microneedlinglördagar
 description: >-
   En lördag i månaden kommer Lie ha öppet endast för microneedlingbehandlingar,
   start den 1/8.
-date: 2020-07-11 00:00:00 +0200
+date: 2020-07-19 11:00:00 +0200
 image: /images/posts/microlördag.jpg
 tags:
   - microneedling
