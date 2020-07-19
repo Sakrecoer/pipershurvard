@@ -35,8 +35,10 @@
     {% include analytics.js %}
   } else {
     document.getElementById('cookie-notice').style.display = 'flex';
+    {% if page.collection == 'behandlingar' or page.url == '/behandlingar/' %}
     var bokabutton = document.getElementById("boka");
     bokabutton.classList.add("boka-button-position");
+    {% endif %}
 
     {% include matomo.js %}
 
