@@ -12,7 +12,7 @@ tags:
 
 #### Microneedlinglördag
 
-En lördag i m&aring;naden kommer Lie ha öppet endast för [microneedlingbehandlingar](/microneedling/){: target="_blank"}, med start den 1/8. För att boka en tid maila pipershudvard@gmail.com eller ring till salongen 08-120 589 89. Dessa tider g&aring;r inte att boka online.
+En lördag i m&aring;naden kommer Lie ha öppet endast för [microneedlingbehandlingar](/microneedling/){: target="_blank"}, med start den 1/8. För att boka en tid maila [pipershudvard@gmail.com](mailto:pipershudvard@gmail.com) eller ring till salongen 08-120 589 89. Dessa tider g&aring;r inte att boka online.
 
 Vad är microneedling?
 
