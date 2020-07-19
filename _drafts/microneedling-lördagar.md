@@ -4,10 +4,10 @@ description: >-
   En lördag i månaden kommer Lie ha öppet endast för microneedlingbehandlingar,
   start den 1/8.
 date: 2020-07-11 00:00:00 +0200
-image:
+image: /images/posts/microlördag.jpg
 tags:
-  - Nyckel
-  - Ord
+  - microneedling
+  - dermapen
 ---
 
 #### Microneedlinglördag
