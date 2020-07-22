@@ -12,7 +12,7 @@ tags:
 
 &nbsp;
 
-Har du hört talas om superingrediensen EGF? Epidermal growth factor eller epidermal tillväxtfaktor p&aring; svenska. Epidermis är överhuden, allts&aring; hudens översta lager. Huden best&aring;r utav tre lager; epidermis, dermis och subcutis. Denna ingrediens verkar cellkommunicerande i epidermis. Den "pratar" med cellerna i huden och säger till dem att förnya sig och reparera sig.
+Har du hört talas om superingrediensen EGF? Epidermal growth factor eller epidermal tillväxtfaktor p&aring; svenska. Epidermis är överhuden, allts&aring; hudens översta lager. Huden best&aring;r utav tre lager; epidermis, dermis och subcutis. Denna ingrediens verkar cellkommunicerande i epidermis. Den "pratar" med cellerna i huden och säger &aring;t dem att förnya sig och reparera sig.
 
 1986 tilldelades Rita Levi-Montalcini och Stanley Cohen Nobelpriset i medicin för bl.a. deras upptäckt av cellaktivatorn EGF och dess effekt p&aring; huden.&nbsp;
 
