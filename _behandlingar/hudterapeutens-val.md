@@ -9,7 +9,7 @@ image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink: /hudterapeutens-val/
 ---
 
-## NYHET\! Hudterapeutens val, 75 min
+## Hudterapeutens val, 75 min
 
 Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.
 
