@@ -2,7 +2,7 @@
 title: EGF
 description: Har du hört talas om superingrediensen EGF?
 date: 2020-07-22 10:03:00 +0200
-image:
+image: /images/posts/refresh-paket.jpg
 tags:
   - Nyckel
   - Ord
