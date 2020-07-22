@@ -1,6 +1,6 @@
 ---
 title: EGF
-description: Detta är en ingrediens att ha koll på
+description: Har du hört talas om superingrediensen EGF?
 date: 2020-07-22 10:03:00 +0200
 image:
 tags:
