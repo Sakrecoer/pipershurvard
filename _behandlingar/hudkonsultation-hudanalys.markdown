@@ -1,21 +1,14 @@
 ---
 title: Hudkonsultation / Hudanalys
-description: >-
-  I hudkonsultationen ingår en hudanalys där vi fastställer hudtyp och vilket
-  tillstånd huden är i just där och då. Hudtillståndet påverkas av tex årstid,
-  livsstil, miljö, stress, hormoner mm.
+description: "I tjänsten Hudterapeutens Val\_ingår en hudanalys där vi fastställer hudtyp och i vilket\_tillstånd huden är, vi går igenom din rutin och tittar på vilka ingredienser samt behandlingar som passar\_för din hud. Utifrån analysen gör vi sedan en behandling. Priset varierar och beror på vilken behandling vi gör."
 image: /images/behandlingar/konsultation.jpg
 permalink: /hudkonsultation-hudanalys/
 ---
 
-## Hudkonsultation / Hudanalys, 30 min 250:-
+## Hudkonsultation / Hudanalys
 
-I hudkonsultationen ing&aring;r en hudanalys där vi fastställer hudtyp och vilket tillst&aring;nd huden är i just där och d&aring;. Det är viktigt att veta att ens hudtillst&aring;nd ändras, därför är det aldrig fel att g&aring; p&aring; flera hudanalyser under &aring;ret för att veta vad huden behöver. Hudtillst&aring;ndet p&aring;verkas av tex &aring;rstid, livsstil, miljö, stress, hormoner mm.
+I tjänsten [Hudterapeutens Val](/hudterapeutens-val/)&nbsp;ing&aring;r en hudanalys där vi fastställer hudtyp och i vilket tillst&aring;nd huden är, vi g&aring;r igenom din rutin och tittar p&aring; vilka ingredienser samt behandlingar som passar för din hud. Utifr&aring;n analysen gör vi sedan en behandling. Priset varierar och beror p&aring; vilken behandling vi gör.
 
-Efter hudanalysen lägger vi tillsammans upp en personlig behandlingsplan utifr&aring;n dina önskem&aring;l och dina behov samt rekommenderar produkter som passar din hudtyp och tillst&aring;nd.
-
-Det finns inget krav p&aring; att man m&aring;ste boka in en behandling efter konsultationen men om man vill det s&aring; dras konsultationspriset av p&aring; den första behandlingen.
-
-Bokning av hudkonsultation göra via mail, Pipershudvard@gmail.com
+[Bokning](/bokning/)
 
 &nbsp;
