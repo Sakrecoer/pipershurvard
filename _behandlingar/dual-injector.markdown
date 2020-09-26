@@ -13,6 +13,8 @@ Dual Injector kan läggas till som en Add-on i v&aring;ra [ansiktsbehandlingar](
 
 Vi använder även elektroporationen tillsammans med Magic Pot i v&aring;r behandling [Magic Pot Deep Hydration](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/)(1350:-)
 
+#### **NY****HET\! MAGIC POT DEEP HYDRATION KOMMER UPPDATERAS TILL MESODUO DEEP HYDRATION\!**
+
 Dual​ ​Injector Dual​ ​Injector​ ​med​ ​elektroporation​ ​är​ ​baserat​ ​p&aring;​ ​nobelpriset​ ​som​ ​utdelades​ ​2003​ ​relaterat till​ ​kunskapen​ ​om​ ​cellens​ ​uppbyggnad​ ​där​ ​man​ ​fann​ ​en​ ​metod​ ​att​ ​med​ ​hjälp​ ​av​ ​elektriska pulser​ ​öppna​ ​upp​ ​mikrokanaler​ ​i​ ​cellens​ ​struktur.​ ​N&aring;got​ ​som​ ​möjliggör​ ​att​ ​aktiva ingredienser​ ​kan​ ​penetrera​ ​in​ ​i​ ​huden.​ ​Cellen​ ​p&aring;verkas​ ​av​ ​den​ ​elektromagnetiska​ ​pulsen vilket​ ​ger​ ​access​ ​till​ ​de​ ​aktiva​ ​ingredienserna​ ​att​ ​verka​ ​mer​ ​effektivt för​ ​att​ ​stärka​ ​huden.
 
 Dual​ ​Injector​ ​är​ ​ett system​ ​som​ ​använder​ ​radiofrekvens​ ​(RF)​ ​och​ ​elektroporation. Radiofrekvensen​ ​ger en uppstramande effekt, det värmer upp vävnaden vilket sätter ig&aring;ng microcirkulationen, öppnar porerna och gör huden mer mottaglig för efterkommande produkter.
