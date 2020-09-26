@@ -15,9 +15,9 @@ Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, sa
 
 **Add-on:**
 
-* Behandling av hals 150:-
-* Behandling av dekolletage 150:-
-* Behandling av hals och dekolletage 250:-
+* Behandling av hals 200:-
+* Behandling av dekolletage 200:-
+* Behandling av hals och dekolletage 300:-
 
 #### Microneedling-kur, 3 behandlingar 6500:-
 
