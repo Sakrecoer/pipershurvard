@@ -15,6 +15,10 @@ permalink: /ansiktsbehandlingar-magic-pot/
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
+#### **NY****HET\! Magic Pot Deep Hydration kommer uppdateras till Mesoduo Deep Hydration\!**
+
+&nbsp;
+
 #### Magic Pot Deep Hydration, 50 min 1350:-
 
 Fuktboost\! En favoritbehandling\!
@@ -23,23 +27,21 @@ Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic P
 
 Resultatet av denna dunderkombination blir en hälsosam, &aring;terfuktad hud med mycket lyster.
 
-#### Kur, Magic Pot Deep Hydration
+#### **NY****HET\! Magic Pot Deep Hydration kommer uppdateras till Mesoduo Deep Hydration\!**
 
-3 behandlingar 3550:-
+&nbsp;
 
-Hela kurpriset betalas vid första behandlingstillfället. Kuren är giltig 6 m&aring;nader.
-
-#### Magic Pot Facial Powerlift, 60min 1200:-
+#### Magic Pot Facial Powerlift, 60min 1500:-
 
 En kraftfull anti-age behandling som passar alla hudtyper och ger ett omedelbart resultat.
 
-Behandlingen inneh&aring;ller: grundrengöring, enzympeeling, AHA + EGF Skinbooster, lotion anpassad till din huds tillst&aring;nd i kombination med en skön och kraftfull radiofrekvens/vakuum/LED-behandling av ansikte, hals och käklinje. Behandlingen avslutas med produkter anpassade till din hud.
+Behandlingen inneh&aring;ller: grundrengöring, enzympeeling, AHA + EGF Skinbooster, lotion anpassad till din huds tillst&aring;nd i kombination med en skön och kraftfull radiofrekvens/vakuum/LED-behandling av ansikte, hals, käklinje och dekolletage. Behandlingen avslutas med produkter anpassade till din hud.
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition)
 
 #### Kur, Magic Pot Facial Powerlift
 
-3 behandlingar 3100:-
+3 behandlingar 4000:-
 
 Hela kurpriset betalas vid första behandlingstillfället.
 
@@ -47,30 +49,36 @@ Hela kurpriset betalas vid första behandlingstillfället.
 
 En kraftfull anti-age behandling som passar alla hudtyper. Detta är en ’Quick fix’ inför helgen\! Behandlingen erbjuder ett omedelbart resultat.
 
-Behandlingen inneh&aring;ller: rengöring, mjukgörande lotion i kombination med en ljuvlig och kraftfull radiofrekvens/vakuum/LED-behandling av tv&aring; omr&aring;den i ansiktet. Behandlingen avslutas med produkter anpassade till din hud.
+Behandlingen inneh&aring;ller: rengöring, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition.)
 
 #### Magic Pot Anti-age hals, käklinje och dekolletage, 30 min 700:-
 
-**NYHET\! Ny tjänst: [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min**
+&nbsp;
 
-**Tips\!**
+**TIPS\!**
 
 Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-ons
 
-#### Add-ons till Magic Pot
+#### Add-ons till ansiktsbehandlingar med Magic Pot&nbsp;
 
-* Portömning med Derma F+, 150:-
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min, &nbsp;250:-
-* Frans och brynfärg, inkl brynansning, 250:-
-* Fransfärg, 150:-
-* Brynfärg, inkl brynansning, 150:-
-* Brynformning inkl färg 250:-
+* Portömning med Derma F, 200:-
+* Djupg&aring;ende kroppsmassage Magic Pot 10 min,&nbsp; 300:-
+* Frans och brynfärg, inkl brynansning, 300:-
+* Fransfärg, 200:-
+* Brynfärg, inkl brynansning, 200:-
+* Brynformning inkl färg 300:-
+
+## &nbsp;
 
 ## Kropsbehandling med Magic Pot
 
-**Magic Pot djupg&aring;ende kroppsmassage, 30 min 600:-** Vi behandlar **ett omr&aring;de** med radiofrekvens/vakuum/LED som hjälper musklerna att slappna av och jobbar djupt med att lösgöra bindväven. Med hjälp av Magic Pot kan vi jobba fyra g&aring;nger djupare och mer effektivt än manuell massage.
+&nbsp;
+
+#### **Magic Pot djupg&aring;ende kroppsmassage, 30 min 600:-**
+
+Vi behandlar **ett omr&aring;de** med radiofrekvens/vakuum/LED som hjälper musklerna att slappna av och jobbar djupt med att lösgöra bindväven. Med hjälp av Magic Pot kan vi jobba fyra g&aring;nger djupare och mer effektivt än manuell massage.
 
 Resultaten av Magic pot behandlingar innebär:
 
