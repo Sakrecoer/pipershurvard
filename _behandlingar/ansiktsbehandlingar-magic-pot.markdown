@@ -27,7 +27,7 @@ Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic P
 
 Resultatet av denna dunderkombination blir en hälsosam, &aring;terfuktad hud med mycket lyster.
 
-#### **NY****HET\! Magic Pot Deep Hydration kommer uppdateras till Mesoduo Deep Hydration\!**
+#### **NY****HET\! Magic Pot Deep Hydration kommer uppdateras till Mesoduo Deep Hydration\! Läs mer här\!**
 
 &nbsp;
 
