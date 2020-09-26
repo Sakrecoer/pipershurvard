@@ -54,6 +54,8 @@ Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-
 
 &nbsp;
 
+![](/images/behandlingar/clinicare.jpg){: width="720" height="208"}
+
 **Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.** Produkterna inneh&aring;ller enbart ingredienser som har vetenskapligt stöd för en god hudhälsa.
 
 * L&aring;gmolekulär hyaluronsyra (LMH)
