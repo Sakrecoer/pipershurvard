@@ -4,7 +4,7 @@ description: >-
   Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.
   Produkterna innehåller enbart ingredienser som har vetenskapligt stöd för en
   god hudhälsa.
-image: /images/behandlingar/clinicare.jpg
+image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
