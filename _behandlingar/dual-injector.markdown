@@ -9,7 +9,7 @@ image: /images/behandlingar/dualinjector.jpg
 permalink: /dual-injector/
 ---
 
-Dual Injector kan läggas till som en Add-on i v&aring;ra [ansiktsbehandlingar](http://pipershudvard.com/ansiktsbehandlingar-cliniccare/) tillsammans med en Sheet-mask (250:-)
+Dual Injector kan läggas till som en Add-on i v&aring;ra [ansiktsbehandlingar](http://pipershudvard.com/ansiktsbehandlingar-cliniccare/) tillsammans med en Sheet-mask (300:-)
 
 Vi använder även elektroporationen tillsammans med Magic Pot i v&aring;r behandling [Magic Pot Deep Hydration](http://pipershudvard.com/ansiktsbehandlingar-magic-pot/)(1350:-)
 
