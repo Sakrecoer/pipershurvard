@@ -17,8 +17,6 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 #### **NY****HET\! Magic Pot Deep Hydration kommer uppdateras till Mesoduo Deep Hydration\!**
 
-&nbsp;
-
 #### Magic Pot Deep Hydration, 50 min 1350:-
 
 Fuktboost\! En favoritbehandling\!
