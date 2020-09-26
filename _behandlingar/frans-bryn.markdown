@@ -7,21 +7,23 @@ permalink: /frans-bryn/
 
 #### Fransfärg, 30 min 300:-
 
-(som Add-on i ansiktsbehandling 150:-)
+Färgning av fransar (som Add-on i ansiktsbehandling 200:-)
 
 #### Brynfärg, inkl brynansning, 30 min 300:-
 
-(i ansiktsbehandling 150:-)
+Färgning av bryn och lättare plock (i ansiktsbehandling 200:-)
 
 #### Frans och brynfärg, inkl brynansning, 45 min 400:-
 
-(i ansiktsbehandling 250:-)
+Färgning av fransar och bryn med lättare plock (i ansiktsbehandling 300:-)
 
 #### Brynformning inkl brynfärg, 45 min 450:-
 
-(i ansiktsbehandling 250:-)
+Färgning av bryn och formning med pincett. För dig som inte brukar h&aring;lla efter brynen själv och där det behövs mer tid för plock och formning.&nbsp;
 
-Add-on, tillägg i behandling:
+#### Add-on, tillägg i behandling:
+
+&nbsp;
 
 #### Lash Dose Keratinbehandling, 50:-
 
