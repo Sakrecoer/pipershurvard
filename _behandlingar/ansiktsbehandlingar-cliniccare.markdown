@@ -1,9 +1,10 @@
 ---
 title: Behandlingar med Cliniccare
 description: >-
-  Cliniccare är en professionell salongsprodukt som endast erbjuds på salonger,
-  spa och kliniker med utbildade hudterapeuter, hudläkare och sjuksköterskor.
-image: /images/behandlingar/clinicare.jpg
+  Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.
+  Produkterna innehåller enbart ingredienser som har vetenskapligt stöd för en
+  god hudhälsa.
+image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
@@ -15,35 +16,45 @@ Denna snabba och effektiva behandling &aring;terfuktar huden, skapar vitalitet o
 
 Vi börjar med en grundrengöring av ansiktet (ögonmakeup kan sitta kvar om s&aring; önskas) sedan exfolierar vi huden med en enzympeeling som effektivt lyfter fram en ny, smidig och fräsch hud utan att irritera. Avslutningsvis appliceras en fuktgivande essence, ögonkräm och till sist Dermo Corrective Cream; en multifunktionell dagkräm som utöver hög SPF (50++) har självjusterande pigment som bl.a jämnar ut hudtonen, minskar rodnad och svullnad samt &aring;terfuktar p&aring; djupet.
 
-Denna behandling passar perfekt som konsultationsbehandling och en bra grund om du vill sätta ihop din egen ansiktsbehandling med v&aring;ra add-ons, tex portömning med maskin, ultraljud. (Se v&aring;ra add-ons nedan)
+Denna behandling använd som grund när du vill sätta ihop din egen ansiktsbehandling med v&aring;ra add-ons, tex portömning med maskin, ultraljud. (Se v&aring;ra add-ons nedan)
 
 #### Basic Care 60 min 1050:-
 
-I Basic Care erbjuder vi en mer traditionell ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd, ge djup &aring;terfuktning samt att stärka hudbarriären. Behandlingen innefattar grundrengöring, enzympeeling, portömning med hjälp av ultraljud (Derma F+) brynansning, AHA + EGF Skinbooster, en v&aring;rdande ansiktsmask som slussas ner med Derma F+ och avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
+I Basic Care erbjuder vi en mer traditionell ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd, ge djup &aring;terfuktning samt att stärka hudbarriären. Behandlingen innefattar grundrengöring, enzympeeling, portömning med hjälp av ultraljud (Derma F) brynansning, AHA + EGF Skinbooster, en v&aring;rdande ansiktsmask som slussas ner med Derma F och avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
 
 #### Exclusive, 75 min 1650:-
 
-Denna resultatinriktade lyxbehandling inleds med en djupg&aring;ende och avkopplande nack- och skuldermassage med v&aring;r exklusiva [Magic Pot](https://pipershudvard.com/kroppsbehandlingar-magic-pot/){: target="_blank"}. Vi fortsätter sedan med ansiktet och gör en grundrengöring, enzympeeling, portömning med hjälp av ultraljud (Derma F+) och brynansning. Sedan applicerar vi Cliniccare’s AHA + EGF Skinbooster och en sheet-mask anpassad efter din hudtyp och tillst&aring;nd. Maskens ingredienser slussas sedan ner med hjälp av radiofrekvens och elektroporation ([Dual Injector)](https://pipershudvard.com/dual-injector/){: target="_blank"}Behandlingen avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
+Denna resultatinriktade lyxbehandling inleds med en djupg&aring;ende och avkopplande nack- och skuldermassage med v&aring;r exklusiva [Magic Pot](https://pipershudvard.com/kroppsbehandlingar-magic-pot/){: target="_blank"}. Vi fortsätter sedan med ansiktet och gör en grundrengöring, enzympeeling, portömning med hjälp av ultraljud och brynansning. Sedan applicerar vi Cliniccare’s AHA + EGF Skinbooster och en sheet-mask anpassad efter din hudtyp och tillst&aring;nd. Maskens ingredienser slussas sedan ner med hjälp av&nbsp; Derma F ultraljud. Behandlingen avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
 
-#### NYHET\! Ny tjänst: [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min
+#### [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min
+
+Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi. Priset varierar och beror p&aring; vad vi kommer fram till i konsultationen.&nbsp;
+
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l.
+
+#### [**NYHET\! Ny behandling\! MESODUO, läs mer här.**](/behandlingar/mesoduo/)
 
 &nbsp;
 
-**Tips\!**
+**TIPS\!**
 
 Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-ons
 
-**Add-ons, tillägg i ansiktsbehandling**
+#### **Add-ons, tillägg i ansiktsbehandling**
 
-* EGF Sheet-mask, 150:- (anpassas till hudtyp och tillst&aring;nd)
+* EGF Sheet-mask, 200:- (anpassas till hudtyp och tillst&aring;nd)
 * AHA + EGF skinbooster, 150:-
-* Portömning med Derma F+, 150:- (portömning med maskin, ultraljud)
-* EGF Sheet-mask + Inslussning med [Dual Injector](https://pipershudvard.com/dual-injector/){: target="_blank"}, 250:- (stramar upp huden samt hjälper näringsämnen och fukt ner till djupare hudlager)
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min, 250:-Ansiktsmassage Magic Pot 10 min, 250:-
-* Frans och brynfärg, inkl brynansning, 250:-
-* Fransfärg, 150:-
-* Brynfärg, inkl brynansning, 150:-
-* Brynformning inkl brynfärg 250:-
+* Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
+* EGF Sheet-mask + Inslussning med Derma F, 300:- (ultraljud)
+* Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
+* Ansiktsmassage Magic Pot 10 min, 300:-
+* Frans och brynfärg, inkl brynansning, 300:-
+* Fransfärg, 200:-
+* Brynfärg, inkl brynansning, 200:-
+
+&nbsp;
+
+![](/images/behandlingar/clinicare.jpg){: width="720" height="208"}
 
 **Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.** Produkterna inneh&aring;ller enbart ingredienser som har vetenskapligt stöd för en god hudhälsa.
 
@@ -74,4 +85,4 @@ Aktiva ingredienser i Cliniccare hudv&aring;rd är formulerade mellan 5-20 nanom
 
 Cliniccare är en professionell salongsprodukt som enbart erbjuds p&aring; salonger, spa och kliniker med utbildade terapeuter, hudläkare och sjuksköterskor. Värdet p&aring; en professionell hudv&aring;rdsserie blir aldrig högre än den andel aktiva ingredienser som levereras med produkten. Cliniccare erbjuder marknadens absolut högsta andel aktiva ingredienser med upp till 65%.
 
-Du kan köpa Cliniccareprodukter hos oss p&aring; salongen (Pipersgatan 30, Kungsholmen Stockholm) eller via v&aring;r [shop här p&aring; hemsidan](/produkter/).
+Du kan köpa Cliniccareprodukter hos oss p&aring; salongen (Pipersgatan 30, Kungsholmen Stockholm) eller via v&aring;r [shop här p&aring; hemsidan](/produkter/).&nbsp;
