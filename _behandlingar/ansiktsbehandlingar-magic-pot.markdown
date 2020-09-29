@@ -25,7 +25,7 @@ Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic P
 
 Resultatet av denna dunderkombination blir en hälsosam, &aring;terfuktad hud med mycket lyster.
 
-Magic Pot Deep Hydration g&aring;r inte längre att boka online, vi hänvisar till den uppdaterade verisionen, Mesoduo Deep Hydration.
+Magic Pot Deep Hydration g&aring;r inte längre att boka online, vi hänvisar till den uppdaterade versionen, Mesoduo Deep Hydration.
 
 #### [**NY****HET\! Magic Pot Deep Hydration uppdateras till Mesoduo Deep Hydration\! Läs mer här\!**](/behandlingar/mesoduo/)
 
@@ -33,7 +33,7 @@ Magic Pot Deep Hydration g&aring;r inte längre att boka online, vi hänvisar ti
 
 #### Magic Pot Facial Powerlift, 60min 1500:-
 
-En kraftfull anti-age behandling som passar alla hudtyper och ger ett omedelbart resultat.
+En kraftfull anti-age behandling som passar alla hudtyper och ger ett omedelbart resultat.&nbsp;
 
 Behandlingen inneh&aring;ller: grundrengöring, enzympeeling, AHA + EGF Skinbooster, lotion anpassad till din huds tillst&aring;nd i kombination med en skön och kraftfull radiofrekvens/vakuum/LED-behandling av ansikte, hals, käklinje och dekolletage. Behandlingen avslutas med produkter anpassade till din hud.
 
