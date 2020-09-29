@@ -16,7 +16,7 @@ Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med 
 
 #### Mesoduo Deep Hydration/ Mesoduo Glow, 60min 1750:-
 
-I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med MESODUO och avslutas med produkter anpassande till din hud.
+I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
 
 Efter en kortare konsultation anpassar vi behandlingen efter behov och önskem&aring;l.&nbsp;
 
@@ -33,7 +33,7 @@ Man kan även lägga till n&aring;gon utav dessa add-ons:
 
 ![](/images/behandlingar/mesoduo-1.jpg){: width="1024" height="747"}
 
-Tekniken är designad med säkerhet i &aring;tanke och utvecklad för att mekaniskt tränga ned näringsämnen i huden. MesoDuo arbetar med tre teknologier som gemensamt slussar ned aktiva ingredienser i huden. Det är den första behandlingsapparaturen i världen som verkar med ett variabelt ultraljud mellan 1 000Hz – 40 000Hz för mekanisk p&aring;verkan p&aring; cellerna. Radiofrekvens (RF) värmer upp huden till ca: 35 grader för att öka genomsläppligheten och elasticiteten i huden.
+Tekniken är designad med säkerhet i &aring;tanke och utvecklad för att mekaniskt tränga ned näringsämnen i huden. Mesoduo arbetar med tre teknologier som gemensamt slussar ned aktiva ingredienser i huden. Det är den första behandlingsapparaturen i världen som verkar med ett variabelt ultraljud mellan 1 000Hz – 40 000Hz för mekanisk p&aring;verkan p&aring; cellerna. Radiofrekvens (RF) värmer upp huden till ca: 35 grader för att öka genomsläppligheten och elasticiteten i huden.
 
 För att sedan aktivt p&aring;verka cellen för penetration används Elektroporation. Elektroporation innebär att vi med variabel pulshastighet skjuter elpulser mot huden mellan -35V / +35V det orsakar poröppningar i cellernas membran, vilket de aktiva ingredienserna utnyttjar för effektiv penetration.
 
