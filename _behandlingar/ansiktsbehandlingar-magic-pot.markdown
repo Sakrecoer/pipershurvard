@@ -15,21 +15,13 @@ permalink: /ansiktsbehandlingar-magic-pot/
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-#### [**NY****HET\! Magic Pot Deep Hydration uppdateras till Mesoduo Deep Hydration\!**](/behandlingar/mesoduo/)
+#### &nbsp;
 
-#### Magic Pot Deep Hydration, 50 min 1350:-
+#### **[Magic Pot Deep Hydration har uppdaterats till](/behandlingar/mesoduo/)****[Mesoduo Deep Hydration\!](/behandlingar/mesoduo/)**[**&nbsp;Läs mer och boka här\!**](__notset__)
 
-Fuktboost\! En favoritbehandling\!
+#### &nbsp;
 
-Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic Pot för att generera ner värme. Vi f&aring;r en tightning effekt samt sätter ig&aring;ng microcirkulationen vilket gör huden mer mottaglig för efterföljande produkter. Med hjälp av elektroporation fr&aring;n Dual Injectorn slussar vi sedan ner hyaluronsyra och naturliga näringsämnen djupt ner i huden.
-
-Resultatet av denna dunderkombination blir en hälsosam, &aring;terfuktad hud med mycket lyster.
-
-Magic Pot Deep Hydration g&aring;r inte längre att boka online, vi hänvisar till den uppdaterade versionen, Mesoduo Deep Hydration.
-
-#### [**NY****HET\! Magic Pot Deep Hydration uppdateras till Mesoduo Deep Hydration\! Läs mer här\!**](/behandlingar/mesoduo/)
-
-&nbsp;
+#### &nbsp;
 
 #### Magic Pot Facial Powerlift, 60min 1500:-
 
@@ -49,7 +41,7 @@ Hela kurpriset betalas vid första behandlingstillfället.
 
 En kraftfull anti-age behandling som passar alla hudtyper. Detta är en ’Quick fix’ inför helgen\! Behandlingen erbjuder ett omedelbart resultat.
 
-Behandlingen inneh&aring;ller: rengöring, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
+Behandlingen inneh&aring;ller: rengöring, enzympeel, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition.)
 
