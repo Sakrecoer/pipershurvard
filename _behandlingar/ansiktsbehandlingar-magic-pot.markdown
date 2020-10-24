@@ -17,13 +17,7 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 #### [**NY****HET\! Magic Pot Deep Hydration uppdateras till Mesoduo Deep Hydration\!**](/behandlingar/mesoduo/)
 
-#### Magic Pot Deep Hydration, 50 min 1350:-
-
-Fuktboost\! En favoritbehandling\!
-
-Efter rengöring och exfoliering använder vi radiofrekvensen fr&aring;n Magic Pot för att generera ner värme. Vi f&aring;r en tightning effekt samt sätter ig&aring;ng microcirkulationen vilket gör huden mer mottaglig för efterföljande produkter. Med hjälp av elektroporation fr&aring;n Dual Injectorn slussar vi sedan ner hyaluronsyra och naturliga näringsämnen djupt ner i huden.
-
-Resultatet av denna dunderkombination blir en hälsosam, &aring;terfuktad hud med mycket lyster.
+#### Magic Pot Deep Hydration
 
 Magic Pot Deep Hydration g&aring;r inte längre att boka online, vi hänvisar till den uppdaterade versionen, Mesoduo Deep Hydration.
 
