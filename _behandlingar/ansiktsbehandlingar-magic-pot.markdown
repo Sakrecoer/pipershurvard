@@ -15,15 +15,13 @@ permalink: /ansiktsbehandlingar-magic-pot/
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-#### [**NY****HET\! Magic Pot Deep Hydration uppdateras till Mesoduo Deep Hydration\!**](/behandlingar/mesoduo/)
+#### &nbsp;
 
-#### Magic Pot Deep Hydration
+#### **[Magic Pot Deep Hydration har uppdaterats till](/behandlingar/mesoduo/)****[Mesoduo Deep Hydration\!](/behandlingar/mesoduo/)**[**&nbsp;Läs mer och boka här\!**](__notset__)
 
-Magic Pot Deep Hydration g&aring;r inte längre att boka online, vi hänvisar till den uppdaterade versionen, Mesoduo Deep Hydration.
+#### &nbsp;
 
-#### [**NY****HET\! Magic Pot Deep Hydration uppdateras till Mesoduo Deep Hydration\! Läs mer här\!**](/behandlingar/mesoduo/)
-
-&nbsp;
+#### &nbsp;
 
 #### Magic Pot Facial Powerlift, 60min 1500:-
 
