@@ -41,7 +41,7 @@ Hela kurpriset betalas vid första behandlingstillfället.
 
 En kraftfull anti-age behandling som passar alla hudtyper. Detta är en ’Quick fix’ inför helgen\! Behandlingen erbjuder ett omedelbart resultat.
 
-Behandlingen inneh&aring;ller: rengöring, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
+Behandlingen inneh&aring;ller: rengöring, enzympeel, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition.)
 
