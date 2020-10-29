@@ -17,9 +17,9 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 #### &nbsp;
 
-#### [Magic Pot Deep Hydration har uppdaterats till&nbsp;**Mesoduo Deep Hydration**](/behandlingar/mesoduo/)
+## [Magic Pot Deep Hydration har uppdaterats till&nbsp;**Mesoduo Deep Hydration**](/behandlingar/mesoduo/)
 
-#### [Läs mer och boka här\!](/behandlingar/mesoduo/)
+#### [Läs mer och boka här\!](/behandlingar/mesoduo/){:class="button"}
 
 #### &nbsp;
 
