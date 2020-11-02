@@ -3,8 +3,8 @@ title: Tillfälligt stängt
 description: >-
   Pipers Hudvård stänger tillfälligt med hänsyn till de nya restriktionerna i
   Sthlm
-date: 2020-11-02 07:31:41 +0100
-image:
+date: 2020-11-02 07:31:00 +0100
+image: /images/posts/stängt.jpg
 tags:
   - Nyckel
   - Ord
