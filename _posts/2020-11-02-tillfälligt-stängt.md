@@ -12,7 +12,7 @@ tags:
 
 Kära kunder
 
-Med hänsyn till de nya h&aring;rdare restriktionerna i Sthlm s&aring; har vi (Lie & Karin) beslutat att stänga Pipers Hudv&aring;rd under november, till att börja med.&nbsp;
+Med hänsyn till de nya h&aring;rdare restriktionerna i Sthlm s&aring; har vi (Lie & Karin) beslutat att h&aring;lla salongen stängd &aring;ret ut.
 
 Vill ni stötta oss kan ni köpa presentkort och produkter p&aring; salongen. H&aring;rtjejerna p&aring; Pipersgatan 30 har öppet och kan hjälpa er. [Produkter kan ni även köpa här via v&aring;r hemsida](/produkter/), d&aring; g&aring;r en del av försäljningen till oss ❤️&nbsp;
 
