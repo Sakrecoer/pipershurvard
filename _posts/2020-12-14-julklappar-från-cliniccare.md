@@ -1,7 +1,7 @@
 ---
 title: Julklappar från Cliniccare
 description: Handla dina juklappar i Beauty-bar shoppen och få fina rabatter
-date: 2020-12-14 13:44:31 +0100
+date: 2020-12-14 13:44:00 +0100
 image: /images/posts/julkampanj.jpg
 tags:
   - cliniccare
