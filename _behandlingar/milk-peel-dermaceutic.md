@@ -21,7 +21,6 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För 
 
 #### Add-ons&nbsp;
 
-* EGF Sheet-mask, 200:- (anpassas till hudtyp och tillst&aring;nd)
 * Djupg&aring;ende kroppsmassage Magic Pot 10 min 300:-
 
 #### Milk Peel kan
