@@ -1,6 +1,8 @@
 ---
 title: Vi har öppnat salongen igen!
-description:
+description: >-
+  Sakta går vi mot mer normal tillvaro och vi håller tummarna för att vi nu kan
+  hålla öppet under hela våren och sommaren.
 date: 2021-05-06 15:50:00 +0200
 image: /images/posts/oppet.jpg
 tags:
