@@ -1,7 +1,7 @@
 ---
 title: Vi har öppnat salongen igen!
 description:
-date: 2021-05-06 16:50:00 +0200
+date: 2021-05-06 15:50:00 +0200
 image: /images/posts/oppet.jpg
 tags:
   - Nyckel
