@@ -25,13 +25,11 @@ Man öppnar lymfflödet genom att dra Gua Shan precis ovanför och under nyckelb
 
 Vill man öka lymfflödet i hela kroppen s&aring; kan man tänka p&aring; att röra p&aring; sig, djupandas, träna (tex hopp och simning, men all träning är s&aring;klart bra) basta, torrborsta, massera med mera
 
-Lymfan kräver inte mycket tryck vid massage för att röra p&aring; sig och det ska g&aring; saakta, inga snabba rörelser.
-
-Tänk p&aring; att stenen ska ligga s&aring; platt som möjligt mot huden&nbsp;
+Lymfan kräver inte mycket tryck vid massage för att röra p&aring; sig och det ska g&aring; saakta, inga snabba rörelser. Vill man komma &aring;t fascian (bindväven) s&aring; kan man öka trycket lite.
 
 Efter nyckelbenet tar jag nacken, &nbsp;drar stenen nedifr&aring;n och upp mot skallbenet, inte direkt p&aring; ryggraden. 10 drag p&aring; vardera sida och varje drag avslutas med ett litet skak, typ vibration.
 
-Sen tar jag framsidan av halsen nerifr&aring;n och upp. Det är viktigt att inte trycka för h&aring;rt utan l&aring;ta stenen glida med ett lätt tryck.
+Sen tar jag framsidan av halsen nerifr&aring;n och upp. Det är viktigt att inte trycka för h&aring;rt utan l&aring;ta stenen glida med ett lätt tryck och tänk p&aring; att stenen ska ligga s&aring; platt som möjligt mot huden.
 
 Efter det börjar jag g&aring; upp&aring;t i ansiktet, tänk alltid fr&aring;n mitten och ut, 10 drag och avsluta med ett litet skak, vibration.<br>H&aring;ll emot lite med andra handen s&aring; huden inte dras i för mycket.
 
