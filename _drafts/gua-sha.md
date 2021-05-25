@@ -13,7 +13,7 @@ En ständigt &aring;terkommande trend här i Sverige är ansiktsmassage med Gua 
 
 En Gua Sha är oftast gjord av sten och finns i massa olika former.
 
-Syftet är att dra stenen över ansikte, hals och dekolletage i olika linjer för att&nbsp;<br>\- dränera ansiktet fr&aring;n slaggprodukter och lymfvätska&nbsp;<br>\- öka blodcirkulationen,&nbsp;<br>\- släppa p&aring; muskelspänningar&nbsp;<br>\- minska svullnader<br>med mera\!&nbsp;
+Syftet är att dra stenen över ansikte, hals och dekolletage i olika linjer för att&nbsp;<br>\- dränera ansiktet fr&aring;n slaggprodukter och lymfvätska<br>\- öka blodcirkulationen,&nbsp;<br>\- släppa p&aring; muskelspänningar&nbsp;<br>\- minska svullnader<br>med mera\!&nbsp;
 
 Jag har f&aring;tt in detta i min morgonrutin. Efter tvätt och toner lägger jag n&aring;gra droppar squalaneolja (Jag använder en fr&aring;n märket [Onest](https://www.onest.cz/en/eshop/squalane-face-oil){: target="_blank" rel="noopener"}) över ansikte, hals, nacke, dekolletage.
 
