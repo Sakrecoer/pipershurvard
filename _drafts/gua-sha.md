@@ -1,17 +1,17 @@
 ---
 title: Gua Sha
 description: Lies Gua Sha rutin
-date: 2021-05-25 08:30:34 +0200
+date: 2021-05-25 08:30:00 +0200
 image: /images/posts/content-pixie-7k4mldh6wzo-unsplash.jpg
 tags:
   - Nyckel
   - Ord
 ---
-En ständigt &aring;terkommande trend här i Sverige är ansiktsmassage med Gua Sha.&nbsp;<br>Detta är ingen ny typ av massage utan har använts flitigt runt om i världen hur länge som helst men här g&aring;r det i v&aring;gor och nu är Gua Sha massage hett igen pga alla fantastiska resultat personer delar med sig av.
-
-Gua Sha är oftast gjord av sten och finns i massa olika former.
+En ständigt &aring;terkommande trend här i Sverige är ansiktsmassage med Gua Sha.&nbsp;<br>Detta är ingen ny typ av massage utan har använts flitigt runt om i världen hur länge som helst men här g&aring;r det i v&aring;gor och nu är Gua Sha massage hett igen p.g.a alla fantastiska resultat personer delar med sig av.
 
 ![](/images/prosts/content-pixie-7k4mldh6wzo-unsplash.jpg){: srcset="/images/prosts/content-pixie-7k4mldh6wzo-unsplash.jpg 1024w, /images/prosts/content-pixie-7k4mldh6wzo-unsplash@2x.jpg 2048w" width="1024" height="682"}
+
+En Gua Sha är oftast gjord av sten och finns i massa olika former.
 
 Syftet är att dra stenen över ansikte, hals och dekolletage i olika linjer för att&nbsp;<br>\- dränera ansiktet fr&aring;n slaggprodukter och lymfvätska&nbsp;<br>\- öka blodcirkulationen,&nbsp;<br>\- släppa p&aring; muskelspänningar&nbsp;<br>\- minska svullnader<br>med mera\!&nbsp;
 
