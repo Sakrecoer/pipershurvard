@@ -7,7 +7,7 @@ tags:
   - Nyckel
   - Ord
 ---
-En ständigt &aring;terkommande trend här i Sverige är ansiktsmassage med Gua Sha.&nbsp;<br>Detta är ingen ny typ av massage utan har använts flitigt runt om i världen hur länge som helst men här g&aring;r det i v&aring;gor och nu är Gua Sha massage hett igen p.g.a alla fantastiska resultat personer delar med sig av.
+En ständigt &aring;terkommande trend här i Sverige är ansiktsmassage med Gua Sha.&nbsp;<br>Detta är ingen ny typ av massage utan har använts flitigt runt om i världen hur länge som helst men här g&aring;r det i v&aring;gor och nu är Gua Sha massage hett igen p.g.a alla fantastiska resultat personer delar med sig av p&aring; sociala medier.
 
 ![](/images/prosts/content-pixie-7k4mldh6wzo-unsplash.jpg){: srcset="/images/prosts/content-pixie-7k4mldh6wzo-unsplash.jpg 1024w, /images/prosts/content-pixie-7k4mldh6wzo-unsplash@2x.jpg 2048w" width="1024" height="682"}
 
