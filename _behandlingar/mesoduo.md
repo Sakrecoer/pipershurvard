@@ -1,9 +1,6 @@
 ---
 title: Mesoduo
-description: >-
-  Mesoduo är en ny smärtfri injektionsbehandling utan nålar! Behandlingen
-  förstärker, vitaliserar och återfuktar din hud effektivt. Uppkomsten av rynkor
-  och åldersfläckar reduceras. Passar alla hudtyper och även gravida.
+description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar samt\_återfuktar\_på djupet. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
 ---
@@ -12,7 +9,7 @@ permalink:
 
 Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
-Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Detta gör att näringsämnen effektivt tas upp i huden. Den här processen förstärker, vitaliserar och &aring;terfuktar din hud effektivt. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar. Behandlingen är helt säker att använda p&aring; alla och passar alla hudtyper. Passar även gravida. Det är världens första moderna mesoterapeutiska apparat som inte kräver injektioner\!
+Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena fr&aring;n serumet tas effektivt upp i huden och förstärker, vitaliserar samt &aring;terfuktar p&aring; djupet. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar och kan även göras p&aring; gravida.
 
 #### Mesoduo 60min 1750:-
 
@@ -20,7 +17,7 @@ I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampul
 
 Efter en kortare konsultation anpassar vi behandlingen efter behov och önskem&aring;l.&nbsp;
 
-Man kan även lägga till n&aring;gon utav dessa add-ons:
+**Man kan även lägga till n&aring;gon utav dessa add-ons:**
 
 * Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
 * Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
