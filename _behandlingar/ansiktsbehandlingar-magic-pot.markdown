@@ -19,19 +19,19 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 ## [Magic Pot Deep Hydration har uppdaterats till&nbsp;**Mesoduo Deep Hydration**](/behandlingar/mesoduo/)
 
-#### [Läs mer och boka här\!](/behandlingar/mesoduo/){:class="button"}
+#### [Läs mer och boka här\!](/behandlingar/mesoduo/){: .button}
 
 #### &nbsp;
 
 #### &nbsp;
 
-#### Magic Pot Facial Powerlift, 60min 1500:-
+#### Magic Pot Facial Powerlift, 60 min 1500:-
 
 En kraftfull anti-age behandling som passar alla hudtyper och ger ett omedelbart resultat.&nbsp;
 
 Behandlingen inneh&aring;ller: grundrengöring, enzympeeling, AHA + EGF Skinbooster, lotion anpassad till din huds tillst&aring;nd i kombination med en skön och kraftfull radiofrekvens/vakuum/LED-behandling av ansikte, hals, käklinje och dekolletage. Behandlingen avslutas med produkter anpassade till din hud.
 
-(För att uppn&aring; bästa h&aring;llbarhet rekommenderas en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition)
+(För att uppn&aring; bästa h&aring;llbarhet rekommenderas en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition)
 
 #### Kur, Magic Pot Facial Powerlift
 
@@ -45,7 +45,7 @@ En kraftfull anti-age behandling som passar alla hudtyper. Detta är en ’Quick
 
 Behandlingen inneh&aring;ller: rengöring, enzympeel, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
 
-(För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 5-10 behandlingar beroende p&aring; din huds kondition.)
+(För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition.)
 
 #### Magic Pot Anti-age hals, käklinje och dekolletage, 30 min 700:-
 
@@ -58,7 +58,6 @@ Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-
 #### Add-ons till ansiktsbehandlingar med Magic Pot&nbsp;
 
 * Portömning med Derma F, 200:-
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min,&nbsp; 300:-
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg, inkl brynansning, 200:-
@@ -66,7 +65,7 @@ Till samtliga behandlingar kan du lägga till en eller fler utav v&aring;ra Add-
 
 ## &nbsp;
 
-## Kropsbehandling med Magic Pot
+## Kroppsbehandling med Magic Pot
 
 &nbsp;
 
