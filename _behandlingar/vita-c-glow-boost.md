@@ -1,7 +1,9 @@
 ---
 title: Vita C Glow Boost
 description: >-
-  C-vitamin stärker huden, hjälper den att st&aring; emot miljöp&aring;verkan och stimulerar kollagenproduktionen. Det har även en fin effekt p&aring; hudtonen, strukturen och ger en fin lyster.
+  C-vitamin stärker huden, hjälper den att stå emot miljöpåverkan och stimulerar
+  kollagenproduktionen. Det har även en fin effekt på hudtonen, strukturen och
+  ger en fin lyster.
 image: /images/behandlingar/image0.jpg
 permalink: /vita-c-glow-boost/
 ---
