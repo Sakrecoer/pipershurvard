@@ -1,5 +1,5 @@
 ---
-title: Milk Peel Dermaceutic
+title: Kemisk Peeling Dermaceutic
 description: >-
   Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut
   hudtonen och jobbar på orenheter. Behandlingen reducerar effektivt fina linjer
@@ -21,7 +21,13 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För 
 
 #### Add-ons&nbsp;
 
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min 300:-
+* EGF Sheet-mask, 200:- (anpassas till hudtyp och tillst&aring;nd)
+* Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
+* EGF Sheet-mask + Inslussning med Derma F, 300:- (ultraljud)
+* Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
+* Frans och brynfärg, inkl brynansning, 300:-
+* Fransfärg, 200:-
+* Brynfärg, inkl brynansning, 200:-
 
 #### Milk Peel kan
 
