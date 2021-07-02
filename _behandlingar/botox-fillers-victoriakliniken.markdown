@@ -8,6 +8,8 @@ image: /images/behandlingar/botoxfillers.jpg
 permalink: /botox-fillers-victoriakliniken/
 ---
 
+### **Just nu g&aring;r det inte att boka injektionsbehandlingar hos oss. Vi hoppas att kunna sätta ig&aring;ng igen under hösten 2021**
+
 Vi har ett samarbete med Victoriakliniken för att kunna erbjuda er injektionsbehandlingar i toppklass. Alla behandlingar utförs av injektionssköterskor fr&aring;n Victoriakliniken.
 
 #### Botox, ett omr&aring;de 1500:-
