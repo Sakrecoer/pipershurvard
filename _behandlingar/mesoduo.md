@@ -14,7 +14,7 @@ Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Detta gör att näringsämnen effektivt tas upp i huden. Den här processen förstärker, vitaliserar och &aring;terfuktar din hud effektivt. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar. Behandlingen är helt säker att använda p&aring; alla och passar alla hudtyper. Passar även gravida. Det är världens första moderna mesoterapeutiska apparat som inte kräver injektioner\!
 
-#### Mesoduo Deep Hydration/ Mesoduo Glow, 60min 1750:-
+#### Mesoduo 60min 1750:-
 
 I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
 
