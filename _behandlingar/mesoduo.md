@@ -13,11 +13,9 @@ Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med 
 
 #### Mesoduo 60min 1750:-
 
-I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
+I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.&nbsp;
 
-Efter en kortare konsultation anpassar vi behandlingen efter behov och önskem&aring;l.&nbsp;
-
-**Man kan även lägga till n&aring;gon utav dessa add-ons:**
+**Add-ons till Mesoduo**
 
 * Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
 * Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
