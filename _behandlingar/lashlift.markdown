@@ -12,19 +12,19 @@ permalink: /lashlift/
 
 Elleebana One Shot Lash Lift är en skonsam behandling där vi böjer dina egna fransar. Resultatet ger ett stort lyft för ögat och fransarna f&aring;r ett fylligare intryck. Behandlingen är semi-permanent och h&aring;ller mellan 6-12 veckor beroende p&aring; din tillväxt av fransar samt skötsel. Vi rekommenderar ett &aring;terbesök efter ca 6-8 veckor.
 
-#### Lash Lift utan färg, 45 min 750:-
+#### Lash Lift utan fransfärg, 45 min 850:-
 
 &nbsp;
 
-#### Lash Lift med fransfärg, 55 min 800:-
+#### Lash Lift med fransfärg, 45 min 900:-
 
 &nbsp;
 
-#### Lash Lift med Frans och Brynfärg + brynansning, 60 min 950:-
+#### Lash Lift med Frans och Brynfärg + brynansning, 60 min 1150:-
 
 &nbsp;
 
-**Add-on, tillägg i behandling:**
+#### **Add-on, tillägg i behandling:**
 
 #### Lash Dose Kertinbehandling, 50:-
 
@@ -36,8 +36,8 @@ Lash Dose appliceras efter en Lash Lift eller [färgning av fransar och bryn](ht
 
 #### Att tänka p&aring; inför en lash lift:
 
-Kom gärna osminkad Om du använder linser s&aring; kom gärna utan eller kom ih&aring;g att ta ut dessa innan behandling Är du känslig, kom in för ett pricktest innan du bokar Färga inte fransarna innan behandlingen d&aring; färgen kommer försvinna pga permanentvätskorna, vi erbjuder färgning som tillägg i behandlingen för bästa resultat.
+Kom gärna osminkad Om du använder linser s&aring; kom gärna utan eller kom ih&aring;g att ta ut dessa innan behandling. Färga inte fransarna innan behandlingen d&aring; färgen kommer försvinna pga permanentvätskorna, vi erbjuder färgning som tillägg i behandlingen för bästa resultat.
 
 #### Efterv&aring;rd:
 
-Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&aring; produkten m&aring;ste f&aring; fäste, spola inte fransarna med varmt vatten p&aring; 48 tim Undvik mascara och oljebaserade produkter i ögonomr&aring;det närmsta 24-48 tim efter behandling. Oljan kan förstöra effekten. Boka inte in n&aring;gon fysisk aktivitet inom 24 tim efter behandling
+Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&aring; produkten m&aring;ste f&aring; fäste, spola inte fransarna med varmt vatten p&aring; 48 tim. Undvik mascara och oljebaserade produkter i ögonomr&aring;det närmsta 24-48 tim efter behandling. Boka inte in n&aring;gon fysisk aktivitet inom 24 tim efter behandling.
