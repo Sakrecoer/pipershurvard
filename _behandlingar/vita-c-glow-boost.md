@@ -5,9 +5,10 @@ description: >-
 image: /images/behandlingar/image0.jpg
 permalink: /vita-c-glow-boost/
 ---
+
 #### Vita C Glow Boost, 60 min 1150:-
 
-Behandlingen innehåller rengöring, peeling, portömning, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum från Dermaceutic och SPF el passande kräm
+Behandlingen inneh&aring;ller rengöring, peeling, portömning med Derma F (ultraljud) AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum och SPF el passande kräm
 
 **C-vitamin** eller **askorbinsyra** som det även heter är en antioxidant som hjälper till att skydda cellerna fr&aring;n angrepp av fria radikaler. Ett överskott av fria radikaler kan leda till en inre kemisk obalans (oxidativ stress) och sjukdomar i kropp och hud.&nbsp;
 
