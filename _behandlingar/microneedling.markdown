@@ -23,9 +23,9 @@ Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, sa
 
 Vid bokning av kur ing&aring;r hemv&aring;rdsprodukter till ett värde av ca 1000:-
 
-Hela kurpriset betalas vid första behandlingstillfället och kuren är giltig 6 m&aring;nader.
+Hela kurpriset betalas vid första behandlingstillfället och kuren är giltig 6 m&aring;nader
 
-För behandlingar p&aring; kroppen, tex hudbristningar och ärr, kontakta oss för mer information, prisuppgifter och hjälp med bokning.
+&nbsp;
 
 ![4349D29E-3F47-423D-8C5A-A73407A0B80D](/images/arkivbilder/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)
 
@@ -39,11 +39,10 @@ Microneedling kan användas för huduppstramning och hudföryngring samt för at
 * stora porer
 * pigmenteringar
 * ärr
-* hudbristningar
 
 Beroende p&aring; vad som ska behandlas anpassar vi hur djupt n&aring;larna g&aring;r ner i huden, mellan 0,25 och 2,5 mm.
 
-M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med v&aring;ra [Magic Pot](/ansiktsbehandlingar-magic-pot/){: target="_blank"}\-behandlingar.
+M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med v&aring;r [Mesoduobehandling](/behandlingar/mesoduo/){: target="_blank" rel="noopener"}.
 
 #### Efterv&aring;rd microneedling:
 
