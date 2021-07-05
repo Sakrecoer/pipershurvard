@@ -1,13 +1,19 @@
 ---
 title: 'Cliniccare Carboxy Terapi '
-description: Snart kommer en ny spännande behandling!
+description: >
+  Vid behandling med koldioxid ökar cirkulationen och vävnaden får ökad närings-
+  och syretillförsel, detta stimulerar i sin tur kollagen och
+  elastinproduktionen. Effekten blir en åtstramning av huden och även en grå och
+  livlös hud får nytt liv och fin lyster.
 image: /uploads/carboxy-treatment.jpg
 permalink:
 ---
 
-#### Cliniccare Carboxy Terapi 50 min NYHET\! Kommer snart\!
+### NYHET\!
 
-&nbsp;
+#### Cliniccare Carboxy Terapi 50 min 1500:-
+
+#### &nbsp;
 
 Koldioxidterapi som inom skönhetsbranchen blivid kallad Carboxytherapy, brukar ocks&aring; ibland kallas för "mirakelgasen". Den används mycket framg&aring;ngsrikt i olika behandlingsrutiner för kollagen- och elastinstimulering, vid vävnads&aring;tstramning samt vid reducering av pigmenteringar och mörka omr&aring;den kring ögonen.&nbsp;
 
