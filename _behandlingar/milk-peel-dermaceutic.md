@@ -9,7 +9,7 @@ image: /images/behandlingar/7770bbca-1be4-4041-81ec-b02ee5fc97b4.jpg
 permalink: /milk-peel-dermaceutic/
 ---
 
-#### Milk Peel Dermaceutic ansikte, 30 min 1500:-&nbsp;
+#### Milk Peel Dermaceutic ansikte, 45 min 1500:-&nbsp;
 
 Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut hudtonen och jobbar p&aring; orenheter. Behandlingen reducerar effektivt fina linjer och torrhetsrynkor. Den rengör och fräschar effektivt upp oren, trött och livlös hud.
 
@@ -21,9 +21,7 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För 
 
 #### Add-ons&nbsp;
 
-* EGF Sheet-mask, 200:- (anpassas till hudtyp och tillst&aring;nd)
 * Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
-* EGF Sheet-mask + Inslussning med Derma F, 300:- (ultraljud)
 * Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
