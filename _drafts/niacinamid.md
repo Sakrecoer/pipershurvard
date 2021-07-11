@@ -9,4 +9,15 @@ tags:
 ---
 Niacinamid - vitamin B3
 
+Boosta huden med Niacinamid\!
+
+Vem vill inte bada i en ingrediens som kan göra allt detta:
+
+* Ge jämnare hudton
+* Reducera fina linjer
+* Förstärka hudens elasticitet
+* Stärker hudbärriären
+* Minskar känslighet
+* &nbsp;med mera...
+
 &nbsp;
