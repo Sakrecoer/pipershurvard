@@ -1,7 +1,7 @@
 ---
 title: Gua Sha
 description: Lies Gua Sha rutin
-date: 2021-05-25 08:30:00 +0200
+date: 2021-07-21 08:00:00 +0200
 image: /images/posts/content-pixie-7k4mldh6wzo-unsplash.jpg
 tags:
   - Nyckel
@@ -15,11 +15,11 @@ En Gua Sha är oftast gjord av sten och finns i massa olika former.
 
 Syftet är att dra stenen över ansikte, hals och dekolletage i olika linjer för att&nbsp;<br>\- dränera ansiktet fr&aring;n slaggprodukter och lymfvätska<br>\- öka blodcirkulationen,&nbsp;<br>\- släppa p&aring; muskelspänningar&nbsp;<br>\- minska svullnader<br>med mera\!&nbsp;
 
-Jag har f&aring;tt in detta i min morgonrutin. Efter tvätt och toner lägger jag n&aring;gra droppar squalaneolja över ansikte, hals, nacke, dekolletage. Sen börjar jag med att "öppna" [lymfflödet](https://www.1177.se/liv--halsa/sa-fungerar-kroppen/lymfsystemet/#:~:text=Lymfsystemet%20best%C3%A5r%20av%20flera%20delar,kan%20vara%20skadligt%20f%C3%B6r%20kroppen){: target="_blank" rel="noopener"}. Detta l&aring;ter flummigt men det är det inte.
+Jag försöker f&aring; in detta i min morgonrutin. Efter [tvätt och toner](/produkter/){: target="_blank" rel="noopener"} lägger jag n&aring;gra droppar squalaneolja över ansikte, hals, nacke, dekolletage. Sen börjar jag med att "öppna" [lymfflödet](https://www.1177.se/liv--halsa/sa-fungerar-kroppen/lymfsystemet/#:~:text=Lymfsystemet%20best%C3%A5r%20av%20flera%20delar,kan%20vara%20skadligt%20f%C3%B6r%20kroppen){: target="_blank" rel="noopener"}. Detta l&aring;ter flummigt men det är det inte.
 
 Om man inte öppnar lymfflödet och börjar jobba direkt p&aring; ansiktet s&aring; kan det vara s&aring; att man inte f&aring;r n&aring;got resultat, men det är s&aring;klart olika fr&aring;n person till person.&nbsp;
 
-Man öppnar lymfflödet genom att dra Gua Shan precis ovanför och under nyckelbenet med ca 10 drag p&aring; vardera sida.<br>Lymfvätskan töms vid nyckelbenet s&aring; det är bra att sätta ig&aring;ng flödet där innan man startar i ansiktet.
+Man öppnar lymfflödet genom att dra Gua Shan precis ovanför och under nyckelbenet med ca 10 drag p&aring; vardera sida.<br>Lymfvätskan töms vid nyckelbenet s&aring; det är bra att sätta ig&aring;ng flödet där innan man börjar i ansiktet.
 
 Vill man öka lymfflödet i hela kroppen s&aring; kan man tänka p&aring; att röra p&aring; sig, djupandas, träna (tex hopp och simning, men all träning är s&aring;klart bra) basta, torrborsta, massera med mera
 
@@ -35,7 +35,7 @@ Efter det börjar jag g&aring; upp&aring;t i ansiktet, tänk alltid fr&aring;n m
 
 Avslutningsvis drar jag Gua Shan lätt inifr&aring;n och ut över hela ansiktet och ner mot där lymfan töms, vid nyckelbenet, för att försäkra mig om att inget fastnat n&aring;gonstans.
 
-Torkar av oljan med toner, p&aring; med serum, ögonkräm och dagkräm, klart\!
+Torkar av oljan med toner, p&aring; med [serum, ögonkräm och dagkräm](/produkter/){: target="_blank" rel="noopener"}, klart\!
 
 Glöm inte tvätta Gua Shan med tv&aring;l el diskmedel.
 
