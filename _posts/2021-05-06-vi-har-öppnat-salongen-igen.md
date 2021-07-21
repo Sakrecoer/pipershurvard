@@ -19,6 +19,4 @@ En utav v&aring;ra mest populära tjänster är [Hudterapeutens Val](/hudterapeu
 
 Tycker man om att vistas i solen s&aring; är&nbsp;[Mesoduo](/behandlingar/mesoduo/){: target="_blank" rel="noopener"}&nbsp;en perfekt behandling att göra under v&aring;ren och sommaren. Mesoduo är en maskin som gör att vi kan slussa ner näringsämnen djupt ner i huden. Den här processen stärker, vitaliserar och &aring;terfuktar din hud effektivt. Behandlingen reducerar även uppkomsten av rynkor och &aring;ldersfläckar när den görs regelbundet. Till Mesoduobehandlingen kan man även lägga till olika add-ons, tex portömning med ultraljud (Derma F)&nbsp;
 
-Lie kommer under v&aring;ren och sommaren jobba m&aring;n-fre mellan ca 10-15.&nbsp;
-
 ##### [Välkom](/bokning/){: target="_blank" rel="noopener"}[men\!](/bokning/){: target="_blank" rel="noopener"}
