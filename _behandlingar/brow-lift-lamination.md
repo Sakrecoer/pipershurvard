@@ -1,19 +1,21 @@
 ---
-title: 'Brow Lift, Brow Lamination'
+title: Brow Lift
 description: >-
-  Brow Lift, Brow Lamination är behandlingen som omskapar brynhårets riktning
-  och formar dina bryn till en snygg och perfekt form.
+  Brow Lift är behandlingen som omskapar brynhårets riktning och formar dina
+  bryn till en snygg och perfekt form.
 image: /images/behandlingar/browlift4.jpg
 permalink:
 ---
 
-#### Brow Lift, Brow Lamination, 45 min 850:-
+#### Brow Lift, 45 min 850:-
 
-Brow Lift, Brow Lamination är behandlingen som omskapar brynh&aring;rets riktning och formar dina bryn till en snygg och perfekt form. Den här behandlingen passar till dig som har tunna bryn och vill skapa en fylligare look, till dig som har ostyriga bryn och vill f&aring; dina bryn p&aring; plats eller för den som bara vill ha de där perfekt formade brynen.
+Brow Lift är behandlingen som omskapar brynh&aring;rets riktning och formar dina bryn till en snygg och perfekt form. Den här behandlingen passar till dig som har tunna bryn och vill skapa en fylligare look, till dig som har ostyriga bryn och vill f&aring; dina bryn p&aring; plats eller för den som bara vill ha de där perfekt formade brynen.
 
-I den här behandlingen ing&aring;r permanent utav dina bryn, färgning i passande färg, formning och en v&aring;rdande keratinbehandling, styling och tips/r&aring;d för dina bryn.
+I den här behandlingen ing&aring;r permanent utav dina bryn, färgning i passande färg, formning och en v&aring;rdande keratinbehandling.
 
-#### &nbsp;
+#### Lash Lift + Brow Lift, 90 min 1600:-&nbsp;
+
+Kombobehandling med&nbsp;[Lash Lift](/lashlift/) och Brow Lift.
 
 &nbsp;
 
