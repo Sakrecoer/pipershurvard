@@ -7,7 +7,7 @@ tags:
   - Nyckel
   - Ord
 ---
-#### Nu finns det möjlighet att boka kombobehandling med b&aring;de [Lash Lift](/lashlift/) och [Brow Lift](/behandlingar/brow-lift-lamination/)\!&nbsp;
+#### Nu finns det möjlighet att boka kombobehandling med b&aring;de [Lash Lift](/lashlift/) och [Brow Lift](/behandlingar/brow-lift-lamination/)\! 90 min, 1600:-
 
 &nbsp;
 
