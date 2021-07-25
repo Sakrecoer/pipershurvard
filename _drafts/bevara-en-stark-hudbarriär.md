@@ -1,7 +1,7 @@
 ---
 title: Bevara en stark hudbarriär
 description: aka syraskyddsmanteln
-date: 2021-07-24 00:00:00 +0200
+date: 2021-07-25 09:00:00 +0200
 image: /uploads/sneha-cecil--l6xrkkuxjo-unsplash.jpg
 tags:
   - Nyckel
@@ -23,9 +23,8 @@ Har man en skadad hudbarriär s&aring; känns huden konstant torr, stram och osm
 **Tips för en skadad barriär:**
 
 * **Ceramider**
-* **Antioxidanter**
-* [**Hyaluronsyra**](/produkter/)[&nbsp;(tex Cliniccares produkter)](__notset__)
-* **Niacinamid**
-* **En mild rengöring**
+* **Antioxidanter**, t.ex c-vitamin, e-vitamin&nbsp;
+* [**Hyaluronsyra**](/produkter/)&nbsp;(t.ex Cliniccares produkter)
+* **Niacinamid,** vitamin B3
 
 &nbsp;
