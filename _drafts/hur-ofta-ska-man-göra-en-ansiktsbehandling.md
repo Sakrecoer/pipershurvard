@@ -15,7 +15,7 @@ Jag brukar jämföra ansiktsbehandlingar med träning. Efter en g&aring;ng p&ari
 
 Hemv&aring;rden brukar jag jämför med kosten. För att du ska f&aring; det resultat du vill av din träning s&aring; bör du även anpassa det du stoppar i dig. Samma sak är det med produkterna du använder hemma mellan behandlingarna, det m&aring;ste ocks&aring; anpassas utifr&aring;n vad du vill ha för resultat. Det är s&aring;klart otroligt viktigt behandlingar och hemv&aring;rden samspelar.&nbsp;
 
-Vad är regelbundet d&aring;?
+##### Vad är regelbundet?
 
 Vi rekommenderar att man g&aring;r p&aring; en ansiktsbehandling var 6e- var 8e vecka. Detta kan s&aring;klart variera lite beroende p&aring; vad man gör för behandlingar. Men det är en bra riktlinje att förh&aring;lla sig till. Är du osäker p&aring; vilken behandling som passar dig är [Hudterapeutens Val](/hudterapeutens-val/) det perfekta alternativet.&nbsp;
 
