@@ -22,7 +22,7 @@ Inspirerad av prisbelönt vetenskap kombinerar den här avancerade formeln CLINI
 * Stöder produktionen av ny, hälsosam elastin och kollagen.
 * Fungerar synergistiskt med procedurer för tightning, toning och reduktion av pigment."
 
-N&aring;gra utan huvudingredienserna är niacinamid, hyaluronsyra, salicylsyra, skinectura, tens'up, acetyl hexapeptide-8 (aka "botox p&aring; burk")
+N&aring;gra utan huvudingredienserna är [niacinamid](/2021/08/01/niacinamid/){: target="_blank" rel="noopener"}, hyaluronsyra, salicylsyra, skinectura, tens'up, acetyl hexapeptide-8 (aka "botox p&aring; burk")
 
 Detta är allts&aring; en lite rikare fuktkräm som jag kommer använda som nattkräm. Vill man använda den som nattkräm s&aring; lägger man den sist i rutinen, efter&nbsp;[Cliniccare toner, essence och eventuellt serum](/produkter/){: target="_blank" rel="noopener"} om man är lite torrare.
 
