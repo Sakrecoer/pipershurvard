@@ -22,6 +22,6 @@ Niacinamid är en aktiv form av vitamin B3, den passar alla hudtyper och g&aring
 
 Var lite försiktig med koncentrationen. Runt 10% brukar de flesta klara av men över det har man sett att personer f&aring;tt lite irritationer. De studier som gjorts och där man sett fina resultat ligger l&aring;ngt under 10%, vid ca 4%. Starkare är allts&aring; inte bättre\!
 
-Som med alla aktiva ingredienser s&aring; är det bra att vara försiktig i början och vänja in huden sakta. Niacinamid finns i vissa[Cliniccareprodukter](/produkter/){: target="_blank" rel="noopener"}, tex X3M EGF Pure Serum.&nbsp;
+Som med alla aktiva ingredienser s&aring; är det bra att vara försiktig i början och vänja in huden sakta. Niacinamid finns i vissa&nbsp;[Cliniccareprodukter](/produkter/){: target="_blank" rel="noopener"}, tex X3M EGF Pure Serum samt nya [Premium Time Reverse Cream](/2021/08/19/premium-time-reverse-cream/){: target="_blank" rel="noopener"}.
 
 &nbsp;
