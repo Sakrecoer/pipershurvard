@@ -1,15 +1,15 @@
 ---
 title: Victoriakliniken är tillbaka hos oss!
-description: Nu kan vi åter igen erbjuda botox och fillers på salongen.
+description: Nu kan vi återigen erbjuda botox och fillers på salongen.
 date: 2021-11-11 08:03:13 +0100
-image:
+image: /images/posts/botoxfillers.jpg
 tags:
     - Nyckel
     - Ord
 ---
 M&aring;ndagen den 29/11 kommer bästa Marina fr&aring;n Victoriakliniken till oss igen\!&nbsp;
 
-Prislista för botox och fillers:
+Prislista för [botox](https://www.victoriakliniken.com/behandlingar/injektionsbehandlingar/botulinumtoxin/){: target="_blank" rel="noopener"} och fillers:
 
 * Botox, 1 omr&aring;de 1500:-
 * Botox, 2 omr&aring;den 3000:-
