@@ -23,4 +23,4 @@ Har du fr&aring;gor ang pris eller behandlingar vänligen kontakta Victoriaklini
 * Tel:&nbsp; 08-530 210 00&nbsp;
 * Mail: info@victoriakliniken.com
 
-[Boka din botox eller fillers tid här\!](https://www.victoriakliniken.com/boka-tid/#city=0&amp;locations=5&amp;activity=null&amp;caregivers=26){: target="_blank" rel="noopener"}
+[Boka din botox eller fillers tid här\!](https://www.victoriakliniken.com/boka-tid/#city=0&locations=5&activity=null&caregivers=26){: target="_blank" rel="noopener"}
