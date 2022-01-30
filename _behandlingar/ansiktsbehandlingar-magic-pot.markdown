@@ -37,7 +37,7 @@ En kraftfull anti-age behandling som passar alla hudtyper.
 
 Behandlingen inneh&aring;ller: rengöring, enzympeeling, fuktlotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
 
-(För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition.)
+(För att uppn&aring; bästa h&aring;llbarhet rekommenderas Magic Pot Facial Powerlift som en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition.)
 
 #### Magic Pot Anti-age hals, käklinje och dekolletage, 30 min 700:-
 
