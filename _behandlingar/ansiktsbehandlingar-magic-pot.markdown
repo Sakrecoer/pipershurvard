@@ -1,5 +1,5 @@
 ---
-title: Behandlingar för ansikte och kropp med Magic Pot
+title: Magic Pot, ansikte och kropp
 description: >-
   Magic Pot erbjuder 3 moderna teknologier vid ett och samma
   behandlingstillfälle, Radiofrekvens, vakuum och Super LED- ljus.
@@ -15,15 +15,7 @@ permalink: /ansiktsbehandlingar-magic-pot/
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-#### &nbsp;
-
-## [Magic Pot Deep Hydration har uppdaterats till&nbsp;**Mesoduo**](/behandlingar/mesoduo/)
-
-#### [Läs mer och boka här\!](/behandlingar/mesoduo/){: .button}
-
-#### &nbsp;
-
-#### &nbsp;
+&nbsp;
 
 #### Magic Pot Facial Powerlift, 60 min 1500:-
 
@@ -39,13 +31,13 @@ Behandlingen inneh&aring;ller: grundrengöring, enzympeeling, AHA + EGF Skinboos
 
 Hela kurpriset betalas vid första behandlingstillfället.
 
-#### Magic Pot Facial Vitalizing, 30 min 800:-
+#### Magic Pot Facial Vitalizing, 30 min 850:-
 
-En kraftfull anti-age behandling som passar alla hudtyper. Detta är en ’Quick fix’ inför helgen\! Behandlingen erbjuder ett omedelbart resultat.
+En kraftfull anti-age behandling som passar alla hudtyper.
 
-Behandlingen inneh&aring;ller: rengöring, enzympeel, mjukgörande lotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
+Behandlingen inneh&aring;ller: rengöring, enzympeeling, fuktlotion i kombination med en kortare radiofrekvens/vakuum/LED-massage. Behandlingen avslutas med produkter anpassade till din hud.
 
-(För att uppn&aring; bästa h&aring;llbarhet rekommenderas powerlift-behandlingen som en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition.)
+(För att uppn&aring; bästa h&aring;llbarhet rekommenderas Magic Pot Facial Powerlift som en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition.)
 
 #### Magic Pot Anti-age hals, käklinje och dekolletage, 30 min 700:-
 
