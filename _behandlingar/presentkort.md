@@ -1,6 +1,6 @@
 ---
 title: Presentkort
-description:
+description: Finns på Boka Direkt eller på salongen.
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
 ---
