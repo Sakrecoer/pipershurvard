@@ -22,8 +22,7 @@ Vill du ha portömning s&aring; kan du lägga det som add-on
 * Portömning med ultraljud (Derma F) 200:-&nbsp;
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
-* Brynfärg, inkl brynansning, 200:-
-* Brynformning inkl brynfärg 300:-
+* Brynfärg, inkl ansning, 200:-
 
 &nbsp;
 
