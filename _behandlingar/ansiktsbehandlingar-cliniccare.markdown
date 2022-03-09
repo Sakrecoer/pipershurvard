@@ -18,15 +18,16 @@ I Basic Care erbjuder vi en ansiktsbehandling med fokus p&aring; din huds tillst
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l.​​
 
+#### &nbsp;
+
 #### **Add-ons, tillägg till Basic Care**
 
-* EGF Sheet-mask, 200:- (anpassas till hudtyp och tillst&aring;nd)
-* EGF Sheet-mask + Inslussning med Derma F, 300:- (ultraljud)
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
+* EGF Sheet-mask, 200:-&nbsp;
+* EGF Sheet-mask + Inslussning med RF, 300:-
 * Ansiktsmassage Magic Pot 10 min, 300:-
-* Frans och brynfärg, inkl brynansning, 300:-
+* Frans och brynfärg inkl brynansning, 300:-
 * Fransfärg, 200:-
-* Brynfärg, inkl brynansning, 200:-
+* Brynfärg inkl ansning, 200:-
 
 &nbsp;
 
