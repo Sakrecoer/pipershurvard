@@ -8,7 +8,7 @@ image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
-#### Basic Care portömning, 60 min 1050:-
+#### Basic Care portömning, 60 min 1150:-
 
 I Basic Care erbjuder vi en ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Behandlingen innefattar rengöring, enzympeeling, portömning med hjälp av ultraljud (Derma F) brynansning, AHA + EGF Skinbooster, en v&aring;rdande ansiktsmask som slussas ner med ultraljud och avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
 
