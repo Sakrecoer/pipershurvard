@@ -12,6 +12,14 @@ permalink: /vita-c-glow-boost/
 
 Behandlingen inneh&aring;ller rengöring, peeling, portömning med ultraljud, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum och SPF el passande kräm
 
+##### **Add-ons&nbsp;**
+
+* Frans och brynfärg, inkl brynansning, 300:-
+* Fransfärg, 200:-
+* Brynfärg, inkl ansning, 200:-
+
+&nbsp;
+
 **C-vitamin** eller **askorbinsyra** som det även heter är en antioxidant som hjälper till att skydda cellerna fr&aring;n angrepp av fria radikaler. Ett överskott av fria radikaler kan leda till en inre kemisk obalans (oxidativ stress) och sjukdomar i kropp och hud.&nbsp;
 
 Människokroppen kan till skillnad fr&aring;n de flesta djur inte producera c -vitamin, därför är vi beroende av att tillföra C-vitamin genom kosten eller produkter.
