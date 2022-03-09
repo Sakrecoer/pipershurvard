@@ -17,15 +17,16 @@ Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut hudton
 
 Hela kurpriset betalas vid första behandlingstillfället, kuren är giltig 6 m&aring;nader. I priset ing&aring;r även en K-Ceutic fr&aring;n Dermaceutic.
 
-Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall. För bästa resultat rekommenderar vi att Dermaceutics hemmav&aring;rdsprodukter används före, under och efter peeling kuren. Vi rekommenderar en konsultation innan bokning av denna kur.
+Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall.
 
 #### Add-ons&nbsp;
 
-* Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
+* Portömning med ultraljud (Derma F,) 200:-&nbsp;
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg, inkl brynansning, 200:-
+
+&nbsp;
 
 #### Milk Peel kan
 

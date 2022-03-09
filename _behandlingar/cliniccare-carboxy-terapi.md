@@ -25,7 +25,7 @@ Under en behandling Cliniccare Carboxy Terapi tillförs koldioxid via en gele oc
 
 #### Add-ons till Cliniccare Carboxy Terapi
 
-* Portömning med Derma F, 200:-
+* Portömning med ultraljud (Derma F) 200:-
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg, inkl brynansning, 200:-

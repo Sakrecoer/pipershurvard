@@ -8,13 +8,13 @@ image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
-#### Basic Care portömning, 60 min 1050:-
+#### Basic Care portömning, 60 min 1150:-
 
 I Basic Care erbjuder vi en ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Behandlingen innefattar rengöring, enzympeeling, portömning med hjälp av ultraljud (Derma F) brynansning, AHA + EGF Skinbooster, en v&aring;rdande ansiktsmask som slussas ner med ultraljud och avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
 
 #### [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min
 
-Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi. Priset varierar, vi gör minst en Basic Care.
+Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi. Priset varierar, vi gör minst en Basic Care (1150:-)
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l.​​
 

@@ -11,7 +11,7 @@ permalink: /microneedling/
 
 ## Cliniccare Microneedling face 2250:-
 
-Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar grundrengöring, enzympeeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande EGF sheet-mask samt Dermo Corrective Cream SPF 50++
+Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar rengöring, peeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande mask samt v&aring;rdande kräm.
 
 **Add-on:**
 

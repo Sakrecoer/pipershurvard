@@ -15,10 +15,11 @@ Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med 
 
 I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.&nbsp;
 
+Vill du ha portömning s&aring; kan du lägga det som add-on
+
 **Add-ons till Mesoduo**
 
-* Portömning med Derma F, 200:- (portömning med maskin, ultraljud)
-* Djupg&aring;ende kroppsmassage Magic Pot 10 min, 300:-
+* Portömning med ultraljud (Derma F) 200:-&nbsp;
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg, inkl brynansning, 200:-
