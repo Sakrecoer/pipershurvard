@@ -41,10 +41,9 @@ Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, f
 
 #### Add-ons till ansiktsbehandlingar med Magic Pot&nbsp;
 
-* Frans och brynfärg, inkl brynansning, 300:-
+* Frans och brynfärg inkl brynansning, 300:-
 * Fransfärg, 200:-
-* Brynfärg, inkl brynansning, 200:-
-* Brynformning inkl färg 300:-
+* Brynfärg inkl ansning, 200:-
 
 ## &nbsp;
 
