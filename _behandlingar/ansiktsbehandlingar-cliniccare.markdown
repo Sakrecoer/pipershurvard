@@ -1,16 +1,15 @@
 ---
 title: 'Basic Care portömning '
 description: >-
-  Hemligheten bakom Cliniccare är blandningen av revolutionära ingredienser.
-  Produkterna innehåller enbart ingredienser som har vetenskapligt stöd för en
-  god hudhälsa.
+  I Basic Care erbjuder vi en ansiktsbehandling med fokus på din huds tillstånd
+  som ger djup återfuktning och stärker hudbarriären. 
 image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 
-#### Basic Care portömning, 60 min 1150:-
+#### Basic Care, portömning, 60 min 1150:-
 
-I Basic Care erbjuder vi en ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Behandlingen innefattar rengöring, enzympeeling, portömning med hjälp av ultraljud (Derma F) brynansning, AHA + EGF Skinbooster, en v&aring;rdande ansiktsmask som slussas ner med ultraljud och avslutas med produkter anpassade till din hudtyp och tillst&aring;nd.
+I Basic Care erbjuder vi en ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden b.la med hjälp utav ultraljud. Behandlingen avslutas med en lugnande, barriärstärkande mask samt en skinbooster fullproppad med antioxidanter. Vill du lägga till frans el brynfärg eller en skön ansiktsmassage med Magic Pot, kika p&aring; v&aring;ra add-ons nedan.
 
 #### [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min
 
@@ -62,4 +61,4 @@ Aktiva ingredienser i Cliniccare hudv&aring;rd är formulerade mellan 5-20 nanom
 
 Cliniccare är en professionell salongsprodukt som enbart erbjuds p&aring; salonger, spa och kliniker med utbildade terapeuter, hudläkare och sjuksköterskor. Värdet p&aring; en professionell hudv&aring;rdsserie blir aldrig högre än den andel aktiva ingredienser som levereras med produkten. Cliniccare erbjuder marknadens absolut högsta andel aktiva ingredienser med upp till 65%.
 
-Du kan köpa Cliniccareprodukter hos oss p&aring; salongen (Pipersgatan 30, Kungsholmen Stockholm) eller via v&aring;r [shop här p&aring; hemsidan](/produkter/).&nbsp;
+Du kan köpa Cliniccareprodukter hos oss p&aring; salongen (Pipersgatan 30, Kungsholmen Stockholm)
