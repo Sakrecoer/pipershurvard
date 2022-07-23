@@ -1,6 +1,6 @@
 ---
 title: Mesoduo
-description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar samt\_återfuktar\_på djupet. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
+description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar och ger en otrolig fuktboost. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
 ---
