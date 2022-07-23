@@ -1,41 +1,46 @@
 ---
-title: Magic Pot, ansikte och kropp
-description: >-
-  Magic Pot erbjuder 3 moderna teknologier vid ett och samma
-  behandlingstillfälle, Radiofrekvens, vakuum och Super LED- ljus.
-
-
-  Vi kan arbeta i både ansikte och på kroppen och anpassa behandlingen efter
-  dina önskemål och behov.
+title: Magic Pot, radiofrekvensbehandling
+description: >
+  Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter
+  första behandlingen. Huden blir både slätare och finare! Behandlingen ger
+  snabba synbara resultat och kan utföras året om på alla olika hudtyper. 
 image: /images/behandlingar/magicpot.jpg
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
 
 ## Ansiktsbehandlingar med Magic Pot
 
-Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
+Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
+
+#### Resultaten av Magic pot behandlingar innebär:
+
+* Tighteningeffekt
+* Förbättrad struktur i bindväv
+* Ökad lymfcirkulation
+* Ökad blodcirkulation
+* Minskad smärta i samband med arbete mot triggerpunkter och ömmande och svullna muskler
+* Snabbare resultat, kortare behandlingstid
+* Förbättring i hudstruktur
 
 &nbsp;
 
 #### Magic Pot Facial Powerlift, 60 min 1700:-
 
-En kraftfull anti-age behandling som passar alla hudtyper och ger ett omedelbart resultat.&nbsp;
-
-Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, AHA + EGF Skinbooster, lotion anpassad till din huds tillst&aring;nd i kombination med en skön och kraftfull radiofrekvens/vakuum/LED-behandling av ansikte, hals, käklinje och dekolletage. Behandlingen avslutas med produkter anpassade till din hud.
+En kraftfull behandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, en skön och kraftfull radiofrekvens/vakuum/LED-massage. Här behandlar vi ansikte, hals och dekolletage.
 
 (För att uppn&aring; bästa h&aring;llbarhet rekommenderas en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition)
 
-#### Kur, Magic Pot Facial Powerlift
-
-3 behandlingar 4500:-
-
-Hela kurpriset betalas vid första behandlingstillfället.
+&nbsp;
 
 #### Magic Pot Facial Vitalizing, 60 min 1150:-&nbsp;
 
-En kraftfull anti-age behandling som passar alla hudtyper.
+En kraftfull behandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, en skön och kraftfull radiofrekvens/vakuum/LED-massage. Här behandlar vi endast ansikte.
 
-Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, fuktlotion i kombination med en radiofrekvens/vakuum/LED-massage, endast ansikte. Behandlingen avslutas med produkter anpassade till din hud.
+#### Kurer
+
+Magic Pot Facial Powerlift, 3 behandlingar 4500:-
+
+Hela kurpriset betalas vid första behandlingstillfället.
 
 &nbsp;
 
@@ -45,17 +50,7 @@ Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, f
 * Fransfärg, 200:-
 * Brynfärg inkl ansning, 200:-
 
-## &nbsp;
-
-## Kroppsbehandling med Magic Pot
-
-&nbsp;
-
-#### **Magic Pot djupg&aring;ende kroppsmassage, 30 min 600:-**
-
-Vi behandlar **ett omr&aring;de** med radiofrekvens/vakuum/LED som hjälper musklerna att slappna av och jobbar djupt med att lösgöra bindväven. Med hjälp av Magic Pot kan vi jobba fyra g&aring;nger djupare och mer effektivt än manuell massage.
-
-Resultaten av Magic pot behandlingar innebär:
+#### Resultaten av Magic pot behandlingar innebär:
 
 * Tighteningeffekt
 * Förbättrad struktur i bindväv
@@ -65,6 +60,8 @@ Resultaten av Magic pot behandlingar innebär:
 * Snabbare resultat, kortare behandlingstid
 * Orörliga leder kan snabbt ”lösas” upp
 * Förbättring i hudstruktur, s&aring;som cellulitbildningar
+
+&nbsp;
 
 ![16A67B44-1972-4BA5-BF31-1327F80827DC](/images/arkivbilder/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
 
