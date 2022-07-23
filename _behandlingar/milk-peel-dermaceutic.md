@@ -11,11 +11,11 @@ permalink: /milk-peel-dermaceutic/
 
 #### Milk Peel Dermaceutic ansikte, 45 min 1500:-&nbsp;
 
-Milk Peel är en behandling som ger lyster, mjukar upp linjer, jämnar ut hudtonen och jobbar p&aring; orenheter. Behandlingen reducerar effektivt fina linjer och torrhetsrynkor. Den rengör och fräschar effektivt upp oren, trött och livlös hud.
+Milk Peel är en behandling som ger lyster,&nbsp; jämnar ut hudtonen och jobbar p&aring; tilltäpptheter. Den rengör och fräschar effektivt upp trött och livlös hud.
 
 #### Kur, Milk Peel. 4 behandlingar 5500:-
 
-Hela kurpriset betalas vid första behandlingstillfället, kuren är giltig 6 m&aring;nader. I priset ing&aring;r även en K-Ceutic fr&aring;n Dermaceutic.
+Hela kurpriset betalas vid första behandlingstillfället, kuren är giltig 6 m&aring;nader.
 
 Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall.
 
@@ -33,7 +33,7 @@ Milk Peel rekommenderas som en kur p&aring; 4 ggr med 2 veckors intervall.
 * Återställa lyster till gl&aring;mig hud
 * Stimulera epidermis
 * Reglera oljig hud och förstorade porter
-* Förbättra fina linjer och rynkor
+* Förbättra fina linjer
 * Jämna ut hudtonen
 * Förbättra verkan fr&aring;n din dagliga hudv&aring;rd
 

@@ -10,7 +10,7 @@ permalink: /vita-c-glow-boost/
 
 #### Vita C Glow Boost, 60 min 1150:-
 
-Behandlingen inneh&aring;ller rengöring, peeling, portömning med ultraljud, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Dual Injector (Radiofrekvens + elektroporation) behandlingen avslutas med ett c-vitaminserum och SPF el passande kräm
+Behandlingen inneh&aring;ller rengöring, peeling, portömning med ultraljud, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Radiofrekvens och elektroporation, behandlingen avslutas med ett c-vitaminserum och SPF el passande kräm.
 
 ##### **Add-ons&nbsp;**
 
