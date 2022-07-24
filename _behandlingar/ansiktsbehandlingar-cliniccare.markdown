@@ -42,12 +42,11 @@ Detta alternativ är även perfekt för dig som kommer till oss regelbundet och 
 L&aring;gmolekylär hyaluronsyra är en av de grundläggande komponenterna i CLINICCARE’s hudv&aring;rd. Hyaluronsyra har m&aring;nga funktioner i hela kroppen. I huden är n&aring;gra utav dess kända roller följande;
 
 * h&aring;lla fukt
-* ökad viskositet, vilket ökar hudens motst&aring;ndskraft och flexibilitet
-* minskar permeabilitet, förm&aring;gan för främmande ämnen att röra sig ut eller in i huden
-* mekanisk motst&aring;ndskraft, ökar hudens förm&aring;ga att st&aring; emot uv-exponering. Verkar som ett skydd för kollagen och elastin
-* reglering av läkning i vävnad
-* reglering av hudens naturliga proliferation av celler
-* reglering av immunologiska och inflammatoriska reaktioner
+* öka hudens motst&aring;ndskraft och flexibilitet
+* minska förm&aring;gan för främmande ämnen att röra sig ut eller in i huden
+* öka hudens förm&aring;ga att st&aring; emot uv-exponering och verkar som ett skydd för kollagenet och elastinet.
+* reglera läkning i vävnad
+* reglera immunologiska och inflammatoriska reaktioner
 
 Hyaluronsyra är, trots namnet, inte en syra utan en sockermolekyl som finns naturligt i kroppen och kan bära fukt upp till 1000 g&aring;nger sin egen vikt. Med &aring;ldern avtar mängden hyaluronsyra i huden vilket bidrar till fuktförlust, huden blir tunnare och mindre smidig. Förlusten av hyaluronsyra kan ocks&aring; försämra hudens förm&aring;ga att reparera sig själv. Denna process leder ofr&aring;nkomligt till en negativ spiral som p&aring;skyndar &aring;ldrandet i huden.
 
@@ -57,8 +56,6 @@ En torr hud är optimal för inflammatoriska processer d&aring; inflammationer t
 
 Molekylstorleken är avgörande för huruvida en hudv&aring;rdsprodukt kan tillföra n&aring;got till v&aring;ra hudceller. Konventionell hyaluronsyra är 3000 nanometer i diameter, medan det intercellulära utrymmet bara är omkring 100 nanometer. Detta gör det omöjligt för konventionella hyaluronsyra-molekyler att penetrera till djupare niv&aring;er av huden.
 
-Aktiva ingredienser i Cliniccare hudv&aring;rd är formulerade mellan 5-20 nanometer, vilket möjliggör en hög andel penetration ned i djupare hudlager.
-
-Cliniccare är en professionell salongsprodukt som enbart erbjuds p&aring; salonger, spa och kliniker med utbildade terapeuter, hudläkare och sjuksköterskor. Värdet p&aring; en professionell hudv&aring;rdsserie blir aldrig högre än den andel aktiva ingredienser som levereras med produkten. Cliniccare erbjuder marknadens absolut högsta andel aktiva ingredienser med upp till 65%.
+Aktiva ingredienser i Cliniccare hudv&aring;rd är formulerade mellan 5-20 nanometer, vilket möjliggör en hög andel penetration ned i djupare hudlager. Cliniccare erbjuder marknadens absolut högsta andel aktiva ingredienser med upp till 65%.
 
 Du kan köpa Cliniccareprodukter hos oss p&aring; salongen (Pipersgatan 30, Kungsholmen Stockholm)
