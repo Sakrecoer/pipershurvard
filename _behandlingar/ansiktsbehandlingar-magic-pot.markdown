@@ -32,7 +32,7 @@ En kraftfull behandling som passar alla hudtyper och ger ett omedelbart resultat
 
 &nbsp;
 
-#### Magic Pot Facial Vitalizing, 60 min 1150:-&nbsp;
+#### Magic Pot Facial Vitalizing, 60 min 1350:-&nbsp;
 
 En kraftfull behandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, en skön och kraftfull radiofrekvens/vakuum/LED-massage. Här behandlar vi endast ansikte.
 
