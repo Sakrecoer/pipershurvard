@@ -1,5 +1,5 @@
 ---
-title: Magic Pot, radiofrekvensbehandling
+title: Magic Pot (RF,vakum,LED)
 description: >
   Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter
   första behandlingen. Huden blir både slätare och finare! Behandlingen ger
@@ -46,7 +46,7 @@ En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbar
 
 Radiofrekvens: Med hjälp av radiov&aring;gor kan terapeuten p&aring; ett mycket kontrollerat sätt generera värme ned i huden som bidrar till att aktivera microcirkulationen. Microcirkulaionen har en mycket viktig funktion för att bidra till att beh&aring;lla en frisk och vital hud.
 
-Vakuum: Genom att addera vakuum i Magic Pot-behandlingen, vilket kan liknas med en mycket avslappnande massage, ökar vi elasticiteten i huden och ökar b&aring;de lymf- och blodcirkulationen. Detta ökar hudens struktur och vitalitet avsevärt.
+Vakum: Genom att addera vakum i Magic Pot-behandlingen, vilket kan liknas med en mycket avslappnande massage, ökar vi elasticiteten i huden och ökar b&aring;de lymf- och blodcirkulationen. Detta ökar hudens struktur och vitalitet avsevärt.
 
 Super LED: Ljus har genom sina olika färger (v&aring;glängder) olika positiva effekter p&aring; hudens celler. I Magic Pot-behandlingen kan vi arbeta med ett bl&aring;tt ljus (470nm) som i vetenskapliga studier visat mycket positiva resultat p&aring; inflammatorisk hud. Tex acne, rosacea och andra inflammatoriska tillst&aring;nd. Vi kan även välja att arbeta med rött ljus (640nm) som har en p&aring;verkan p&aring; fettceller och bidrar till att reducera fettcellerna storlek och inneh&aring;ll.
 
