@@ -4,8 +4,6 @@ description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupar
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
 ---
-### Mesoduo
-
 Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena fr&aring;n serumet tas effektivt upp i huden och förstärker, vitaliserar samt &aring;terfuktar p&aring; djupet. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar och kan även göras p&aring; gravida.
