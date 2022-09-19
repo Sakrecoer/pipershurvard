@@ -1,5 +1,5 @@
 ---
-title: 'Basic Care portömning '
+title: 'Basic Care '
 description: >-
   I Basic Care erbjuder vi en ansiktsbehandling med fokus på din huds tillstånd
   som ger djup återfuktning och stärker hudbarriären. 
