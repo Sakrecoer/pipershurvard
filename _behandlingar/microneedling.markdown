@@ -20,8 +20,6 @@ Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, sa
 
 #### Microneedling-kur, 3 behandlingar 6500:-
 
-Vid bokning av kur ing&aring;r hemv&aring;rdsprodukter till ett värde av ca 1000:-
-
 Hela kurpriset betalas vid första behandlingstillfället och kuren är giltig 6 m&aring;nader
 
 &nbsp;
