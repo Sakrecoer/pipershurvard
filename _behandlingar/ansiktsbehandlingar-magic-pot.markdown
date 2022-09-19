@@ -11,15 +11,7 @@ permalink: /ansiktsbehandlingar-magic-pot/
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-#### Resultaten av Magic pot behandlingar innebär:
-
-* Tighteningeffekt
-* Förbättrad struktur i bindväv
-* Ökad lymfcirkulation
-* Ökad blodcirkulation
-* Minskad smärta i samband med arbete mot triggerpunkter och ömmande och svullna muskler
-* Snabbare resultat, kortare behandlingstid
-* Förbättring i hudstruktur
+&nbsp;
 
 #### Magic Pot Deep Hydration, 60 min 1950:- NYHET\!
 
@@ -38,6 +30,8 @@ En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbar
 * Frans och brynfärg inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg inkl ansning, 200:-
+
+&nbsp;
 
 #### Resultaten av Magic pot behandlingar innebär:
 
