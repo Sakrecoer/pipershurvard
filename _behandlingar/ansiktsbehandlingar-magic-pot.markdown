@@ -27,7 +27,7 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 En kraftfull kombobehandling för b&aring;de tightening och inslussning av fukt. Passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med Magic Pot och inslussning av fuktserum med elektroporation.
 
-#### Magic Pot Facial Powerlift, 60 min 1700:-
+#### Magic Pot Facial Powerlift, 60 min 1750:-
 
 En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte, hals och dekolletage med Magic Pot.
 
