@@ -1,14 +1,14 @@
 ---
 title: 'Basic Care '
 description: >-
-  I Basic Care erbjuder vi en ansiktsbehandling med fokus på din huds tillstånd
-  som ger djup återfuktning och stärker hudbarriären. 
+  I Basic Care erbjuder vi en klassisk ansiktsbehandling med fokus på din huds
+  tillstånd som ger djup återfuktning och stärker hudbarriären. 
 image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 ---
 #### Basic Care, 60 min 1150:-
 
-I Basic Care erbjuder vi en ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden b.la med hjälp utav ultraljud. Behandlingen avslutas med en lugnande, barriärstärkande mask samt en skinbooster fullproppad med antioxidanter. Vill du lägga till frans el brynfärg eller en skön ansiktsmassage med Magic Pot, kika p&aring; v&aring;ra add-ons nedan.
+I Basic Care erbjuder vi en klassisk ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden b.la med hjälp utav ultraljud. Behandlingen avslutas med en lugnande, barriärstärkande mask samt en skinbooster fullproppad med antioxidanter. Vill du lägga till frans el brynfärg eller en skön ansiktsmassage med Magic Pot, kika p&aring; v&aring;ra add-ons nedan.
 
 #### [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min
 
