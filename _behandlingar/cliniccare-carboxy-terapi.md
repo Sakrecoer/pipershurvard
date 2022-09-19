@@ -8,10 +8,7 @@ description: >
 image: /uploads/carboxy-treatment.jpg
 permalink:
 ---
-
-### NYHET\!
-
-#### Cliniccare Carboxy Terapi 50 min 1500:-
+#### Cliniccare Carboxy Terapi, 60 min 1500:-
 
 #### &nbsp;
 
@@ -21,11 +18,10 @@ När koldioxid tillförs huden tolkar den det som syrebrist och reagerar genom a
 
 Vid behandling med koldioxid ökar cirkulationen och vävnaden f&aring;r ökad närings- och syretillförsel samtidigt som dränering av överflödig vätska och slaggämnen p&aring;skyndas. Som en följd av bättre cirkulation och den ökade syretillförseln stimuleras även kollagen och elastinproduktionen. Effekten blir en &aring;tstramning av huden och även en gr&aring; och livlös hud f&aring;r nytt liv och fin lyster.
 
-Under en behandling Cliniccare Carboxy Terapi tillförs koldioxid via en gele och aktivatormask ‐helt&nbsp; utan n&aring;lar\! &nbsp;
+Under en behandling Cliniccare Carboxy Terapi tillförs koldioxid via en gele och aktivatormask ‐helt&nbsp; utan n&aring;lar\!&nbsp;
 
-#### Add-ons till Cliniccare Carboxy Terapi
+##### Add-ons:
 
-* Portömning med ultraljud (Derma F) 200:-
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg, inkl ansning, 200:-
