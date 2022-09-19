@@ -4,22 +4,20 @@ description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupar
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
 ---
-
 ## Mesoduo
 
 Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena fr&aring;n serumet tas effektivt upp i huden och förstärker, vitaliserar samt &aring;terfuktar p&aring; djupet. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar och kan även göras p&aring; gravida.
 
-#### Mesoduo 60min 1750:-
+#### Mesoduo, 60min 1750:-
 
-I behandlingen ing&aring;r: Rengöring, peeling, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.&nbsp;
+Behöver du en riktigt fuktboost, d&aring; är detta behandlingen för dig\! I behandlingen ing&aring;r: Rengöring, peeling, portömning med ultraljud, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.&nbsp;
 
 Vill du ha portömning s&aring; kan du lägga det som add-on
 
 **Add-ons till Mesoduo**
 
-* Portömning med ultraljud (Derma F) 200:-&nbsp;
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg, inkl ansning, 200:-
