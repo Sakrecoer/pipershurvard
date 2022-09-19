@@ -7,45 +7,31 @@ description: >
 image: /images/behandlingar/magicpot.jpg
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
-## Ansiktsbehandlingar med Magic Pot
-
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
-
-#### Resultaten av Magic pot behandlingar innebär:
-
-* Tighteningeffekt
-* Förbättrad struktur i bindväv
-* Ökad lymfcirkulation
-* Ökad blodcirkulation
-* Minskad smärta i samband med arbete mot triggerpunkter och ömmande och svullna muskler
-* Snabbare resultat, kortare behandlingstid
-* Förbättring i hudstruktur
-
-&nbsp;
 
 #### Magic Pot Deep Hydration, 60 min 1950:- NYHET\!
 
-En kraftfull kombobehandling för b&aring;de tightening och inslussning av fukt. Passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med Magic Pot och inslussning av fuktserum med elektroporation.
+En kraftfull kombobehandling för b&aring;de tightening och inslussning av fukt. Passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med radiofrekvens och inslussning av fuktserum med elektroporation.
 
 #### Magic Pot Facial Powerlift, 60 min 1750:-
 
-En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte, hals och dekolletage med Magic Pot.
+En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte, hals och dekolletage med radiofrekvens.
 
-#### Magic Pot Facial Vitalizing, 60 min 1350:-&nbsp;
+#### Magic Pot Facial Vitalizing, 60 min 1350:-
 
-En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med Magic Pot.
+En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med radiofrekvens.
 
-&nbsp;
-
-#### Add-ons till ansiktsbehandlingar med Magic Pot&nbsp;
+##### Add-ons:
 
 * Frans och brynfärg inkl brynansning, 300:-
 * Fransfärg, 200:-
 * Brynfärg inkl ansning, 200:-
 
+&nbsp;
+
 #### Resultaten av Magic pot behandlingar innebär:
 
-* Tighteningeffekt
+* Tightening
 * Förbättrad struktur i bindväv
 * Ökad lymfcirkulation
 * Ökad blodcirkulation
@@ -53,8 +39,6 @@ En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbar
 * Snabbare resultat, kortare behandlingstid
 * Orörliga leder kan snabbt ”lösas” upp
 * Förbättring i hudstruktur, s&aring;som cellulitbildningar
-
-&nbsp;
 
 ![16A67B44-1972-4BA5-BF31-1327F80827DC](/images/arkivbilder/16a67b44-1972-4ba5-bf31-1327f80827dc.png?w=300)
 
