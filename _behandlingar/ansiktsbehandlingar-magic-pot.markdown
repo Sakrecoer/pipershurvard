@@ -7,7 +7,6 @@ description: >
 image: /images/behandlingar/magicpot.jpg
 permalink: /ansiktsbehandlingar-magic-pot/
 ---
-
 ## Ansiktsbehandlingar med Magic Pot
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
@@ -24,23 +23,17 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 &nbsp;
 
+#### Magic Pot Deep Hydration, 60 min 1950:- NYHET\!
+
+En kraftfull kombobehandling för b&aring;de tightening och inslussning av fukt. Passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med Magic Pot och inslussning av fuktserum med elektroporation.
+
 #### Magic Pot Facial Powerlift, 60 min 1700:-
 
-En kraftfull behandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, en skön och kraftfull radiofrekvens/vakuum/LED-massage. Här behandlar vi ansikte, hals och dekolletage.
-
-(För att uppn&aring; bästa h&aring;llbarhet rekommenderas en kurbehandling, mellan 3-6 behandlingar beroende p&aring; din huds kondition)
-
-&nbsp;
+En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte, hals och dekolletage med Magic Pot.
 
 #### Magic Pot Facial Vitalizing, 60 min 1350:-&nbsp;
 
-En kraftfull behandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, en skön och kraftfull radiofrekvens/vakuum/LED-massage. Här behandlar vi endast ansikte.
-
-#### Kurer
-
-Magic Pot Facial Powerlift, 3 behandlingar 4500:-
-
-Hela kurpriset betalas vid första behandlingstillfället.
+En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med Magic Pot.
 
 &nbsp;
 

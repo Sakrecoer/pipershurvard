@@ -1,5 +1,5 @@
 ---
-title: Vita C Glow Boost
+title: Magic Pot Deep Hydration
 description: >-
   C-vitamin stärker huden, hjälper den att stå emot miljöpåverkan och stimulerar
   kollagenproduktionen. Det har även en fin effekt på hudtonen, strukturen och
@@ -7,7 +7,6 @@ description: >-
 image: /images/behandlingar/image0.jpg
 permalink: /vita-c-glow-boost/
 ---
-
 #### Vita C Glow Boost, 60 min 1150:-
 
 Behandlingen inneh&aring;ller rengöring, peeling, portömning med ultraljud, AHA/EGF Skinbooster, C-vitaminmask som slussas djupare in i huden med hjälp utav Radiofrekvens och elektroporation, behandlingen avslutas med ett c-vitaminserum och SPF el passande kräm.
