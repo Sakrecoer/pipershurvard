@@ -4,7 +4,7 @@ description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupar
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
 ---
-## Mesoduo
+### Mesoduo
 
 Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
@@ -12,11 +12,9 @@ Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med 
 
 #### Mesoduo, 60min 1750:-
 
-Behöver du en riktigt fuktboost, d&aring; är detta behandlingen för dig\! I behandlingen ing&aring;r: Rengöring, peeling, portömning med ultraljud, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.&nbsp;
+Behöver du en riktigt fuktboost, d&aring; är detta behandlingen för dig\! I behandlingen ing&aring;r: Rengöring, peeling, portömning med ultraljud, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
 
-Vill du ha portömning s&aring; kan du lägga det som add-on
-
-**Add-ons till Mesoduo**
+##### **Add-ons:**
 
 * Frans och brynfärg, inkl brynansning, 300:-
 * Fransfärg, 200:-
