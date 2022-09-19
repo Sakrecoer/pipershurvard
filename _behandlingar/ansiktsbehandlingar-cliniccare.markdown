@@ -8,7 +8,13 @@ permalink: /ansiktsbehandlingar-cliniccare/
 ---
 #### Basic Care, 60 min 1150:-
 
-I Basic Care erbjuder vi en klassisk ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden b.la med hjälp utav ultraljud. Behandlingen avslutas med en lugnande, barriärstärkande mask samt en skinbooster fullproppad med antioxidanter. Vill du lägga till frans el brynfärg eller en skön ansiktsmassage med Magic Pot, kika p&aring; v&aring;ra add-ons nedan.
+I Basic Care erbjuder vi en klassisk ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd som ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden b.la med hjälp utav ultraljud. Behandlingen avslutas med en lugnande, barriärstärkande mask samt en skinbooster fullproppad med antioxidanter.
+
+##### **Add-ons:**
+
+* Frans och brynfärg inkl brynansning, 300:-
+* Fransfärg, 200:-
+* Brynfärg inkl ansning, 200:-
 
 #### [Hudterapeutens val](https://pipershudvard.com/hudterapeutens-val/){: target="_blank"}, 75 min
 
@@ -16,14 +22,7 @@ I Basic Care erbjuder vi en klassisk ansiktsbehandling med fokus p&aring; din hu
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l.​​
 
-#### **Add-ons, tillägg till Basic Care**
-
-* EGF Sheet-mask, 200:-
-* EGF Sheet-mask + Inslussning med RF, 300:-
-* Ansiktsmassage Magic Pot 10 min, 300:-
-* Frans och brynfärg inkl brynansning, 300:-
-* Fransfärg, 200:-
-* Brynfärg inkl ansning, 200:-
+&nbsp;
 
 ![](/images/behandlingar/clinicare.jpg){: width="720" height="208"}
 
