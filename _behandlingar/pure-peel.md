@@ -1,7 +1,7 @@
 ---
 title: Pure Peel
 description: >-
-  Med en kombination av azelainsyra och mjölksyra  passar detta en hud som lätt
+  Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt
   blir tilltäppt och inflammerad. Innehåller även mjölksyra och glykolsyra som
   fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring.
 image: /uploads/pure-peel.png
@@ -9,7 +9,7 @@ permalink:
 ---
 #### Pure Peel, 60 min 1500:- NYHET\!
 
-Med en kombination av azelainsyra och mjölksyra&nbsp; passar detta en hud som lätt blir tilltäppt och inflammerad. Inneh&aring;ller även mjölksyra och glykolsyra som fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring. I behandlingen ing&aring;r portömning och mask.
+Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt blir tilltäppt och inflammerad. Inneh&aring;ller även mjölksyra och glykolsyra som fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring. I behandlingen ing&aring;r portömning och mask.
 
 &nbsp;
 
