@@ -38,6 +38,6 @@ Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&ari
 
 Färg för fransar och bryn samt brynansning ing&aring;r
 
-#### Frans och brynstyling, 45 min 750:-
+#### Frans och brynstyling, 45 min 650:-
 
 Färgning av fransar och bryn samt formning med pincett
