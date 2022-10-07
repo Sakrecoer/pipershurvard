@@ -4,7 +4,7 @@ description: >-
   Lie kommer hålla öppet till klockan 19 ungefär en gång i veckan och vissa
   fredagar förlänger vi öppettiden till kl 16.
 date: 2022-10-07 07:00:00 +0200
-image:
+image: /images/posts/viktor-forgacs-lnwijhuted4-unsplash.jpg
 tags:
   - Nyckel
   - Ord
