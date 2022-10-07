@@ -3,7 +3,7 @@ title: Fler kvällstider!
 description: >-
   Lie kommer hålla öppet till klockan 19 ungefär en gång i veckan och vissa
   fredagar förlänger vi öppettiden till kl 16.
-date:
+date: 2022-10-07 07:00:00 +0200
 image:
 tags:
   - Nyckel
