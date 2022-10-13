@@ -1,5 +1,5 @@
 ---
-title: 'Kommer snart! Hybrid bryn '
+title: Hybrid bryn, kommer snart!
 description: 'Detta är en hybrid mellan traditionell brynfärg och henna. '
 image: /uploads/supercilium.webp
 permalink:
