@@ -1,5 +1,5 @@
 ---
-title: Kemisk Peeling Dermaceutic
+title: Milk Peel Dermaceutic
 description: >-
   Milk Peel är en behandling som ger lyster,  jämnar ut hudtonen och jobbar på
   tilltäpptheter. Den rengör och fräschar effektivt upp trött och livlös hud.
