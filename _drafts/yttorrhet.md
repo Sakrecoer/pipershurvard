@@ -5,7 +5,7 @@ description: >-
   att man vill använda mer retinol och exfolierande syror nu när solen inte
   visar sig så mycket längre, vilket också kan bidra till mer ytorrhet. 
 date: 2022-10-14 07:07:00 +0200
-image:
+image: /images/posts/photo-2022-10-14-09-18-27.jpg
 tags:
   - Nyckel
   - Ord
