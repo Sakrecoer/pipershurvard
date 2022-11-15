@@ -7,7 +7,7 @@ description: >-
 image: /uploads/pure-peel.png
 permalink:
 ---
-#### Pure Peel, 60 min 1500:- NYHET\!
+#### Pure Peel, 60 min 1450:-
 
 Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt blir tilltäppt och inflammerad. Inneh&aring;ller även mjölksyra och glykolsyra som fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring. I behandlingen ing&aring;r portömning och mask.
 
