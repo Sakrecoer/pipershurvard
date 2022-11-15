@@ -1,16 +1,18 @@
 ---
 title: Cliniccare Premium 2050:-
 description: >-
-  I Cliniccare Premium väljer vi en utav följande behandlingar: Microneedling
-  Face eller Magic Pot Deep Hydration. Behandlingarna kostar 2050:- och tar ca
-  60 min
+  I Cliniccare Premium väljer vi en utav premiumbehandlingar Microneedling eller
+  Magic Pot Deep Hydration. Här använder vi oss utav maskiner för att få ett mer
+  kraftfullt resultat. Behandlingarna kostar 2050:- och tar ca 60 min. 
 image: /images/behandlingar/microneedling.jpg
 permalink:
 published: true
 ---
 ### Cliniccare Premium
 
-I Cliniccare Premium väljer vi en utav följande behandlingar. Behandlingarna kostar 2050:- och tar ca 60 min. Portömning ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi tillsammans p&aring; plats.
+I Cliniccare Premium väljer vi en utav v&aring;ra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration. Behandlingarna kostar 2050:- och tar ca 60 min.
+
+Portömning med ultraljud ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi tillsammans p&aring; plats.
 
 &nbsp;
 
@@ -81,3 +83,11 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring
 * har sv&aring;r dermatit, psoriasis eller liknande
 * har aktiv papulopustular rosacea eller acne vulgaris
 * f&aring;r antikoagulantia terapi, cellgiftsbehandling,str&aring;lbehandling,höga doser av kortikosteroider, orala retinoider
+
+&nbsp;
+
+* ### Hudterapeutens val&nbsp;
+
+Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.&nbsp;
+
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan Cliniccare Bas 1450:-, Cliniccare Plus 1750:- och Cliniccare Premium 2050:-
