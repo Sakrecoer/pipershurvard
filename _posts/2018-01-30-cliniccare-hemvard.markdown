@@ -1,21 +1,23 @@
 ---
-date: 2018-01-30 14:23:07+00:00
+date: 2018-01-30 15:23:07 +0100
 slug: cliniccare-hemvard
 title: Cliniccare hemvård
 image: /images/arkivbilder/27e6f9e7-b403-4c14-a934-09004674ce7f.jpeg
-description: Lågmolekylär hyaluronsyra är en av de grundläggande komponenterna i CLINICCARE’s hudvård. Läs om dess kända roller i huden.
-tags: 
+description: >-
+  Lågmolekylär hyaluronsyra är en av de grundläggande komponenterna i
+  CLINICCARE’s hudvård. Läs om dess kända roller i huden.
+tags:
 published: true
 ---
 [Lågmolekylär hyaluronsyra](http://pipershudvard.com/ansiktsbehandlingar-cliniccare/) är en av de grundläggande komponenterna i CLINICCARE’s hudvård. Hyaluronsyra har många funktioner i hela kroppen. I huden är några utav dess kända roller följande;
 
-- hålla fukt
-- ökad viskositet, vilket ökar hudens motståndskraft och flexibilitet
-- minskar permeabilitet, förmågan för främmande ämnen att röra sig ut eller in i huden
-- mekanisk motståndskraft, ökar hudens förmåga att stå emot uv-exponering. Verkar som ett skydd för kollagen och elastin
-- reglering av läkning i vävnad
-- reglering av hudens naturliga proliferation av celler
-- reglering av immunologiska och inflammatoriska reaktioner
+* hålla fukt
+* ökad viskositet, vilket ökar hudens motståndskraft och flexibilitet
+* minskar permeabilitet, förmågan för främmande ämnen att röra sig ut eller in i huden
+* mekanisk motståndskraft, ökar hudens förmåga att stå emot uv-exponering. Verkar som ett skydd för kollagen och elastin
+* reglering av läkning i vävnad
+* reglering av hudens naturliga proliferation av celler
+* reglering av immunologiska och inflammatoriska reaktioner
 
 ![0FAF7A07-0643-4AB2-B1D2-EFD057404B57](/images/arkivbilder/0faf7a07-0643-4ab2-b1d2-efd057404b57.jpeg)
 
