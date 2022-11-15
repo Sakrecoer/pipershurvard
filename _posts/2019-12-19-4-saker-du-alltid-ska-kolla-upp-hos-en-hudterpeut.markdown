@@ -8,6 +8,7 @@ description: >-
   Vågar du ta risken att inte kontrollera vem som utför dina skönhet- och
   hudvårdsbehandlingar?
 image: /images/arkivbilder/a609bd02-e744-454f-9ebd-71d3f844f7ec.jpeg
+published: true
 ---
 
 Tyvärr har yrket Hudterapeut ingen skyddad yrkestitel vilket gör att vem som helst kan öppna en skönhetssalong och erbjuda skönhet-, och hudv&aring;rdsbehandlingar. Detta innebär att personer som inte har n&aring;gon utbildning inom detta yrke kan behandla kunder med risk för utebliven effekt, felbehandling och i värsta fall skador.

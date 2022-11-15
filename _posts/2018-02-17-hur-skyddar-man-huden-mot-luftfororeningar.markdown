@@ -5,6 +5,7 @@ title: Hur skyddar man huden mot luftföroreningar?
 image: /images/arkivbilder/d00f13df-5e6c-47a3-942c-b3e121a200eb.jpeg
 description: Luftföroreningar är ett populärt begrepp i skönhetsbranschen just nu. Men vad säger experterna? Läs artikeln av Sofia Stenseth!
 tags: 
+published: true
 ---
 
 (Artikel från KIT Beauty av Sofia Stenseth)

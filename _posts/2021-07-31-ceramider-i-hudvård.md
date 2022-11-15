@@ -6,6 +6,7 @@ image: /images/posts/kai-dahms-217u8oxgoq4-unsplash.jpg
 tags:
   - Nyckel
   - Ord
+published: true
 ---
 Ceramider utgör ca 50% av&nbsp;[hudens viktiga barriär](/2021/07/25/bevara-en-stark-hudbarri%C3%A4r/){: target="_blank" rel="noopener"}. Ceramider är naturliga byggstenar i huden som h&aring;ller bevarar fukten och h&aring;ller den mjuk och smidig.&nbsp;
 

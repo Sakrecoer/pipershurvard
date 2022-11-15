@@ -5,6 +5,7 @@ title: Musikhjälpen 2019
 wordpress_id: 1824
 image: /images/arkivbilder/833d4786-b4da-42fd-9def-5608c9b2241d.jpeg
 desccription: Vi har en auktion uppe på Tradera nu!
+published: true
 ---
 Snart drar Musikhjälpen igång och vi är självklart med och bidrar även i år!
 

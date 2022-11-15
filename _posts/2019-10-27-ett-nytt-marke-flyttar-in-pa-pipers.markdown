@@ -5,6 +5,7 @@ title: Ett nytt märke flyttar in på Pipers!
 wordpress_id: 1728
 image: /images/arkivbilder/7770bbca-1be4-4041-81ec-b02ee5fc97b4.jpeg
 descrption: Vi har högva krav på hudvårdsprodukter och det är viktigt för oss att jobba med varumärken som vi verkligen älskar och tror på.
+published: true
 ---
 ## Vi välkomnar Dermaceutic till Pipers!
 

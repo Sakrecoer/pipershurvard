@@ -5,13 +5,14 @@ date: 2018-01-12 13:48:05+00:00
 image: /images/arkivbilder/0c437aff-f6bd-43d1-ae36-81bc006aee11.jpeg
 slug: elin-fagerberg-pa-besok
 tags:
-- cliniccare
-- Elin Fagerberg
-- hudvård
-- kungsholmen
-- magic pot
-- Pipers Hudvård
-- pipersgatan 30
+  - cliniccare
+  - Elin Fagerberg
+  - hudvård
+  - kungsholmen
+  - magic pot
+  - Pipers Hudvård
+  - pipersgatan 30
+published: true
 ---
 
 
