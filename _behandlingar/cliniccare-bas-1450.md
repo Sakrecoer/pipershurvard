@@ -6,6 +6,7 @@ description: >-
   Bas kostar 1450:- och tar ca 60 min. Portömning med ultraljud ingår.
 image: /images/behandlingar/clinicare.jpg
 permalink:
+published: true
 ---
 #### &nbsp;
 

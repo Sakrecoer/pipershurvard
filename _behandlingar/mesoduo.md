@@ -3,6 +3,7 @@ title: Mesoduo
 description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar och ger en otrolig fuktboost. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
+published: true
 ---
 Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 

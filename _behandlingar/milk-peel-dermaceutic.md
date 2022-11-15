@@ -5,6 +5,7 @@ description: >-
   tilltäpptheter. Den rengör och fräschar effektivt upp trött och livlös hud.
 image: /images/behandlingar/7770bbca-1be4-4041-81ec-b02ee5fc97b4.jpg
 permalink: /milk-peel-dermaceutic/
+published: true
 ---
 #### Milk Peel Dermaceutic ansikte, 60min 1450:-
 
