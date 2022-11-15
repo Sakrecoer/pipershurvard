@@ -12,7 +12,7 @@ published: true
 ---
 ### Cliniccare Plus
 
-I Cliniccare Plus väljer vi en utav följande behandlingar. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar ca 60min. Portömning med ultraljud ing&aring;r i alla behandlingar.
+I Cliniccare Plus väljer vi en utav följande behandlingar. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar ca 60min. Portömning med ultraljud ing&aring;r i alla behandlingar. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
