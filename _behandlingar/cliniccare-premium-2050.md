@@ -10,7 +10,7 @@ published: true
 ---
 ### Cliniccare Premium
 
-&nbsp;
+I Cliniccare Premium väljer vi en utav följande behandlingar. Behandlingarna kostar 2050:- och tar ca 60 min. Portömning ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi tillsammans p&aring; plats.
 
 * #### Magic Pot Deep Hydration
 
