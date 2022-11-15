@@ -1,9 +1,9 @@
 ---
 title: Cliniccare Bas, 1450:-
 description: >-
-  Om du bokar Cliniccare Bas görs någon utav följande behandlingar. Vi anpassar
-  behandlingen utifrån hudtyp och hudtillstånd. Alla behandlingar i Cliniccare
-  Bas kostar 1450:- och tar ca 60 min. Portömning med ultraljud ingår.
+  I Cliniccare Bas görs någon utav våra basbehandlingar. Vi väljer och anpassar
+  utifrån hudtyp och hudtillstånd och i alla behandlingar ingår portömning med
+  ultraljud. Cliniccare Bas-behandlingarna kostar 1450:- och tar ca 60 min. 
 image: /images/behandlingar/clinicare.jpg
 permalink:
 published: true
@@ -12,7 +12,9 @@ published: true
 
 ### Cliniccare Bas
 
-Om du bokar Cliniccare Bas görs n&aring;gon utav följande behandlingar. Vi anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd. Alla behandlingar i Cliniccare Bas kostar 1450:- och tar ca 60 min. Portömning med ultraljud ing&aring;r i alla behandlingar. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
+I Cliniccare Bas görs n&aring;gon utav v&aring;ra basbehandlingar. Vi väljer och anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd och i alla behandlingar ing&aring;r portömning med ultraljud. Cliniccare Bas-behandlingarna kostar 1450:- och tar ca 60 min.&nbsp;
+
+Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
