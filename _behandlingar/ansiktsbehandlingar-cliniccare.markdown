@@ -1,6 +1,6 @@
 ---
-title: Cliniccare
-description:
+title: 'Cliniccare '
+description: Läs mer om Cliniccare
 image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
 published: true
