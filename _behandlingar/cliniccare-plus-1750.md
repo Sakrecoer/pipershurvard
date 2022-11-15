@@ -5,7 +5,7 @@ description: >-
   Powerlift el Mesoduo. Här använder vi oss utav olika maskiner för att
   förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp,
   tillstånd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar
-  ca 60 min. Portömning med ultraljud ingår i alla behandlingar. 
+  ca 60 min. 
 image: /images/behandlingar/mesoduo-1.jpg
 permalink:
 published: true
