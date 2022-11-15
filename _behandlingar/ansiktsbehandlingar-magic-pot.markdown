@@ -17,7 +17,7 @@ En kraftfull kombobehandling för b&aring;de tightening och inslussning av fukt.
 
 En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av ansikte, hals och dekolletage med radiofrekvens.
 
-#### Magic Pot Facial Vitalizing, 60 min 1350:-
+#### Magic Pot Facial Vitalizing, 60 min 1450:-
 
 En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen inneh&aring;ller: rengöring, peeling, portömning med ultraljud, behandling av (endast) ansikte med radiofrekvens.
 
