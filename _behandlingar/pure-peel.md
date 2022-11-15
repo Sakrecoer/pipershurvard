@@ -6,15 +6,15 @@ description: >-
   fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring.
 image: /uploads/pure-peel.png
 permalink:
-published: true
+published: false
 ---
 #### Pure Peel, 60 min 1450:-
 
-Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt blir tilltäppt och inflammerad. Innehåller även mjölksyra och glykolsyra som fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring. I behandlingen ingår portömning och mask.
+Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt blir tilltäppt och inflammerad. Inneh&aring;ller även mjölksyra och glykolsyra som fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring. I behandlingen ing&aring;r portömning och mask.
 
-• Azelainsyra (16%) – En hudvårdsingrediens som används för behandling av akne och rosacea. Azelainsyra lindrar akneärr och melasma, och dess antiinflammatoriska egenskaper lugnar rosacea och rodnad.
+• Azelainsyra (16%) – En hudv&aring;rdsingrediens som används för behandling av akne och rosacea. Azelainsyra lindrar akneärr och melasma, och dess antiinflammatoriska egenskaper lugnar rosacea och rodnad.
 
-• Glykolsyra (14%) – exfolierar överhuden och stimulerar tillväxten av ny hud. Glykolsyra minskar också mängden ytolja.
+• Glykolsyra (14%) – exfolierar överhuden och stimulerar tillväxten av ny hud. Glykolsyra minskar ocks&aring; mängden ytolja.
 
 • Mjölksyra (14%) – mild fruktsyra, stimulerar kollagensyntesen, mild peeling.
 
