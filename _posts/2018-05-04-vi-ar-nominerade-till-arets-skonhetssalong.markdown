@@ -5,6 +5,7 @@ title: Vi är nominerade till Årets Skönhetssalong!
 image: /images/arkivbilder/fd11853e-a0aa-42ec-a1ca-0c3d14f5ca48.jpeg
 description: Om ni vill rösta på oss, kika på Stockholm Beauty Weeks Instagram och tagga @pipershudvard i kommentarerna på tävlingsinlägget 💘️
 tags: 
+published: true
 ---
 
 Under Stockholm Beauty Week kommer Sthlm Beauty Prize delas ut till bästa Make up artist och bästa salong! Och vi är en utav 8 salonger som är nominerade till Årets Skönhetssalong!

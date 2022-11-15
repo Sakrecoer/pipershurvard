@@ -6,6 +6,7 @@ image: /uploads/sneha-cecil--l6xrkkuxjo-unsplash.jpg
 tags:
   - Nyckel
   - Ord
+published: true
 ---
 Huden är kroppens största organ. Den har bla i uppgift är att stänga ute farliga ämnen och l&aring;sa in fukt. P&aring; hudens yta finns ett tunt lager av keratiniserade hudceller, hudbarriären som även kallas syraskyddsmanteln. Den är svagt sur, allts&aring; har ett l&aring;gt ph-värde för att kunna eliminera bakterier.&nbsp;
 

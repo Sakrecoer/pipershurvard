@@ -6,6 +6,7 @@ title: Ny mask från Cliniccare!
 wordpress_id: 1559
 image: /images/arkivbilder/9a0c7c26-6f69-4c47-8289-ed28f271e796.jpeg
 description: En mask med aktivt kol och trollhassel, ingredienser som hjälper till att kontrollera talgproduktionen i huden, reducera överflödigt talg och minska synligheten av porer.
+published: true
 ---
 ## Cliniccare 3XM Pure Pore Minimizer Mask med aktivt kol
 

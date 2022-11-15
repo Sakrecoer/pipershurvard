@@ -12,6 +12,7 @@ image: /images/arkivbilder/4ddf2fa1-ba75-47d2-8708-187cd8011ed6.jpeg
 description: >-
   Med vår nya tjänst Hudterapeutens val gör vi det lättare för dig som vill boka
   en behandling men är lite osäker på vilken som skulle passa dig bäst.
+published: true
 ---
 Med v&aring;r nya tjänst [Hudterapeutens val](http://pipershudvard.com/hudterapeutens-val/) gör vi det lättare för dig som vill boka en behandling men är lite osäker p&aring; vilken som skulle passa dig bäst.
 

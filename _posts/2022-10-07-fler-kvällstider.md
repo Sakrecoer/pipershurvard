@@ -8,6 +8,7 @@ image: /images/posts/viktor-forgacs-lnwijhuted4-unsplash.jpg
 tags:
   - Nyckel
   - Ord
+published: true
 ---
 Nu under hösten kommer Lie h&aring;lla öppet till klockan 19 ungefär en g&aring;ng i veckan och vissa fredagar förlänger vi öppettiden till kl 16. Nästa &aring;r kommer det finnas ännu fler möjligheter att komma till oss p&aring; en senare tid.
 

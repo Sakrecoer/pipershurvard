@@ -5,6 +5,7 @@ title: Se dig omkring i vår salong
 image: /images/arkivbilder/screen-shot-2018-02-25-at-11-35-36-e1519555415393.png
 description: 360 graders bilder på vår salong på Kungsholmen i Stockholm
 tags: 
+published: true
 ---
 
 Kilcka på bilderna för att se dig omkring i våran salong

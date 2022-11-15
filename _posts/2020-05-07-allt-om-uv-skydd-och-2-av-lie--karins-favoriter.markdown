@@ -8,6 +8,7 @@ image: /images/arkivbilder/e243dd72-a150-48dd-bcd0-1ff307da2eed.jpeg
 description: >-
   Hos oss på Pipers Hudvård i Stockholm hittar du UV-skydd för alla tillfällen,
   detta är 2 utav våra favoriter.
+published: true
 ---
 
 > Maj m&aring;nad och förhoppningsvis är solen här för att ge oss en värme, D-vitamin och l&aring;nga ljusa dagar\! Jag vill inte lägga smolk i bägaren, men den efterlängtade solen kräver ocks&aring; aktsamhet. Visste du det här om solskyddsmedel?
