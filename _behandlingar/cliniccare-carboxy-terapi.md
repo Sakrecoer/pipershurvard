@@ -7,7 +7,7 @@ description: >
   livlös hud får nytt liv och fin lyster.
 image: /uploads/carboxy-treatment.jpg
 permalink:
-published: true
+published: false
 ---
 #### Cliniccare Carboxy Terapi, 60 min 1450:-
 
