@@ -1,18 +1,18 @@
 ---
 title: Cliniccare Plus 1750:-
 description: >-
-  I Cliniccare Plus väljer vi en utav följande behandlingar: Magic Pot el
-  Mesoduo. Här använder vi oss utav olika maskiner för att förstärka
-  behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillstånd och
-  behov. Alla behandlingar i Cliniccare Plus tar ca 60 min och kostar 1750:-
-  Portömning med ultraljud ingår i alla behandlingar. 
+  I Cliniccare Plus väljer vi en utav våra Plusbehandlingar, Magic Pot Facial
+  Powerlift el Mesoduo. Här använder vi oss utav olika maskiner för att
+  förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp,
+  tillstånd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar
+  ca 60 min. Portömning med ultraljud ingår i alla behandlingar. 
 image: /images/behandlingar/mesoduo-1.jpg
 permalink:
 published: true
 ---
 ### Cliniccare Plus
 
-I Cliniccare Plus väljer vi en utav följande behandlingar. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar ca 60min. Portömning med ultraljud ing&aring;r i alla behandlingar. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
+I Cliniccare Plus väljer vi en utav v&aring;ra Plusbehandlingar, Magic Pot Facial Powerlift eller Mesoduo. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar ca 60min. Portömning med ultraljud ing&aring;r. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
