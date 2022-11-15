@@ -6,6 +6,7 @@ description: >-
   60 min
 image: /images/behandlingar/microneedling.jpg
 permalink:
+published: true
 ---
 ### Cliniccare Premium
 

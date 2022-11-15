@@ -8,6 +8,7 @@ description: >-
   1750:-Portömning med ultraljud ingår i alla behandlingar. 
 image: /images/behandlingar/mesoduo-1.jpg
 permalink:
+published: true
 ---
 ### Cliniccare Plus
 
