@@ -7,6 +7,7 @@ description: >-
   en tightare struktur än innan behandlingen.
 image: /images/behandlingar/microneedling.jpg
 permalink: /microneedling/
+published: true
 ---
 #### Cliniccare Microneedling face, 60 min 2250:-
 

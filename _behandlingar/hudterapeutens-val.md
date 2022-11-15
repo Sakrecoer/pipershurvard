@@ -7,6 +7,7 @@ description: >-
   hudtillstånd och ekonomi.
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink: /hudterapeutens-val/
+published: true
 ---
 ## Hudterapeutens val, 75 min
 

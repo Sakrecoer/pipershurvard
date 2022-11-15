@@ -3,6 +3,7 @@ title: Fransar och bryn
 description: Lashlift, Browlift och frans och brynstyling
 image: /images/behandlingar/photo-2020-05-09-18-05-52.jpg
 permalink: /frans-bryn/
+published: true
 ---
 #### Brow Lift, 45 min 900:-
 

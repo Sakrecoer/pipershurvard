@@ -6,6 +6,7 @@ description: >-
   fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring.
 image: /uploads/pure-peel.png
 permalink:
+published: true
 ---
 #### Pure Peel, 60 min 1450:-
 

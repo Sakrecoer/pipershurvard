@@ -5,6 +5,7 @@ description: >-
   tillstånd.Behandlingen ger djup återfuktning och stärker hudbarriären. 
 image: /images/arkivbilder/1792ad01-3540-4331-a889-e03f70f8ab85.jpeg
 permalink: /ansiktsbehandlingar-cliniccare/
+published: true
 ---
 #### Basic Care, 60 min 1250:-
 
