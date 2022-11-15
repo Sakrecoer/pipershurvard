@@ -40,3 +40,9 @@ Behöver du en riktigt fuktboost, d&aring; är detta behandlingen för dig\! I b
 Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare’s specialprodukter för injektion. Näringsämnena fr&aring;n serumet tas effektivt upp i huden och förstärker, vitaliserar samt &aring;terfuktar p&aring; djupet. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar och kan även göras p&aring; gravida.
+
+* ### Hudterapeutens val
+
+Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.
+
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan Cliniccare Bas 1450:- Cliniccare Plus 1750:- och Cliniccare Premium 2050:-
