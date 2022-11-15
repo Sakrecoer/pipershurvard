@@ -1,16 +1,16 @@
 ---
 title: Cliniccare Premium 2050:-
 description: >-
-  I Cliniccare Premium väljer vi en utav följande behandlingar: Microneedling
-  Face eller Magic Pot Deep Hydration. Behandlingarna kostar 2050:- och tar ca
-  60 min
+  I Cliniccare Premium väljer vi en utav premiumbehandlingar Microneedling eller
+  Magic Pot Deep Hydration. Här använder vi oss utav maskiner för att få ett mer
+  kraftfullt resultat. Behandlingarna kostar 2050:- och tar ca 60 min. 
 image: /images/behandlingar/microneedling.jpg
 permalink:
 published: true
 ---
 ### Cliniccare Premium
 
-I Cliniccare Premium väljer vi en utav följande behandlingar. Behandlingarna kostar 2050:- och tar ca 60 min. Portömning ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi tillsammans p&aring; plats.
+I Cliniccare Premium väljer vi en utav v&aring;ra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration. Behandlingarna kostar 2050:- och tar ca 60 min. Portömning med ultraljud ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi tillsammans p&aring; plats.
 
 &nbsp;
 
