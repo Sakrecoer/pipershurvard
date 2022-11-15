@@ -6,11 +6,11 @@ image: /images/posts/carboxy-treatment.jpg
 tags:
   - Nyckel
   - Ord
-published: false
+published: true
 ---
 #### &nbsp;
 
-#### Cliniccare Carboxy Terapi 50 min, 1500:-
+#### Cliniccare Carboxy Terapi
 
 Koldioxidterapi som inom skönhetsbranchen blivid kallad Carboxytherapy, brukar ocks&aring; ibland kallas för "mirakelgasen". Den används mycket framg&aring;ngsrikt i olika behandlingsrutiner för kollagen- och elastinstimulering, vid vävnads&aring;tstramning samt vid reducering av pigmenteringar och mörka omr&aring;den kring ögonen.&nbsp;
 
