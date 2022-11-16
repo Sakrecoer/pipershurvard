@@ -5,10 +5,13 @@ image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
 published: true
 ---
+&nbsp;
+
+### Presentkort
 
 &nbsp;
 
-Presentkort finns att köpa p&aring; salongen, är vi hudterapeuter inte p&aring; plats s&aring; hjälper h&aring;rtjejerna p&aring; Pipersgatan30 dig.
+Presentkort finns att köpa p&aring; salongen, är vi hudterapeuter inte p&aring; plats s&aring; hjälper h&aring;rtjejerna p&aring; [Pipersgatan30](https://pipersgatan30.se/){: target="_blank" rel="noopener"} dig.
 
 Vi säljer tyvärr inte Boka Direkt presentkort längre men har du ett outnyttjat Boka Direkt presentkort s&aring; tar vi s&aring;klart emot det.
 
