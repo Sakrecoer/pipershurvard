@@ -5,13 +5,11 @@ description: >-
   dagar på huden och ca 7 veckor på strået.
 image: /uploads/supercilium.webp
 permalink:
-published: true
+published: false
 ---
 #### HYBRID BRYN, kommer snart\!
 
-&nbsp;
-
 * \-Hybrid mellan traditionell frans- och brynfärg och henna
-* \-Sitter p&aring; huden upp till 10 dagar och i str&aring;et ca 7 veckor
-* \-Funkar med b&aring;de [lashlift och browlift](/frans-bryn/)
+* \-Sitter på huden upp till 10 dagar och i strået ca 7 veckor
+* \-Funkar med både [lashlift och browlift](/frans-bryn/)
 * \-Perfekt för dig som inte vill tatuera brynen
