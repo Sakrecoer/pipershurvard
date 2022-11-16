@@ -47,7 +47,7 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 * Mjölksyra (14%) – mild fruktsyra, stimulerar kollagensyntesen, mild peeling.
 * Salicylsyra (2%) – har keratolytiska, komedolytiska, antiinflammatoriska och antiseptiska egenskaper. Dess lipofila egenskaper gör att salicylsyran även kan tränga in och lösa upp talg.
 
-#### Pure Peel passar för:
+##### Pure Peel passar för:
 
 * Inflammatorisk och icke-inflammatorisk akne
 * Pormaskar och komedoner
