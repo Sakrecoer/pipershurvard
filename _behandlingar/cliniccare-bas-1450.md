@@ -1,18 +1,20 @@
 ---
-title: Cliniccare Bas, 1450:-
+title: Cliniccare Bas, 60 min 1450:-
 description: >-
   I Cliniccare Bas görs någon utav våra basbehandlingar. Vi väljer och anpassar
   utifrån hudtyp och hudtillstånd och i alla behandlingar ingår portömning med
-  ultraljud. Cliniccare Bas-behandlingarna kostar 1450:- och tar ca 60 min. 
+  ultraljud. 
 image: /images/behandlingar/clinicare.jpg
 permalink:
 published: true
 ---
 #### &nbsp;
 
-### Cliniccare Bas
+### Cliniccare Bas, 60 min 1450:-
 
-I Cliniccare Bas görs n&aring;gon utav v&aring;ra basbehandlingar. Vi väljer och anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd och i alla behandlingar ing&aring;r portömning med ultraljud. Cliniccare Bas-behandlingarna kostar 1450:- och tar ca 60 min.&nbsp;
+I Cliniccare Bas görs n&aring;gon utav v&aring;ra basbehandlingar; Basic Care, Cliniccare Carboxy Terapi, EGF/AHA Skinboost eller Pure Peel.
+
+Vi väljer och anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd och i alla behandlingar ing&aring;r portömning med ultraljud.
 
 Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
@@ -54,10 +56,7 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 
 &nbsp;
 
-* #### Skinboost EGF, AHA, NYHET kommer snart\!
-
-&nbsp;
-
+* #### EGF/AHA Skinboost NYHET kommer snart\!
 * #### Spa Treat, NYHET kommer snart\!
 
 &nbsp;
@@ -66,4 +65,4 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 
 Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.
 
-Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Här kan vi välja mellan Cliniccare Bas 1450:- Cliniccare Plus 1750:- eller Cliniccare Premium 2050:-
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Här väljer vi mellan Cliniccare Bas 1450:- [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/)1750:- eller [Cliniccare Premium](/behandlingar/cliniccare-premium-2050/) 2050:-

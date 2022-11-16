@@ -1,18 +1,18 @@
 ---
-title: Cliniccare Premium 2050:-
+title: Cliniccare Premium, 60 min 2050:-
 description: >-
   I Cliniccare Premium väljer vi en utav premiumbehandlingar Microneedling eller
   Magic Pot Deep Hydration. Här använder vi oss utav maskiner för att få ett mer
-  kraftfullt resultat. Behandlingarna kostar 2050:- och tar ca 60 min. 
+  kraftfullt resultat. 
 image: /images/behandlingar/microneedling.jpg
 permalink:
 published: true
 ---
-### Cliniccare Premium
+### Cliniccare Premium, 60 min 2050:-
 
-I Cliniccare Premium väljer vi en utav v&aring;ra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration. Behandlingarna kostar 2050:- och tar ca 60 min.
+I Cliniccare Premium väljer vi en utav v&aring;ra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration.
 
-Portömning med ultraljud ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi tillsammans p&aring; plats.
+Portömning med ultraljud ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
@@ -33,7 +33,7 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 
 &nbsp;
 
-* #### Cliniccare Microneedling face
+* #### Cliniccare Microneedling
 
 Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar rengöring, peeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande mask samt v&aring;rdande kräm.
 
@@ -52,7 +52,7 @@ Microneedling kan användas för huduppstramning och hudföryngring samt för at
 
 Beroende p&aring; vad som ska behandlas anpassar vi hur djupt n&aring;larna g&aring;r ner i huden, mellan 0,25 och 2,5 mm.
 
-M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med v&aring;r [Mesoduobehandling](https://pipershudvard.com/behandlingar/mesoduo/){: target="_blank" rel="noopener"}.
+M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum.
 
 #### Efterv&aring;rd microneedling:
 
@@ -62,7 +62,7 @@ Upp till 1-2 dagar: kan huden kännas stickig, torr och stram.
 
 Upp till 4 dagar: lätt fjällig och torr.
 
-För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring;rdsprodukter](https://pipershudvard.com/produkter/){: target="_blank"}.
+För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring;rdsprodukte](https://pipershudvard.com/produkter/){: target="_blank"}r.
 
 * Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, l&aring;t huden vila och lägg inte p&aring; n&aring;gon produkt.
 * För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen.
@@ -90,4 +90,4 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring
 
 Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.&nbsp;
 
-Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan Cliniccare Bas 1450:-, Cliniccare Plus 1750:- och Cliniccare Premium 2050:-
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan [Cliniccare Bas](/behandlingar/cliniccare-bas-1450/) 1450:-, [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/) 1750:- och Cliniccare Premium 2050:-

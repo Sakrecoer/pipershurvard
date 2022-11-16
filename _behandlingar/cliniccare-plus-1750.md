@@ -1,18 +1,19 @@
 ---
-title: Cliniccare Plus 1750:-
+title: Cliniccare Plus, 60 min 1750:-
 description: >-
   I Cliniccare Plus väljer vi en utav våra Plusbehandlingar, Magic Pot Facial
-  Powerlift el Mesoduo. Här använder vi oss utav olika maskiner för att
+  Powerlift eller Mesoduo. Här använder vi oss utav olika maskiner för att
   förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp,
-  tillstånd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar
-  ca 60 min. 
+  tillstånd och behov.
 image: /images/behandlingar/mesoduo-1.jpg
 permalink:
 published: true
 ---
-### Cliniccare Plus
+### Cliniccare Plus, 60 min 1750:-
 
-I Cliniccare Plus väljer vi en utav v&aring;ra Plusbehandlingar, Magic Pot Facial Powerlift eller Mesoduo. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Alla behandlingar i Cliniccare Plus kostar 1750:- och tar ca 60min. Portömning med ultraljud ing&aring;r. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
+I Cliniccare Plus väljer vi en utav v&aring;ra Plusbehandlingar, Magic Pot Facial Powerlift eller Mesoduo. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet.
+
+Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Portömning med ultraljud ing&aring;r. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
@@ -41,8 +42,10 @@ Mesoduo är en ny smärtfri injektionsbehandling utan n&aring;lar\!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare’s specialprodukter för injektion. Näringsämnena fr&aring;n serumet tas effektivt upp i huden och förstärker, vitaliserar samt &aring;terfuktar p&aring; djupet. Behandlingen reducerar uppkomsten av rynkor och &aring;ldersfläckar och kan även göras p&aring; gravida.
 
+&nbsp;
+
 * ### Hudterapeutens val
 
 Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.
 
-Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan Cliniccare Bas 1450:- Cliniccare Plus 1750:- och Cliniccare Premium 2050:-
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan [Cliniccare Bas](/behandlingar/cliniccare-bas-1450/)1450:- Cliniccare Plus 1750:- och [Cliniccare Premium](/behandlingar/cliniccare-premium-2050/)2050:-
