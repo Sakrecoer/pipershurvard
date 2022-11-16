@@ -23,7 +23,7 @@ En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbar
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-#### Resultaten av Magic Pot behandlingar innebär:
+##### Resultaten av Magic Pot behandlingar innebär:
 
 * Förbättrad syresättning i huden
 * Ökad elasticitet
