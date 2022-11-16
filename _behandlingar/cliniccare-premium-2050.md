@@ -22,7 +22,7 @@ En kraftfull kombobehandling för b&aring;de tightening och inslussning av fukt.
 
 Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir b&aring;de slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras &aring;ret om p&aring; alla olika hudtyper. Behandlingarna bygger p&aring; radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiov&aring;gorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en l&aring;ngsiktig positiv effekt p&aring; slapp hud och rynkor.
 
-#### Resultaten av Magic pot behandlingar innebär:
+##### Resultaten av Magic pot behandlingar innebär:
 
 * Förbättrad syresättning i huden
 * Ökad elasticitet
@@ -54,7 +54,7 @@ Beroende p&aring; vad som ska behandlas anpassar vi hur djupt n&aring;larna g&ar
 
 M&aring;nga upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur p&aring; 3-6 behandlingar med ca 4-6 veckors mellanrum.
 
-#### Efterv&aring;rd microneedling:
+##### Efterv&aring;rd microneedling:
 
 Det är normalt att rodnad och lätt svullnad uppst&aring;r efter behandling, vanligtvis försvinner detta efter n&aring;gra timmar, i vissa fall kan det ta upp till ett par dagar beroende p&aring; hur djup behandling man gjort.
 
@@ -72,7 +72,7 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring
 * Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon p&aring; minst en vecka efter behandling.
 * För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer.
 
-#### Vi kan inte utföra behandlingen om du
+##### Vi kan inte utföra behandlingen om du
 
 * har keloider, el har en historia av keloida ärr
 * har en p&aring;g&aring;ende infektion/virus i huden tex herpes simplex eller v&aring;rtor
