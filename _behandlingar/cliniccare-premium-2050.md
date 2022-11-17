@@ -27,17 +27,28 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 * Förbättrad syresättning i huden
 * Ökad elasticitet
 * Ökad cirkulation
-* Reduktion av linjer
-* Djupg&aring;ende bindvävsmassage
+* Reducering av linjer
 * Hud&aring;tstramning
+
+##### Add-ons till Magic Pot Deep Hydration:
+
+* Fransfärg 100:-
+* Brynfärg inkl. ansning 100:-
+* Frans och brynfärg inkl. ansning 150:-
 
 &nbsp;
 
 * #### Cliniccare Microneedling
 
-Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan. Denna behandling innefattar rengöring, peeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifr&aring;n hudtillst&aring;nd. Behandlingen avslutas med en lugnande och &aring;terfuktande mask samt v&aring;rdande kräm.
+Microneedling stimulerar produktionen av kollagen, som avtar med &aring;lder, samt stimulerar cellförnyelsen. Genom att sätta ig&aring;ng kroppens egna naturliga läkningsprocess &aring;teruppbygger huden sig själv till att bli t&aring;ligare, mjukare, jämnare och f&aring; en tightare struktur än innan.
 
-Microneedling kan även bokas som kur, 3 behandlingar 6000:-
+Denna behandling innefattar rengöring, peeling, microneedlingbehandling över hela ansiktet samt käklinje och hals i kombination med anpassad vial/serum. Behandlingen avslutas med en lugnande och &aring;terfuktande sheet-mask samt efterv&aring;rdskräm..
+
+* #### Microneedlingkur, 3 behandlingar 6000:-
+
+Hela kurpriset betalas vid första behandlingstillfället, kuren är giltig 6 m&aring;n
+
+&nbsp;
 
 P&aring; Pipers Hudv&aring;rd använder vi oss utav microneedlingpennan Micro Injector Litium+ för att skapa tusentals microkanaler i huden. I behandlingen använder vi endast Cliniccares sterila serum för att fylla huden med deras exklusiva l&aring;gmolekylära hyaluronsyra i kombination med mängder av antioxidanter.
 
@@ -66,9 +77,9 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring
 
 * Det är vanligt att det hettar lite i ansiktet efter behandling, ungefär som när man bränt sig i solen, l&aring;t huden vila och lägg inte p&aring; n&aring;gon produkt.
 * För att undvika irritation bör man lämna huden i fred efter behandling, ingen makeup eller krämer under resten av dagen.
-* Vänta minst 6 timmar efter behandling med att applicera makeup.
+* Vänta minst 8 timmar efter behandling med att applicera makeup.
 * Rör inte omr&aring;det med smutsiga händer och till natten kan det vara bra att ta ett nytt örngott till kudden.
-* Vänta 48 tim med h&aring;rd fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudv&aring;rdsbehandlingar.
+* Vänta minst 48 tim med h&aring;rd fysisk träning, varma bad, bastu, swimmingpool, bad i havet samt andra hudv&aring;rdsbehandlingar.
 * Använd inte produkter med AHA, BHA eller PHA-syror, retinoider, bensoylperoxid, alkohol eller hydrokinon p&aring; minst en vecka efter behandling.
 * För att undvika hyperpigmentering bör man undvika att sola i minst 2 veckor efter behandling och använda solskydd varje dag med SPF 30 eller mer.
 
@@ -91,3 +102,5 @@ För optimal &aring;terfuktning använd Cliniccares specialanpassade [hemv&aring
 Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.&nbsp;
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar mellan [Cliniccare Bas](/behandlingar/cliniccare-bas-1450/) 1450:-, [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/) 1750:- och Cliniccare Premium 2050:-
+
+&nbsp;
