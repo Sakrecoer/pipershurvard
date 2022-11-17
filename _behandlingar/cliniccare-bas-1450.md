@@ -22,7 +22,7 @@ Vi väljer och anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd
 
 * #### Basic Care
 
-I Basic Care erbjuder vi en mer klassisk ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd.Behandlingen ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden med hjälp utav ultraljud. Efter en skön massage avslutas behandlingen med en lugnande, barriärstärkande mask samt en skinbooster fullproppad med antioxidanter.
+I Basic Care erbjuder vi en mer klassisk ansiktsbehandling med fokus p&aring; din huds tillst&aring;nd.Behandlingen ger djup &aring;terfuktning och stärker hudbarriären. Vi portömmer huden med hjälp utav ultraljud. Efter en skön massage avslutas behandlingen med en lugnande, barriärstärkande mask.
 
 #### &nbsp;
 
@@ -56,7 +56,18 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 
 &nbsp;
 
-* #### EGF/AHA Skinboost NYHET kommer snart\!
+* #### EGF/AHA Skinboost
+
+En Age Well-behandling för lyster\!
+
+Efter rengöring och portömning med ultraljud masseras en blandning av 5 olika AHA syror, antioxidanter och tillväxtfaktorer (EGF) in i huden. Behandlingen avslutas med anpassad Cliniccare sheet-mask.
+
+##### Vad är EGF?
+
+EGF- Epidermal Growth Factor (epidermal tillväxtfakor) spelar en central roll i Cliniccares effektiva sammansättningar. Det är ett protein (polypeptider)som förekommer naturligt i v&aring;ra hudceller. Dess huvudsakliga syfte är att reparera huden genom att främja DNA-syntesen och cellregenerationen.
+
+EGF har m&aring;nga fördelar i din hud- rynkor slätas ut, fukthalten förbättras och hyperpigmentering motverkas. EGF stimulerar ocks&aring; uppdelningen av keratinocyter och fibroblaster, vilket i sin tur leder till en förbättring av hudens kollagen och elastin. EGF stärker upp hudbarriären vilket gör det lättare för huden att h&aring;lla kvar fukt och reducerar irritationer.
+
 * #### Spa Treat, NYHET kommer snart\!
 
 &nbsp;
