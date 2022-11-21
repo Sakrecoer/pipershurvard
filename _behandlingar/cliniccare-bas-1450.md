@@ -66,9 +66,7 @@ Efter rengöring och portömning med ultraljud masseras en blandning av 5 olika 
 
 EGF- Epidermal Growth Factor (epidermal tillväxtfakor) spelar en central roll i Cliniccares effektiva sammansättningar. Det är ett protein (polypeptider)som förekommer naturligt i v&aring;ra hudceller. Dess huvudsakliga syfte är att reparera huden genom att främja DNA-syntesen och cellregenerationen.
 
-EGF har m&aring;nga fördelar i din hud- rynkor slätas ut, fukthalten förbättras och hyperpigmentering motverkas. EGF stimulerar ocks&aring; uppdelningen av keratinocyter och fibroblaster, vilket i sin tur leder till en förbättring av hudens kollagen och elastin. EGF stärker upp hudbarriären vilket gör det lättare för huden att h&aring;lla kvar fukt och reducerar irritationer.
-
-* #### Spa Treat, NYHET kommer snart\!
+EGF har m&aring;nga fördelar i din hud- rynkor slätas ut, fukthalten förbättras och hyperpigmentering motverkas. EGF stimulerar ocks&aring; uppdelningen av keratinocyter och fibroblaster, vilket i sin tur leder till en förbättring av hudens kollagen och elastin. EGF stärker upp hudbarriären vilket gör det lättare för huden att h&aring;lla kvar fukt och reducerar irritationer
 
 &nbsp;
 
