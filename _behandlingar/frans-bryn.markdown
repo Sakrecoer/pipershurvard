@@ -42,12 +42,12 @@ Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&ari
 
 &nbsp;
 
-* #### Frans och brynstyling, 45 min 650:-
+* #### Frans och brynstyling, 45 min 550:-
 
 Färgning av fransar och bryn samt formning med pincett
 
 &nbsp;
 
-* #### Hybridbryn, NYHET Kommer snart\!
+* #### Hybridbryn, 45 min 550:-
 
-Detta är en hybrid mellan traditionell brynfärg och henna. H&aring;ller upp till 10 dagar p&aring; huden och ca 7 veckor p&aring; str&aring;et.
+Detta är en hybrid mellan traditionell brynfärg och henna. H&aring;ller upp till 10 dagar p&aring; huden och ca 7 veckor p&aring; str&aring;et. Plus formning av bryn.
