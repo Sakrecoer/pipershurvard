@@ -1,6 +1,6 @@
 ---
 title: Fransar och bryn
-description: Lashlift, browlift, hybridbryn och frans och brynstyling
+description: Lashlift, browlift, hybridbryn, frans och brynstyling
 image: /images/behandlingar/photo-2020-05-09-18-05-52.jpg
 permalink: /frans-bryn/
 published: true
