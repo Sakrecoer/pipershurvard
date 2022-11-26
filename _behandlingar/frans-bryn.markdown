@@ -7,6 +7,8 @@ published: true
 ---
 ### Fransar och bryn
 
+&nbsp;
+
 * #### Browlift, 45 min 900:-
 
 Browlift är behandlingen som omskapar brynh&aring;rets riktning och formar dina bryn till en snygg och perfekt form. Den här behandlingen passar till dig som har tunna bryn och vill skapa en fylligare look, till dig som har ostyriga bryn och vill f&aring; dina bryn p&aring; plats eller för den som bara vill ha de där perfekt formade brynen. I behandlingen ing&aring;r färgning i passande färg, formning och en v&aring;rdande keratinbehandling. H&aring;llbarhet ca 4-6 veckor.
@@ -14,6 +16,8 @@ Browlift är behandlingen som omskapar brynh&aring;rets riktning och formar dina
 ##### Efterv&aring;rd:
 
 Efter behandlingen ska du undvika smink, rengöringsprodukter med olja eller att f&aring; vatten p&aring; dina bryn under 48 timmar. Du ska även försöka undvika att sova p&aring; dem och att träna under 48 timmar för bäst resultat. Borsta dagligen igenom brynen och applicera gärna keratinserum.
+
+&nbsp;
 
 #### Lashlift
 
@@ -31,6 +35,8 @@ Kom gärna osminkad. Om du använder linser s&aring; kom gärna utan eller kom i
 ##### Efterv&aring;rd:
 
 Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&aring; produkten m&aring;ste f&aring; fäste, spola inte fransarna med varmt vatten p&aring; 48 tim. Undvik mascara och oljebaserade produkter i ögonomr&aring;det närmsta 24-48 tim efter behandling. Boka inte in n&aring;gon fysisk aktivitet inom 24 tim efter behandling.
+
+&nbsp;
 
 * #### Frans och brynstyling, 45 min 550:-
 
