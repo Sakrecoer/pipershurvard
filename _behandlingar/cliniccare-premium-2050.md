@@ -10,9 +10,7 @@ published: true
 ---
 ### Cliniccare Premium, 60 min 2050:-
 
-I Cliniccare Premium väljer vi en utav v&aring;ra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration.
-
-Portömning med ultraljud ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
+I Cliniccare Premium väljer vi en utav v&aring;ra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration. Portömning med ultraljud ing&aring;r i Magic Pot Deep Hydration. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
