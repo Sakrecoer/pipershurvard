@@ -12,11 +12,7 @@ published: true
 
 ### Cliniccare Bas, 60 min 1450:-
 
-I Cliniccare Bas görs n&aring;gon utav v&aring;ra basbehandlingar; Basic Care, Cliniccare Carboxy Terapi, EGF/AHA Skinboost eller Pure Peel.
-
-Vi väljer och anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd och i alla behandlingar ing&aring;r portömning med ultraljud.
-
-Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
+I Cliniccare Bas görs n&aring;gon utav v&aring;ra basbehandlingar; Basic Care, Cliniccare Carboxy Terapi, EGF/AHA Skinboost eller Pure Peel. Vi väljer och anpassar behandlingen utifr&aring;n hudtyp och hudtillst&aring;nd och i alla behandlingar ing&aring;r portömning med ultraljud. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 

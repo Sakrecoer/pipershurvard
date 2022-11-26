@@ -11,9 +11,7 @@ published: true
 ---
 ### Cliniccare Plus, 60 min 1750:-
 
-I Cliniccare Plus väljer vi en utav v&aring;ra Plusbehandlingar, Magic Pot Facial Powerlift eller Mesoduo. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet.
-
-Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Portömning med ultraljud ing&aring;r. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
+I Cliniccare Plus väljer vi en utav v&aring;ra Plusbehandlingar, Magic Pot Facial Powerlift eller Mesoduo. Här använder vi oss utav olika maskiner för att förstärka behandlingsresultatet. Vi anpassar behandlingen efter hudtyp, tillst&aring;nd och behov. Portömning med ultraljud ing&aring;r. Önskar du en specifik behandling s&aring; kan du ange det när du bokar annars bestämmer vi behandling tillsammans p&aring; plats.
 
 &nbsp;
 
