@@ -23,10 +23,11 @@ Efter behandlingen ska du undvika smink, rengöringsprodukter med olja eller att
 
 Lashlift är en skonsam behandling där vi böjer dina egna fransar. Resultatet ger ett stort lyft för ögat och fransarna f&aring;r ett fylligare intryck. Behandlingen är semi-permanent och h&aring;ller mellan 6-12 veckor beroende p&aring; din tillväxt av fransar samt skötsel. Vi rekommenderar ett &aring;terbesök efter ca 6-8 veckor.
 
-* #### Lashlift utan färg, 45 min 900:-
-* #### Lashlift med färg, 45 min 950:-
-* #### Lashlift med färg och brynstyling, 60 min 1250:-
-* #### Lashlift + browlift, 90 min 1600:- (fransfärg plus brynstyling ing&aring;r)
+* #### Lashlift, 45 min 900:-
+* #### Lashlift + brynstyling, 60 min 1250:-
+* #### Lashlift + browlift, 90 min 1600:-
+
+##### &nbsp;
 
 ##### Att tänka p&aring; inför lashlift:
 
@@ -40,7 +41,7 @@ Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&ari
 
 * #### Frans och brynstyling, 45 min 550:-
 
-Färgning av fransar och bryn samt formning av bryn med pincett
+Färgning av fransar och bryn samt formning av bryn.
 
 * #### Hybridbryn, 45 min 550:-
 
