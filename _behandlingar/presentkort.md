@@ -1,7 +1,7 @@
 ---
 title: Presentkort
 description: Presentkort finns att köpa på salongen
-image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
+image: /images/behandlingar/photo-2022-12-06-19-23-36.jpg
 permalink:
 published: true
 ---
