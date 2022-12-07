@@ -8,7 +8,7 @@ tags:
   - Ord
 published: true
 ---
-#### Adventbehandling vecka 2, 60 min 1250:-
+#### Adventbehandling 2, 60 min 1250:-
 
 &nbsp;
 
