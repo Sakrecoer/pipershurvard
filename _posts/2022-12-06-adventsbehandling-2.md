@@ -14,8 +14,6 @@ published: true
 
 ##### Hydration Treat
 
-Denna vecka har vi tagit fram en helt ny behandling med fokus p&aring; att stärka hudbarriären och slussa ner fukt.
+Denna vecka har vi tagit fram en helt ny behandling med fokus p&aring; att stärka hudbarriären och slussa ner fukt. Rengöring, peeling, portömning, inslussning av fuktessence med elektroporation och stärkande Ceramidmask. Bokar du Adventsbehandling&nbsp; mellan 5/12 och 9/12 s&aring; är det
 
-Rengöring, peeling, portömning, inslussning av fuktessence med elektroporation och stärkande Ceramidmask.
-
-Bokar du Adventsbehandling&nbsp; mellan 5/12 och 9/12 s&aring; är det Hydration Treat du f&aring;r Kan inte kombineras med andra erbjudanden.
+Hydration Treat du f&aring;r Kan inte kombineras med andra erbjudanden.
