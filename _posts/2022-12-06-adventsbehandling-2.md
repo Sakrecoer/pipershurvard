@@ -8,4 +8,14 @@ tags:
   - Ord
 published: true
 ---
-![](/uploads/advent22.jpg){: width="1024" height="1280"}
+#### Adventbehandling vecka 2, 60 min 1250:-
+
+&nbsp;
+
+##### Hydration Treat
+
+Denna vecka har vi tagit fram en helt ny behandling med fokus p&aring; att stärka hudbarriären och slussa ner fukt.
+
+Rengöring, peeling, portömning, inslussning av fuktessence med elektroporation och stärkande Ceramidmask.
+
+Bokar du Adventsbehandling&nbsp; mellan 5/12 och 9/12 s&aring; är det Hydration Treat du f&aring;r Kan inte kombineras med andra erbjudanden.
