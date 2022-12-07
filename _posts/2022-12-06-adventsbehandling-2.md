@@ -8,4 +8,4 @@ tags:
   - Ord
 published: true
 ---
-![](/uploads/advent2.jpg){: width="1024" height="1280"}![](/uploads/advent22.jpg){: width="1024" height="1280"}
+![](/uploads/advent22.jpg){: width="1024" height="1280"}
