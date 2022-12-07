@@ -8,9 +8,11 @@ tags:
   - Ord
 published: true
 ---
-#### Hydration Treat 60 min 1250:-
+#### Adventbehandling vecka 2, 60 min 1250:-
 
 &nbsp;
+
+##### Hydration Treat
 
 Denna vecka har vi tagit fram en helt ny behandling med fokus p&aring; att stärka hudbarriären och slussa ner fukt.
 
