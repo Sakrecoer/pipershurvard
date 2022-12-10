@@ -1,5 +1,5 @@
 ---
-title: Adventsbehandling
+title: Adventsbehandling, 1250:-
 description: Vi har skapat 4 nya behandlingar! En för varje adventsvecka
 image: /uploads/pipersadvent.jpg
 permalink:
