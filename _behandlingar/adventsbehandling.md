@@ -1,7 +1,7 @@
 ---
 title: Adventsbehandling
 description: Vi har skapat 4 nya behandlingar! En för varje adventsvecka
-image:
+image: /uploads/pipersadvent.jpg
 permalink:
 published: true
 ---
