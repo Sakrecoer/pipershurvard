@@ -33,6 +33,6 @@ Sista veckan erbjuder vi en behandling med lite extra piff inför jul och ny&ari
 
 Rengöring, peeling, portömning med ultraljud, frans och brynstyling plus 10 min radiofrekvensbehandling av ansiktet med [Magic Pot](/behandlingar/cliniccare-plus-1750/){: target="_blank" rel="noopener"} (tightening)
 
-&nbsp;
+Detta är specialbehandlingar och kan inte kombineras med andra erbjudanden fr&aring;n oss.
 
 GOD JUL & GOTT NYTT ÅR
