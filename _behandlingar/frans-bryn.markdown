@@ -7,7 +7,7 @@ published: true
 ---
 ### Fransar och bryn
 
-* #### Browlift, 45 min 900:-
+* #### Browlift, 60 min 850:-
 
 Browlift är behandlingen som omskapar brynh&aring;rets riktning och formar dina bryn till en snygg och perfekt form. Den här behandlingen passar till dig som har tunna bryn och vill skapa en fylligare look, till dig som har ostyriga bryn och vill f&aring; dina bryn p&aring; plats eller för den som bara vill ha de där perfekt formade brynen. I behandlingen ing&aring;r färgning i passande färg, formning och en v&aring;rdande keratinbehandling. H&aring;llbarhet ca 4-6 veckor.
 
@@ -19,9 +19,9 @@ Efter behandlingen ska du undvika smink, rengöringsprodukter med olja eller att
 
 Lashlift är en skonsam behandling där vi böjer dina egna fransar. Resultatet ger ett stort lyft för ögat och fransarna f&aring;r ett fylligare intryck. Behandlingen är semi-permanent och h&aring;ller mellan 6-12 veckor beroende p&aring; din tillväxt av fransar samt skötsel. Vi rekommenderar ett &aring;terbesök efter ca 6-8 veckor.
 
-* #### Lashlift, 45 min 900:-
+* #### Lashlift, 60 min 950:-
 * #### Lashlift + brynstyling, 60 min 1250:-
-* #### Lashlift + browlift, 90 min 1600:-
+* #### Lashlift + browlift, 90 min 1550:-
 
 &nbsp;
 
@@ -37,6 +37,6 @@ Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling d&ari
 
 Färgning av fransar och bryn samt formning av bryn.
 
-* #### Hybridbryn, 45 min 550:-
+* #### Hybridbryn, 60 min 550:-
 
 Detta är en hybrid mellan traditionell brynfärg och henna. H&aring;ller upp till 10 dagar p&aring; huden och ca 7 veckor p&aring; str&aring;et. Plus formning av bryn.
