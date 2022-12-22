@@ -1,12 +1,12 @@
 ---
 title: Mellandagsbehandling
 description: Vi förlänger vårt Special Treat erbjudande en vecka!
-date: 2022-12-22 14:00:00 +0100
+date: 2022-12-22 07:00:00 +0100
 image: /uploads/special.jpg
 tags:
   - Nyckel
   - Ord
-published: false
+published: true
 ---
 #### Mellandagsbehandling, 60 min 1250:-
 
