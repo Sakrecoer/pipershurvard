@@ -7,12 +7,12 @@ published: true
 ---
 #### Mellandagsbehandling, 60min 1250:-
 
-Kom och bli lite extra ny&aring;rstjusig\!
+Kom och bli lite extra nyårstjusig\!
 
-##### &nbsp;Special Treat, 27/12-30/12
+#####  Special Treat, 27/12-30/12
 
 Rengöring, peeling, portömning med ultraljud, frans och brynstyling plus 10 min radiofrekvensbehandling av ansiktet med [Magic Pot](/behandlingar/cliniccare-plus-1750/){: target="_blank" rel="noopener"} (tightening)
 
-Detta är en specialbehandling och kan inte kombineras med andra erbjudanden fr&aring;n oss.
+Detta är en specialbehandling och kan inte kombineras med andra erbjudanden från oss.
 
 GOD JUL & GOTT NYTT ÅR
