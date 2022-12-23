@@ -1,7 +1,7 @@
 ---
 title: Mellandagsbehandling, 60 min 1250:-
 description: Vi fortsätter med vårt Special Treat erbjudande i mellandagarna!
-image: /uploads/pipersadvent.jpg
+image: /images/behandlingar/special.jpg
 permalink:
 published: true
 ---
