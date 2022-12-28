@@ -1,9 +1,9 @@
 ---
 title: Cliniccare Bas, 60 min 1450:-
 description: >-
-  I Cliniccare Bas görs någon utav våra basbehandlingar. Vi väljer och anpassar
-  utifrån hudtyp och hudtillstånd och i alla behandlingar ingår portömning med
-  ultraljud. 
+  I Cliniccare Bas görs någon utav våra basbehandlingar Basic Care, Carboxy,
+  Pure Peel eller AHA EGF Skinboost. Vi väljer och anpassar utifrån hudtyp och
+  hudtillstånd och i alla behandlingar ingår portömning med ultraljud. 
 image: /images/behandlingar/clinicare.jpg
 permalink:
 published: true
@@ -52,7 +52,7 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 
 &nbsp;
 
-* #### EGF/AHA Skinboost
+* #### AHA/EGF Skinboost
 
 En Age Well-behandling för lyster\!
 
