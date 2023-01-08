@@ -15,4 +15,4 @@ Rengöring, peeling, portömning med ultraljud och avslutande kräm.
 
 ##### OBS\!
 
-Denna behandling g&aring;r endast att boka m&aring;ndag-torsdag mellan klockan 12-15 och kan inte väljas som alternativ om du bokat [Hudterapeutens Val](/hudterapeutens-val/){: target="_blank" rel="noopener"}. Giltigt studentleg m&aring;ste visas vid betalning.
+Denna behandling g&aring;r endast att boka m&aring;ndag-torsdag mellan klockan 12-15 och kan inte väljas som alternativ om du bokat [Hudterapeutens Val](/hudterapeutens-val/){: target="_blank" rel="noopener"}. Giltigt studentleg m&aring;ste visas vid betalning. Vi debiterar för en[Cliniccare Bas](/behandlingar/cliniccare-bas-1450/) (1450:-) om giltigt leg saknas.
