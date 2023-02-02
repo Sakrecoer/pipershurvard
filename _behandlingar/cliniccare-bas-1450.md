@@ -49,7 +49,11 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 
 * #### Refresh Peel
 
+Mer info kommer
+
 * #### **Glow Peel**
+
+Mer info kommer
 
 * #### AHA/EGF Skinboost
 
