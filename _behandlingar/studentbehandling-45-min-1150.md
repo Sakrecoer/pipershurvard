@@ -5,7 +5,7 @@ description: >-
 
   Denna behandling går endast att boka måndag-torsdag mellan klockan 12-15.
   Giltigt studentleg måste visas vid betalning
-image: /uploads/student.jpg
+image: /images/behandlingar/student-2.jpg
 permalink:
 published: true
 ---
