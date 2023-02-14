@@ -1,7 +1,7 @@
 ---
-title: Studentbehandling, 45 min 1000:-
+title: Student, 45 min 1000:-
 description: >-
-  För dig som är student!
+  En ansiktsbehandling för dig som är student.
 
   Denna behandling går endast att boka måndag-torsdag mellan klockan 12-15.
   Giltigt studentleg måste visas vid betalning
@@ -9,9 +9,9 @@ image: /images/behandlingar/student-2.jpg
 permalink:
 published: true
 ---
-#### Studentbehandling, 45min 1000:-
+#### Student, 45min 1000:-
 
-Rengöring, peeling, portömning med ultraljud och avslutande kräm.
+Behandlingen innehåller rengöring, peeling, portömning med ultraljud och avslutande kräm.
 
 ##### OBS!
 
