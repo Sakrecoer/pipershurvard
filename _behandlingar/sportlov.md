@@ -3,7 +3,7 @@ title: Sportlov
 description: >-
   En ansiktsbehandling med fokus på fukt och lyster. Går att boka under vecka 8
   + 9
-image:
+image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
 published: true
 ---
