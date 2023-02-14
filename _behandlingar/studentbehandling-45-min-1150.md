@@ -11,7 +11,7 @@ published: true
 ---
 #### Student, 45min 1000:-
 
-Rengöring, peeling, portömning med ultraljud och avslutande kräm.
+Behandlingen innehåller rengöring, peeling, portömning med ultraljud och avslutande kräm.
 
 ##### OBS!
 
