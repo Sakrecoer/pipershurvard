@@ -1,7 +1,7 @@
 ---
 title: Student, 45 min 1000:-
 description: >-
-  En ansiktsbehandling för dig som är student.
+  En ansiktsbehandling för dig som är student med fokus på portömning.
 
   Denna behandling går endast att boka måndag-torsdag mellan klockan 12-15.
   Giltigt studentleg måste visas vid betalning
