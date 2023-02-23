@@ -11,8 +11,8 @@ published: true
 
 Fokus på fukt och lyster.
 
-Behandlingen innehåller rengöring, peeling, portömning med ultraljud, AHA/EGF Skinbooster, Ceramid eller C-vitamin mask, avslutande produkter.
+Behandlingen innehåller rengöring, peeling, ansiktsmassage, portömning med ultraljud, AHA/EGF Skinbooster, Ceramid eller C-vitamin mask.
 
-Detta erbjudande gäller under vecka 8 + 9 och kan inte kombineras med andra erbjudanden.
+Detta erbjudande gäller under vecka 8 & 9 och kan inte kombineras med andra erbjudanden.
 
 [Färgning av fransar och bryn kan läggas till för endast 150:-](/frans-bryn/){: target="_blank" rel="noopener"}
