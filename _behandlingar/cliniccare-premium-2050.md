@@ -12,7 +12,7 @@ published: true
 
 I Cliniccare Premium väljer vi en utav våra premiumbehandlingar Microneedling eller Magic Pot Deep Hydration. Portömning med ultraljud ingår i Magic Pot Deep Hydration. Önskar du en specifik behandling så kan du ange det när du bokar annars bestämmer vi behandling tillsammans på plats.
 
-#### Magic Pot Deep Hydration
+* #### Magic Pot Deep Hydration
 
 En kraftfull kombobehandling för både tightening och inslussning av fukt. Passar alla hudtyper och ger ett omedelbart resultat. Behandlingen innehåller: rengöring, peeling, portömning med ultraljud, behandling av ansikte och hals med radiofrekvens och inslussning av fuktserum med elektroporation.
 
@@ -32,7 +32,7 @@ Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter fö
 * Brynfärg inkl. ansning 100:-
 * Frans och brynfärg inkl. ansning 150:-
 
-#### Cliniccare Microneedling
+* #### Cliniccare Microneedling
 
 Microneedling stimulerar produktionen av kollagen, som avtar med ålder, samt stimulerar cellförnyelsen. Genom att sätta igång kroppens egna naturliga läkningsprocess återuppbygger huden sig själv till att bli tåligare, mjukare, jämnare och få en tightare struktur än innan.
 
@@ -87,7 +87,7 @@ För optimal återfuktning använd Cliniccares specialanpassade [hemvårdsproduk
 * har aktiv papulopustular rosacea eller acne vulgaris
 * får antikoagulantia terapi, cellgiftsbehandling,strålbehandling,höga doser av kortikosteroider, orala retinoider
 
-#### Hudterapeutens val&nbsp;
+* #### Hudterapeutens val&nbsp;
 
 Är du osäker på vilken behandling som skulle passa dig bäst så är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifrån hudtyp, hudtillstånd och ekonomi.&nbsp;
 
