@@ -1,5 +1,5 @@
 ---
-title: Basic Care Pore Cleanse, 45 min 1000:-
+title: Basic Care Pore Cleanse, 45min 1000:-
 description: >-
   En kortare behandling för dig som vill gå lite oftare på portömning men inte
   har möjlighet att göra en avancerad behandling vid varje besök.
