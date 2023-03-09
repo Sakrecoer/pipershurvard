@@ -11,7 +11,7 @@ published: true
 ---
 #### Basic Care Pore Cleanse, 45min 1000:-
 
-Behandlingen innehåller rengöring, peeling, portömning med ultraljud och avslutande kräm.
+Behandlingen innehåller rengöring, peeling, portömning med ultraljud och avslutande kräm
 
 Denna behandling kan endast bokas måndag-torsdag mellan klockan 12-15 och kan inte väljas som alternativ om du bokat [Hudterapeutens Val](/hudterapeutens-val/){: target="_blank" rel="noopener"}.
 
