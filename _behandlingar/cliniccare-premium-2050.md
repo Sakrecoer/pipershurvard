@@ -93,4 +93,4 @@ För optimal återfuktning använd Cliniccares specialanpassade [hemvårdsproduk
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan låter din terapeut bestämma det som passar bäst för dig utifrån dina förutsättningar och mål. Priset varierar mellan [Cliniccare Bas](/behandlingar/cliniccare-bas-1450/) 1450:-, [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/) 1750:- och Cliniccare Premium 2050:-
 
-I Hudterapeutens Val gör vi inte Studentbehandling.
+I Hudterapeutens Val gör vi inte [Basic Care Pore Cleans](/behandlingar/studentbehandling-45-min-1150/)e.
