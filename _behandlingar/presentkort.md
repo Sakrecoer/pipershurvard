@@ -1,6 +1,6 @@
 ---
 title: Presentkort
-description: Presentkort finns att köpa på salongen
+description: Presentkort finns att köpa på salongen eller via Boka Direkt
 image: /images/behandlingar/photo-2022-12-06-19-23-36.jpg
 permalink:
 published: true
