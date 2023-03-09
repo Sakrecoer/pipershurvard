@@ -7,7 +7,7 @@ description: >-
   Denna behandling går endast att boka måndag-torsdag mellan klockan 12-15. 
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
-published: true
+published: false
 ---
 #### Basic Care Pore Cleanse, 45min 1000:-
 
