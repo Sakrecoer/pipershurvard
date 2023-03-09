@@ -42,7 +42,7 @@ Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med 
 
 Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan låter din terapeut bestämma det som passar bäst för dig utifrån dina förutsättningar och mål. Priset varierar mellan [Cliniccare Bas](/behandlingar/cliniccare-bas-1450/) 1450:- Cliniccare Plus 1750:- och [Cliniccare Premium](/behandlingar/cliniccare-premium-2050/) 2050:-
 
-I Hudterapeutens Val gör vi inte Studentbehandling.
+I Hudterapeutens Val gör vi inte [Basic Care Pore Cleanse](/behandlingar/studentbehandling-45-min-1150/){: target="_blank" rel="noopener"}.
 
 #### Add-ons ansiktsbehandling:
 
