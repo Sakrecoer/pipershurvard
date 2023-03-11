@@ -71,7 +71,7 @@ EGF har många fördelar i din hud- rynkor slätas ut, fukthalten förbättras o
 
 Är du osäker på vilken behandling som skulle passa dig bäst så är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifrån hudtyp, hudtillstånd och ekonomi.
 
-Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan låter din terapeut bestämma det som passar bäst för dig utifrån dina förutsättningar och mål. Här väljer vi mellan Cliniccare Bas 1450:- [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/)1750:- eller [Cliniccare Premium](/behandlingar/cliniccare-premium-2050/) 2050:-
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan låter din terapeut bestämma det som passar bäst för dig utifrån dina förutsättningar och mål. Här väljer vi mellan Cliniccare Bas 1450:- [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/) 1750:- eller [Cliniccare Premium](/behandlingar/cliniccare-premium-2050/) 2050:-
 
 I Hudterapeutens Val gör vi inte [Basic Care Pore Cleanse](/behandlingar/studentbehandling-45-min-1150/){: target="_blank" rel="noopener"}.
 
