@@ -29,4 +29,4 @@ Detta är allts&aring; en lite rikare fuktkräm som jag kommer använda som natt
 
 Du kan även ha den i morgonrutinen s&aring;klart, glöm d&aring; inte att applicera SPF p&aring;.
 
-[Välkommen till oss p&aring; Pipers för att köpa din Premium Time Reverse Cream\!](/bokning/)
+[Välkommen till oss p&aring; Pipers för att köpa din Premium Time Reverse Cream\!](https://www.bokadirekt.se/places/pipersgatan-30-38891)

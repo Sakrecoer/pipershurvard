@@ -20,6 +20,6 @@ Vid behandling med koldioxid ökar cirkulationen och vävnaden f&aring;r ökad n
 
 Under en behandling [Cliniccare Carboxy Terapi](/behandlingar/cliniccare-carboxy-terapi/){: target="_blank" rel="noopener"} tillförs koldioxid via en gele och aktivatormask ‐helt&nbsp; utan n&aring;lar\! &nbsp;
 
-[Boka här](/bokning/){: target="_blank" rel="noopener"}
+[Boka här](https://www.bokadirekt.se/places/pipersgatan-30-38891){: target="_blank" rel="noopener"}
 
 &nbsp;

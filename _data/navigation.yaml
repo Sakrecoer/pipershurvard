@@ -10,19 +10,19 @@
   frontpage: true
   outbound: false
   menu: true
-- title: Produkter
+- title: Cliniccare
   link: /produkter/
   image: /images/producters.jpg
   frontpage: true
   outbound: false
   menu: false
-- title: Nyheter
-  link: /nyheter/
-  image: /images/20160101_DSC2110.jpg
-  frontpage: false
-  outbound: false
-  menu: true
-- title: Hårsalong
+#- title: Nyheter
+#  link: /nyheter/
+#  image: /images/20160101_DSC2110.jpg
+#  frontpage: false
+#  outbound: false
+#  menu: true
+- title: Pipersgatan 30
   link: 'https://www.pipersgatan30.se'
   image: /images/pipers.jpg
   frontpage: true
