@@ -4,7 +4,7 @@ description: >-
   En kortare behandling för dig som vill gå lite oftare på portömning men inte
   har möjlighet att göra en avancerad behandling vid varje besök.
 
-  Denna behandling går endast att boka måndag-torsdag mellan klockan 10-15. 
+  Denna behandling går endast att boka på vardagar fram till klockan 15:00
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
 published: true
@@ -13,7 +13,7 @@ published: true
 
 Behandlingen innehåller rengöring, peeling, portömning med ultraljud och avslutande kräm
 
-Denna behandling kan endast bokas måndag-torsdag mellan klockan 10-15. Kan inte väljas som alternativ om du bokat [Hudterapeutens Val](/hudterapeutens-val/){: target="_blank" rel="noopener"}.
+Denna behandling kan endast bokas på vardagar fram till klockan 15. Kan inte väljas som alternativ om du bokat [Hudterapeutens Val](/hudterapeutens-val/){: target="_blank" rel="noopener"}.
 
 Detta är en kortare behandling för dig som vill gå lite oftare på portömning men inte har möjlighet att göra en avancerad behandling vid varje besök.
 
