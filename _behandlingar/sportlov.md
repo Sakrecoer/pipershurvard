@@ -1,18 +1,14 @@
 ---
-title: Sportlov
-description: >-
-  En ansiktsbehandling med fokus på fukt och lyster. Går att boka under vecka 8
-  + 9
+title: Basic Care, 60 min 1250:-
+description: En klassisk ansiktsbehandling med portömning, massage och mask.
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
 published: false
 ---
-#### Ansiktsbehandling Sportlov, 60min 1250:-
+#### Basic Care, 60min 1250:-
 
-Fokus på fukt och lyster.
+En klassisk ansiktsbehandling med portömning, massage och mask.
 
-Behandlingen innehåller rengöring, peeling, ansiktsmassage, portömning med ultraljud, AHA/EGF Skinbooster, Ceramid eller C-vitamin mask.
+Behandlingen innehåller rengöring, peeling, ansiktsmassage, portömning med ultraljud, och avslutande mask anpassad efter hudtyp och tillstånd..
 
-Detta erbjudande gäller under vecka 8 & 9 och kan inte kombineras med andra erbjudanden.
-
-[Färgning av fransar och bryn kan läggas till för endast 150:-](/frans-bryn/){: target="_blank" rel="noopener"}
+Färgning av fransar och bryn kan läggas till för bara 150:-
