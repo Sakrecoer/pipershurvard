@@ -1,5 +1,5 @@
 ---
-title: Microneedling
+title: Microneedling, 60 min fr. 2050:-
 description: >-
   Microneedling stimulerar produktionen av kollagen och elastin samt stimulerar
   cellförnyelsen. Genom att sätta igång kroppens egna naturliga läkningsprocess
@@ -9,21 +9,16 @@ image: /images/behandlingar/microneedling.jpg
 permalink: /microneedling/
 published: false
 ---
-#### Cliniccare Microneedling face, 60 min 2250:-
+#### Microneedling, 60 min 2250:-
 
 Microneedling stimulerar produktionen av kollagen, som avtar med ålder, samt stimulerar cellförnyelsen. Genom att sätta igång kroppens egna naturliga läkningsprocess återuppbygger huden sig själv till att bli tåligare, mjukare, jämnare och få en tightare struktur än innan. Denna behandling innefattar rengöring, peeling, microneedlingbehandling över hela ansiktet samt käklinje i kombination med anpassad vial/serum utifrån hudtillstånd. Behandlingen avslutas med en lugnande och återfuktande mask samt vårdande kräm.
 
 ##### **Add-on:**
 
-* Behandling av hals 250:-
-* Behandling av dekolletage 250:-
+* Behandling av hals 200:-
 * Behandling av hals och dekolletage 400:-
 
-#### Microneedling-kur, 3 behandlingar 6000:-
-
-Hela kurpriset betalas vid första behandlingstillfället och kuren är giltig 6 månader
-
-![4349D29E-3F47-423D-8C5A-A73407A0B80D](/images/arkivbilder/4349d29e-3f47-423d-8c5a-a73407a0b80d.jpeg?w=450)
+Vid bokning av kur erhålls en rabatt
 
 På Pipers Hudvård använder vi oss utav microneedlingpennan Micro Injector Litium+ för att skapa tusentals microkanaler i huden. I behandlingen använder vi endast Cliniccares sterila serum för att fylla huden med deras exklusiva lågmolekylära hyaluronsyra i kombination med mängder av antioxidanter.
 
@@ -38,7 +33,7 @@ Microneedling kan användas för huduppstramning och hudföryngring samt för at
 
 Beroende på vad som ska behandlas anpassar vi hur djupt nålarna går ner i huden, mellan 0,25 och 2,5 mm.
 
-Många upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur på 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med vår [Mesoduobehandling](/behandlingar/mesoduo/){: target="_blank" rel="noopener"}.
+Många upplever ett resultat redan efter 1 behandling, för ett mer varaktigt resultat rekommenderas en kur på 3-6 behandlingar med ca 4-6 veckors mellanrum. För att förstärka effekten kan den med fördel kombineras med vår [Mesoduobehandling](/behandlingar/mesoduo/){: target="_blank"}.
 
 #### Eftervård microneedling:
 
