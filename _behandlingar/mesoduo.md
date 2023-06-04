@@ -1,23 +1,23 @@
 ---
-title: Mesoduo
+title: Mesoduo Skinbooster, 60 min 1750:-
 description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar och ger en otrolig fuktboost. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
-published: false
+published: true
 ---
-Mesoduo är en ny smärtfri injektionsbehandling utan nålar\!
+Mesoduo är en ny smärtfri injektionsbehandling utan nålar!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena från serumet tas effektivt upp i huden och förstärker, vitaliserar samt återfuktar på djupet. Behandlingen reducerar uppkomsten av rynkor och åldersfläckar och kan även göras på gravida.
 
-#### Mesoduo, 60min 1750:-
+#### Mesoduo Skinbooster, 60min 1750:-
 
-Behöver du en riktigt fuktboost, då är detta behandlingen för dig\! I behandlingen ingår: Rengöring, peeling, portömning med ultraljud, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
+Behöver du en riktigt fuktboost, då är detta behandlingen för dig! I behandlingen ingår: Rengöring, peeling, portömning med ultraljud, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
 
 ##### **Add-ons:**
 
-* Frans och brynfärg, inkl brynansning, 300:-
-* Fransfärg, 200:-
-* Brynfärg, inkl ansning, 200:-
+* Fransfärg, 100:-
+* Brynfärg, inkl ansning, 100:-
+* Frans och brynfärg, inkl brynansning, 150:-
 
 ![](/images/behandlingar/mesoduo-1.jpg){: width="1024" height="747"}
 
@@ -39,6 +39,6 @@ Områden som kan behandlas är ansikte, hals och dekolletage.
 
 Efter behandlingen kan du återgå till arbetet, träning eller andra aktiviteter. Det går bra att sminka sig direkt efter. Som mest kan man uppleva mild rodnad som försvinner efter 5-10 minuter.
 
-Den gör heller inte huden solkänslig vilket innebär att det går utmärkt att göra MesoDuo året runt.
+Den gör heller inte huden solkänslig vilket innebär att det går utmärkt att göra Mesoduo året runt.
 
 Huden ser mycket återfuktad ut och du får en fantastisk GLOW, den fungerar perfekt att göra innan en viktig tillställning.

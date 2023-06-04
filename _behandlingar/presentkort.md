@@ -7,6 +7,6 @@ published: true
 ---
 ### Presentkort
 
-Presentkort finns att köpa på salongen, är vi hudterapeuter inte på plats så hjälper våra kollegor på [Pipersgatan30](https://pipersgatan30.se/){: target="_blank" rel="noopener"} dig.&nbsp; Våra öppettider varierar så ring gärna salongen innan du kommer förbi. 08-120 589 89
+Presentkort finns att köpa på salongen, är vi hudterapeuter inte på plats så hjälper våra frisörkollegor på [Pipersgatan30](https://pipersgatan30.se/){: target="_blank"} dig.&nbsp; Våra öppettider varierar så ring gärna salongen innan du kommer förbi. 08-120 589 89
 
-[Det går även att köpa digitala presentkort via Boka Direkt](https://www.bokadirekt.se/giftcards/buy){: target="_blank" rel="noopener"}
+[Det går även att köpa digitala presentkort via Boka Direkt](https://www.bokadirekt.se/giftcards/buy){: target="_blank"}
