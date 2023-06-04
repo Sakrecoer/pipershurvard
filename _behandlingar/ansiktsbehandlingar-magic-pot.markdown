@@ -1,34 +1,26 @@
 ---
-title: Magic Pot (RF,vakum,LED)
+title: Magic Pot Skin Tightening, 60 min 1750:-
 description: >
-  Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter
-  första behandlingen. Huden blir både slätare och finare! Behandlingen ger
-  snabba synbara resultat och kan utföras året om på alla olika hudtyper. 
+  En kraftfull tighteningbehandling som passar alla hudtyper och ger ett
+  omedelbart resultat. Behandlingen innehåller: rengöring, peeling, portömning
+  med ultraljud, behandling av ansikte med radiofrekvens.
 image: /images/behandlingar/magicpot.jpg
 permalink: /ansiktsbehandlingar-magic-pot/
-published: false
+published: true
 ---
-Radiofrekvensbehandlingar passar för dig som vill ha synliga resultat efter första behandlingen. Huden blir både slätare och finare\! Behandlingen ger snabba synbara resultat och kan utföras året om på alla olika hudtyper. Behandlingarna bygger på radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiovågorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en långsiktig positiv effekt på slapp hud och rynkor.
+#### Magic Pot Skin Tightening, 60 min 1750:-
 
-#### Magic Pot Deep Hydration, 60 min 1950:-
-
-En kraftfull kombobehandling för både tightening och inslussning av fukt. Passar alla hudtyper och ger ett omedelbart resultat. Behandlingen innehåller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med radiofrekvens och inslussning av fuktserum med elektroporation.
-
-#### Magic Pot Facial Powerlift, 60 min 1750:-
-
-En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen innehåller: rengöring, peeling, portömning med ultraljud, behandling av ansikte, hals och dekolletage med radiofrekvens.
-
-#### Magic Pot Facial Vitalizing, 60 min 1550:-
-
-En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen innehåller: rengöring, peeling, portömning med ultraljud, behandling av (endast) ansikte med radiofrekvens.
+En kraftfull tighteningbehandling som passar alla hudtyper och ger ett omedelbart resultat. Behandlingen innehåller: rengöring, peeling, portömning med ultraljud, behandling av ansikte med radiofrekvens.
 
 ##### Add-ons:
 
-* Frans och brynfärg inkl brynansning, 300:-
-* Fransfärg, 200:-
-* Brynfärg inkl ansning, 200:-
+* Fransfärg, 100:-
+* Brynfärg inkl ansning, 100:-
+* Frans och brynfärg inkl brynansning, 150:-
 
-#### Resultaten av Magic pot behandlingar innebär:
+Behandlingen ger snabba synbara resultat och kan utföras året om på alla olika hudtyper. Behandlingarna bygger på radiofrekvens som är en smärtfri och icke-kirurgisk metod. Radiovågorna stimulerar kollagenet i huden och känns som en varm skön massage. Effekten blir en direkt synlig uppstramning av huden men ger även en långsiktig positiv effekt på slapp hud och rynkor.
+
+##### Resultaten av Magic pot behandlingar innebär:
 
 * Förbättrad syresättning i huden
 * Ökad elasticitet
