@@ -11,12 +11,8 @@ published: true
 ---
 ### Hudterapeutens val
 
-&nbsp;
 
-Är du osäker p&aring; vilken behandling som skulle passa dig bäst s&aring; är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifr&aring;n hudtyp, hudtillst&aring;nd och ekonomi.
 
-Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan l&aring;ter din terapeut bestämma det som passar bäst för dig utifr&aring;n dina förutsättningar och m&aring;l. Priset varierar beroende p&aring; om vi gör en [Cliniccare Basbehandling](/behandlingar/cliniccare-bas-1450/) (1450:-) [Cliniccare Plus](/behandlingar/cliniccare-plus-1750/) (1750:-) eller en [Cliniccare Premiumbehandling](/behandlingar/cliniccare-premium-2050/) (2050:-)
+Är du osäker på vilken behandling som skulle passa dig bäst så är detta alternativet du ska välja när du bokar din ansiktsbehandling. Efter en konsultation bestämmer vi tillsammans vad som passar dig utifrån hudtyp, hudtillstånd och ekonomi.
 
-Har du bokat Hudterapeutens Val är Studentbehandling inte ett alternativ.
-
-&nbsp;
+Detta alternativ är även perfekt för dig som kommer till oss regelbundet och vill slippa välja behandling utan låter din terapeut bestämma det som passar bäst för dig utifrån dina förutsättningar och mål. Priset varierar mellan 1250-2050, plus eventuella add-ons.
