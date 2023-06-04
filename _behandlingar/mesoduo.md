@@ -1,5 +1,5 @@
 ---
-title: Mesoduo, 60 min 1750:-
+title: Mesoduo Skinbooster, 60 min 1750:-
 description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar och ger en otrolig fuktboost. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
@@ -9,7 +9,7 @@ Mesoduo är en ny smärtfri injektionsbehandling utan nålar!
 
 Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden med Cliniccare's specialprodukter för injektion. Näringsämnena från serumet tas effektivt upp i huden och förstärker, vitaliserar samt återfuktar på djupet. Behandlingen reducerar uppkomsten av rynkor och åldersfläckar och kan även göras på gravida.
 
-#### Mesoduo, 60min 1750:-
+#### Mesoduo Skinbooster, 60min 1750:-
 
 Behöver du en riktigt fuktboost, då är detta behandlingen för dig! I behandlingen ingår: Rengöring, peeling, portömning med ultraljud, applicering av anpassande ampuller och behandling av huden i 20 min med Mesoduo och avslutas med produkter anpassande till din hud.
 
