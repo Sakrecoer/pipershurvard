@@ -3,7 +3,7 @@ title: Basic Care, 60 min 1250:-
 description: En klassisk ansiktsbehandling med portömning, massage och mask.
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
-published: false
+published: true
 ---
 #### Basic Care, 60min 1250:-
 
