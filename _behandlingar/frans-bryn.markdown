@@ -5,9 +5,7 @@ image: /images/behandlingar/photo-2020-05-09-18-05-52.jpg
 permalink: /frans-bryn/
 published: true
 ---
-### Fransar och bryn
-
-* #### Browlift, 60 min 850:-
+#### Browlift, 60 min 850:-
 
 Browlift är behandlingen som omskapar brynhårets riktning och formar dina bryn till en snygg och perfekt form. Den här behandlingen passar till dig som har tunna bryn och vill skapa en fylligare look, till dig som har ostyriga bryn och vill få dina bryn på plats eller för den som bara vill ha de där perfekt formade brynen. I behandlingen ingår färgning i passande färg, formning och en vårdande keratinbehandling. Hållbarhet ca 4-6 veckor.
 
@@ -19,9 +17,9 @@ Efter behandlingen ska du undvika smink, rengöringsprodukter med olja eller att
 
 Lashlift är en skonsam behandling där vi böjer dina egna fransar. Resultatet ger ett stort lyft för ögat och fransarna får ett fylligare intryck. Behandlingen är semi-permanent och håller mellan 6-12 veckor beroende på din tillväxt av fransar samt skötsel. Vi rekommenderar ett återbesök efter ca 6-8 veckor.
 
-* #### Lashlift, 60 min 950:-
-* #### Lashlift + brynstyling, 60 min 1250:-
-* #### Lashlift + browlift, 90 min 1550:-
+* ##### Lashlift, 60 min 950:-
+* ##### Lashlift + brynstyling, 60 min 1250:-
+* ##### Lashlift + browlift, 90 min 1550:-
 
 ##### Att tänka på inför lashlift:
 
@@ -31,10 +29,10 @@ Kom gärna osminkad. Om du använder linser så kom gärna utan eller kom ihåg 
 
 Undvik att blöta fransarna med vatten närmsta 24-48 tim efter behandling då produkten måste få fäste, spola inte fransarna med varmt vatten på 48 tim. Undvik mascara och oljebaserade produkter i ögonområdet närmsta 24-48 tim efter behandling. Boka inte in någon fysisk aktivitet inom 24 tim efter behandling.
 
-* #### Frans och brynstyling, 45 min 550:-
+#### Frans och brynstyling, 45 min 550:-
 
 Färgning av fransar och bryn samt formning av bryn.
 
-* #### Hybridbryn, 60 min 550:-
+#### Hybridbryn, 60 min 550:-
 
 Detta är en hybrid mellan traditionell brynfärg och henna. Håller upp till 10 dagar på huden och ca 7 veckor på strået. Plus formning av bryn.
