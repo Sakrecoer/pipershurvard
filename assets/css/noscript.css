@@ -1,0 +1,57 @@
+/* Cloud Cannon stuff mixed with Sets Stuff */
+.editor-link { display: none; }
+
+.cms-editor-active .editor-link { display: block; }
+
+.shr { margin-bottom: -8px; }
+
+#postimage img { width: 100%; height: auto; max-width: 600px; }
+
+#boka { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); text-align: center; z-index: 1000000; background: linear-gradient(228deg, #F1CDB7, #fff); background-size: 400% 400%; -webkit-animation: AnimationName 2s ease infinite; -moz-animation: AnimationName 2s ease infinite; animation: AnimationName 2s ease infinite; }
+
+@-webkit-keyframes AnimationName { 0% { background-position: 73% 0%; }
+  50% { background-position: 28% 100%; }
+  100% { background-position: 73% 0%; } }
+
+@-moz-keyframes AnimationName { 0% { background-position: 73% 0%; }
+  50% { background-position: 28% 100%; }
+  100% { background-position: 73% 0%; } }
+
+@keyframes AnimationName { 0% { background-position: 73% 0%; }
+  50% { background-position: 28% 100%; }
+  100% { background-position: 73% 0%; } }
+
+/* cookies */
+@-webkit-keyframes backgroundBlink { 0% { background-position: 73% 0%; }
+  50% { background-position: 28% 100%; }
+  100% { background-position: 73% 0%; } }
+
+@-moz-keyframes backgroundBlink { 0% { background-position: 73% 0%; }
+  50% { background-position: 28% 100%; }
+  100% { background-position: 73% 0%; } }
+
+@keyframes backgroundBlink { 0% { background-position: 73% 0%; }
+  50% { background-position: 28% 100%; }
+  100% { background-position: 73% 0%; } }
+
+#cookie-notice { z-index: 100000; padding: 15px; display: none; text-align: right; position: fixed; bottom: 0; width: 100%; background: #ffffff; color: #0f0f0f; flex-wrap: wrap; justify-content: space-evenly; align-content: center; align-items: center; box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15); }
+
+#cookie-notice a { color: #0f0f0f; }
+
+#cookie-notice p { flex: 1 0 250px; margin: 0; font-size: .8em; }
+
+@media only screen and (max-width: 569px) { #cookie-notice p { text-align: center; } }
+
+.boka-button-position { bottom: 200px !important; }
+
+.yes { flex: 0 0 250px; -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; border: 0; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-attachment: scroll; background-image: linear-gradient(228deg, #EF9D87, #ffffff); background-origin: padding-box; background-clip: border-box; background-size: 400% 400%; -webkit-animation: backgroundBlink 2s ease infinite; -moz-animation: backgroundBlink 2s ease infinite; animation: backgroundBlink 2s ease infinite; margin: 20px; }
+
+.yes:hover { color: #000 !important; }
+
+/* Forty by HTML5 UP html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) */
+/* Banner */
+body.is-preload #banner:after { opacity: 0.85; }
+
+body.is-preload #banner > .inner { -moz-filter: none; -webkit-filter: none; -ms-filter: none; filter: none; -moz-transform: none; -webkit-transform: none; -ms-transform: none; transform: none; opacity: 1; }
+
+/*# sourceMappingURL=noscript.css.map */
