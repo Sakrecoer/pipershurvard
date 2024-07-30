@@ -1,9 +1,10 @@
 ---
 title: Microneedling, 60 min fr. 2050:-
 description: >-
-  I Cliniccare Premium väljer vi en utav premiumbehandlingar Microneedling eller
-  Magic Pot Deep Hydration. Här använder vi oss utav maskiner för att få ett mer
-  kraftfullt resultat. 
+  Microneedling stimulerar produktionen av kollagen, som avtar med ålder,
+  samt stimulerar cellförnyelsen. Genom att sätta igång kroppens egna
+  naturliga läkningsprocess återuppbygger huden sig själv till att bli
+  tåligare, mjukare, jämnare och få en tightare struktur än innan.
 image: /images/behandlingar/microneedling.jpg
 permalink:
 published: true
@@ -62,4 +63,4 @@ För optimal återfuktning använd Cliniccares specialanpassade [hemvårdsproduk
 * har svårinställd diabetes mellitus
 * har svår dermatit, psoriasis eller liknande
 * har aktiv papulopustular rosacea eller acne vulgaris
-* får antikoagulantia terapi, cellgiftsbehandling,strålbehandling,höga doser av kortikosteroider, orala retinoider
+* får antikoagulantia terapi, cellgiftsbehandling, strålbehandling, höga doser av kortikosteroider, orala retinoider

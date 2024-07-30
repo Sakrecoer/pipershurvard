@@ -11,8 +11,6 @@ published: true
 
 Kemisk Peeling anpassad efter hudtyp och hudtillstånd ink portömning med ultraljud och avslutande sheet-mask.
 
-#####
-
 ##### Pure Peel
 
 Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt blir tilltäppt och inflammerad. Innehåller även mjölksyra och glykolsyra som fungerar synergistiskt genom att stimulera cellförnyelse och hudföryngring. I behandlingen ingår portömning och mask.
@@ -32,16 +30,12 @@ Med en kombination av azelainsyra och salicylsyra passar detta en hud som lätt 
 * Grov konsistens, fina linjer och rynkor
 * Förstorade porer, fadd, matt hudfärg
 
-#####
-
 ##### Refresh Peel
 
 En peeling som verkar hudföryngrande och återfuktande.
 
 * Glykolsyra – den mest effektiva AHA på grund av de små molekylerna. Det exfolierar epidermis och hudtillväxt.
 * Kojic Acid – det minskar ansamlingar av melanin i olika typer av hyperpigmentering. Det hämmar tyrosinasaktiviteten och förhindrar produktionen av melanin.
-
-
 
 ##### **Glow Peel**
 
@@ -50,4 +44,4 @@ En peeling för dig med pigmenteringar och ojämn hudton.
 * Glykolsyra – den mest effektiva AHA syran. Det exfolierar epidermis och stimulerar epidermal tillväxt.
 * Mandelsyra – hämmar syntesen av melanin, exfolierar skonsamt, återfuktar och förbättrar epidermal täthet.
 * Kojic Acid – Hämmar aktiveteten av tyrosinas och därmed förhindrar produktionen av melanin.
-* Alpha-Arbutin – undertryckande av tyrosinas, förhindrar syntes av melanocyter och har en ljusare effekt på hude
+* Alpha-Arbutin – undertryckande av tyrosinas, förhindrar syntes av melanocyter och har en ljusare effekt på huden.
