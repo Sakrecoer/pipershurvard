@@ -23,7 +23,7 @@ logo: /siteicon.png
 description: >- # this means to ignore newlines until "baseurl:"
   Vi tror på att respektera huden och bygga upp den från grunden med hjälp utav aktiva, vårdande ingredienser, på försiktighet och tålamod. Vi förespråkar ett holistiskt synsätt på hälsa och vårt mål är att stärka våra kunders självkänsla.
 author:
-  name: 
+  name:
   email: pipershudvard@gmail.com
   twitter: PipersHudvard # twitter username without the @ symbol
 lang: sv_SE
@@ -47,14 +47,14 @@ pagination:
   enabled: true
 
 # Site Variables:
-boka: https://www.bokadirekt.se/places/pipersgatan-30-38891
+boka: https://www.bokadirekt.se/places/pipersgatan-30-38891?sr=F0800C42_DBC1_4FD7_B819_AC8B016CE7A1
 clinicare: https://www.beauty-bar.se/partner/pipers-hudvard/?ref=14
 victoria: https://www.victoriakliniken.com/boka-tid/#city=0&locations=5&activity=null&caregivers=26
 ref: '?ref=14'
 
 # collection
 collections:
-  behandlingar: 
+  behandlingar:
     output: true
   products:
     sort_by: "category"
@@ -63,9 +63,9 @@ collections:
 
 # defaults
 timezone: Europe/Stockholm
-permalink: /:categories/:title/ 
+permalink: /:categories/:title/
 defaults:
-  - 
+  -
     scope:
       path: ""
       type: "posts"
@@ -84,7 +84,7 @@ defaults:
           height: "480"
           resize_style: "contain"
           mime_type: "image/jpeg"
-  - 
+  -
     scope:
       path: ""
       types: "produkter"
@@ -109,11 +109,11 @@ defaults:
           height: "480"
           resize_style: "contain"
           mime_type: "image/jpeg"
-  - 
+  -
     scope:
       path: ""
       type: "behandlingar"
-    values: 
+    values:
       layout: "post"
       _options:
         content:
