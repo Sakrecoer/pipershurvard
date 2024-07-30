@@ -9,11 +9,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'jekyll', '4.3.1'
+gem 'jekyll', '4.3.3'
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag', '2.8.0'
   gem 'jekyll-sitemap', '1.4.0'
-  gem 'jekyll-last-modified-at','1.1.0'
+  gem 'jekyll-last-modified-at','1.3.2'
 end
 
