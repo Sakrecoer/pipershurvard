@@ -1,5 +1,5 @@
 ---
-title: Mesoduo Skinbooster, 60 min 1750:-
+title: Mesoduo Skinbooster
 description: "Mesoduo gör att vi mekaniskt kan slussa ner näringsämnen djupare i huden. Näringsämnena från serumet tas effektivt\_upp i huden\_och\_förstärker, vitaliserar och ger en otrolig fuktboost. Behandlingen reducerar\_uppkomsten av rynkor och åldersfläckar och\_kan\_även göras på gravida."
 image: /images/behandlingar/mesoduo2.jpg
 permalink:
@@ -15,9 +15,9 @@ Behöver du en riktigt fuktboost, då är detta behandlingen för dig! I behandl
 
 ##### **Add-ons:**
 
-* Fransfärg, 100:-
-* Brynfärg, inkl ansning, 100:-
-* Frans och brynfärg, inkl brynansning, 150:-
+* Fransfärg.
+* Brynfärg, inkl ansning.
+* Frans och brynfärg, inkl brynansning.
 
 ![](/images/behandlingar/mesoduo-1.jpg){: width="1024" height="747"}
 
@@ -42,3 +42,5 @@ Efter behandlingen kan du återgå till arbetet, träning eller andra aktivitete
 Den gör heller inte huden solkänslig vilket innebär att det går utmärkt att göra Mesoduo året runt.
 
 Huden ser mycket återfuktad ut och du får en fantastisk GLOW, den fungerar perfekt att göra innan en viktig tillställning.
+
+**Tryck på "Boka Nu" för att se aktuella priser.**

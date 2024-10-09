@@ -1,5 +1,5 @@
 ---
-title: Cliniccare Peel, 60 min 1450:-
+title: Cliniccare Peel
 description: >-
   Kemisk Peeling anpassad efter hudtyp och hudtillstånd ink portömning med
   ultraljud och avslutande sheet-mask.
@@ -7,7 +7,7 @@ image: /uploads/pure-peel.png
 permalink:
 published: true
 ---
-#### Cliniccare Peel, 60 min 1450:-
+#### Cliniccare Peel
 
 Kemisk Peeling anpassad efter hudtyp och hudtillstånd ink portömning med ultraljud och avslutande sheet-mask.
 
@@ -45,3 +45,5 @@ En peeling för dig med pigmenteringar och ojämn hudton.
 * Mandelsyra – hämmar syntesen av melanin, exfolierar skonsamt, återfuktar och förbättrar epidermal täthet.
 * Kojic Acid – Hämmar aktiveteten av tyrosinas och därmed förhindrar produktionen av melanin.
 * Alpha-Arbutin – undertryckande av tyrosinas, förhindrar syntes av melanocyter och har en ljusare effekt på huden.
+
+**Tryck på "Boka Nu" för att se aktuella priser.**

@@ -1,14 +1,14 @@
 ---
-title: Basic Care, 60 min 1250:-
+title: Basic Care
 description: En klassisk ansiktsbehandling med portömning, massage och mask.
 image: /images/behandlingar/photo-2020-05-09-17-53-3.jpg
 permalink:
 published: true
 ---
-#### Basic Care, 60min 1250:-
+#### Basic Care
 
 En klassisk ansiktsbehandling med portömning, massage och mask.
 
 Behandlingen innehåller rengöring, peeling, ansiktsmassage, portömning med ultraljud, och avslutande mask anpassad efter hudtyp och tillstånd..
 
-Färgning av fransar och bryn kan läggas till för bara 150:-
+**Tryck på "Boka Nu" för att se aktuella priser.**

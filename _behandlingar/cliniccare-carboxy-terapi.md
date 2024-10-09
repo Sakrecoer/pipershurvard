@@ -1,5 +1,5 @@
 ---
-title: Cliniccare Carboxy Terapi, 60 min 1450:-
+title: Cliniccare Carboxy Terapi
 description: >
   Vid behandling med koldioxid ökar cirkulationen och vävnaden får ökad närings-
   och syretillförsel, detta stimulerar i sin tur kollagen och
@@ -9,7 +9,7 @@ image: /uploads/carboxy-treatment.jpg
 permalink:
 published: true
 ---
-#### Cliniccare Carboxy Terapi, 60 min 1450:-
+#### Cliniccare Carboxy Terapi
 
 Koldioxidterapi som inom skönhetsbranchen blivid kallad Carboxytherapy, brukar också ibland kallas för "mirakelgasen". Den används mycket framgångsrikt i olika behandlingsrutiner för kollagen- och elastinstimulering, vid vävnadsåtstramning samt vid reducering av pigmenteringar och mörka områden kring ögonen.
 
@@ -21,6 +21,8 @@ Under en behandling Cliniccare Carboxy Terapi tillförs koldioxid via en gele oc
 
 ##### Add-ons:
 
-* Fransfärg, 100:-
-* Brynfärg, inkl ansning, 100:-
-* Frans och brynfärg, inkl brynansning, 150:-
+* Fransfärg.
+* Brynfärg, inkl ansning.
+* Frans och brynfärg, inkl brynansning.
+
+**Tryck på "Boka Nu" för att se aktuella priser.**

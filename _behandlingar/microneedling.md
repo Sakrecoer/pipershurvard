@@ -1,5 +1,5 @@
 ---
-title: Microneedling, 60 min fr. 2050:-
+title: Microneedling
 description: >-
   Microneedling stimulerar produktionen av kollagen, som avtar med ålder,
   samt stimulerar cellförnyelsen. Genom att sätta igång kroppens egna
@@ -9,14 +9,11 @@ image: /images/behandlingar/microneedling.jpg
 permalink:
 published: true
 ---
-### Microneedling, 60 min fr. 2050:-
+### Microneedling
 
 Denna behandling innefattar rengöring, peeling, microneedlingbehandling av ansikte i kombination med anpassad vial/serum. Behandlingen avslutas med en lugnande och återfuktande sheet-mask samt eftervårdskräm.
 
 ##### Add-ons
-
-* Microneedling av hals, 200:-
-* Microneedling av hals och dekolletage, 400:-
 
 Microneedling stimulerar produktionen av kollagen, som avtar med ålder, samt stimulerar cellförnyelsen. Genom att sätta igång kroppens egna naturliga läkningsprocess återuppbygger huden sig själv till att bli tåligare, mjukare, jämnare och få en tightare struktur än innan.
 
@@ -64,3 +61,5 @@ För optimal återfuktning använd Cliniccares specialanpassade [hemvårdsproduk
 * har svår dermatit, psoriasis eller liknande
 * har aktiv papulopustular rosacea eller acne vulgaris
 * får antikoagulantia terapi, cellgiftsbehandling, strålbehandling, höga doser av kortikosteroider, orala retinoider
+
+**Tryck på "Boka Nu" för att se aktuella priser.**
